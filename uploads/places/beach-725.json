@@ -1,0 +1,318 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.202183,
+               "lng" : 72.83226599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20353282989272,
+                  "lng" : 72.83361582989271
+               },
+               "southwest" : {
+                  "lat" : 21.20083317010728,
+                  "lng" : 72.83091617010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17bf1dacba9fbd0666928a36a38ac8bb739c7179",
+         "name" : "Beach Ladies Tailors",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 481,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105198087276375709482/photos\"\u003eJaimin Topiwala\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMkfUE3IOrHPybJRBL3Vtf_iqHUHED5HqG4IioH0T5dK_XDXjhEk4PM0OkB20t7qhaxSzSlgeTLly3Uvjiqq9APY-YYHcNtRQOV144-Vn7mtP4lWE2hMjo1CxJMfx-WFqEhCuDzgA0UAf3WzxGYx36TS5GhQThsvvy_pkXo7CoOI1F40mB89hog",
+               "width" : 633
+            }
+         ],
+         "place_id" : "ChIJieEeuPVO4DsRLPrBPDkVhSs",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAepxRqvYQm2XTtR-ZmWiNYsRgKSWolVCz0sMSWORZz23C12BC-ZlX34U1JzlgXfPJoaqGeeMXX0v9ZflOBec1CrK8ssId0qHUDKwn0MzeneDIz9j5lVCQ5o_LkwiG4fdnEhAgou2pPHU9sLpxkVFINWK3GhQ5PstafigfJytr2r6oy2H2CKFaCA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "5/1140, Chanda Bhavan, Taratiya Hanuman Road, Mahidharpura, Haripura, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1706218,
+               "lng" : 72.82721309999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17196307989272,
+                  "lng" : 72.82844757989271
+               },
+               "southwest" : {
+                  "lat" : 21.16926342010728,
+                  "lng" : 72.82574792010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2fc5549d23f01f0db4aeb978d1b2702e6624550e",
+         "name" : "BALMUKUND ENTERPRISE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104796444689998379591/photos\"\u003eBalmukund Enterprise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARRzxzRmFa1UJ6Lp-6XQNEt_FxUcEI7g0LSKV6Uld8b0JUGE9ZbPY88XMasYipc-DSGMEHOysndWWO9zX8Im9ARvO6Sf4oWTfJEGJGzbZTCFaWI7GEIPIP5RKTmjfoPOhEhBQ5HI9cjrlknGBJlS3W8TsGhQU7jic5RskdhUTKyDsZU88K97m0A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHRPvBxZO4DsRMtch6F4EVfI",
+         "reference" : "CmRbAAAAF-if4vzVQk_KDMIzLzbaHPBWpDVU4_F6xigoaUigHWQCXmkDD0D4WnO7n7OYZid7tiJ2Mj-KIxzxOJZ1O_i7aD0HO4RbNamjmpZooIyYpeHpoJ-oAq8KtLeED4HLbiEZEhBCTPUz6QXDyMqSWcDhTEBZGhR2jvauBlJ1QDHtorTgiO3rLg6nRg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "103, Bhatiya Complex, Bamroli Rd, Near Sosyo Circle, Laxmi Nagar, Udhna, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.205665,
+               "lng" : 72.8385983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20701482989272,
+                  "lng" : 72.83994812989273
+               },
+               "southwest" : {
+                  "lat" : 21.20431517010728,
+                  "lng" : 72.83724847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "644fcec4f587c8ae1f29bbb91edc71376a261ba2",
+         "name" : "Best Western Yuvraj",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1228,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113150401715674431669/photos\"\u003eBest Western Yuvraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACVP1AAZ_ZujWOOTzo0FzDgUk50vPNtJCg1fnUChM9hCO42fBJ6J1DVSYqG36kF93DiO2PYJQJpuJ8_CJTl5ta4n0bZ2WEoqxlkEkp5Wi-tJV_iW3vVBSi1P6iR9OuAhXEhDKbDpRnYYu2z0884wWuPKPGhR-1Hv0i2EABsjrmIBAdu9TeriOIQ",
+               "width" : 1228
+            }
+         ],
+         "place_id" : "ChIJR3Zuw_lO4DsR1NF1MzUnPyQ",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAAl9OsMA9YbgccY1SyNtyGDbzxOdE66CuS-eIfEoZPQqf3EsDTOcD-W_o745m-77iwYa2B_Sw9UhFiPM4-QMFPCnkd6Dznma3C1FsTiRrmf0EY3YLOPXnT2CbA0rawjKQMEhDIB0RAJ70nGKolW_7-V23SGhTzW15bIRsAq3fEB4q0DHPcGjbZqA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Gulam Baba Mill Compound, Lal Darwaja Flyover, Railway Station Area, Varachha, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.194775,
+               "lng" : 72.81981800000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19612482989272,
+                  "lng" : 72.82116782989273
+               },
+               "southwest" : {
+                  "lat" : 21.19342517010728,
+                  "lng" : 72.81846817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "41d5750245101903e339e2554a9990c6989d8710",
+         "name" : "Jimmy",
+         "place_id" : "ChIJKxxWu2NO4DsRL4gS9PZJKDM",
+         "reference" : "CmRbAAAAod-Ki5Djt-gDmH_YPjrBYt5COWjC4hN9jz0RsA27llTULQI5v9pd-rhMALREBJHKC9iiR5mMhun5D5uFAPA9vZKZe_xaqp-ZP5cbTD47RXIvsip7n8E1Mx240oD68yjeEhDFKSl0tOFKG2R6lh4NUge-GhSqi3vakb8wr6kbG6SSNxTALlRvmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "S-2,khurana tower,adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1750132,
+               "lng" : 72.8032643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17629467989272,
+                  "lng" : 72.80462162989272
+               },
+               "southwest" : {
+                  "lat" : 21.17359502010728,
+                  "lng" : 72.80192197010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c5d636dfc7de8393abb1a6beb41bbe8be19829be",
+         "name" : "Jimmy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJywrepWNO4DsR2703Fu_oXm4",
+         "reference" : "CmRbAAAA-YEF-pQvnyGFuISUpQUdqK7ZFatQQqk3qgCXKCCWXERKDFuLcj_y9HGN5pJZyz7G_Gpr-scGHPVy9H27f5sWix-oZ_ZbFvdIN-Q4eHejDGhhQHIdhttJW1TGGZg0zUt1EhDMymfEgY6uVfiycVNsmoyCGhS5qqVOV7SE02Ks5dbmTMvp4znH4w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No. 8, Abhinandan A/C Market, Ghod Dod Rd, Athwalines, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1971873,
+               "lng" : 72.82267949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19869142989272,
+                  "lng" : 72.82401972989273
+               },
+               "southwest" : {
+                  "lat" : 21.19599177010728,
+                  "lng" : 72.82132007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f0a3eddda727740f5b1338efefdd9f9720fe6ada",
+         "name" : "City Centre Market",
+         "place_id" : "ChIJj-URjmFO4DsRkV98_cDW7xY",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAApayk5fpq_U-kX0s5ViVE5JZvf7Wuje6lrDQfREYD0aDG5f-a36V2E4upxeCsfezB0syiFxTzOyzGZCAqgemHXJEelKvESiOsD2CUmbKtJEr-4jlf95LW1HdGG1_Il4FeEhAU9VTxg4567DvM0_-AkbEZGhRZp1B7TJaX3fkMebhTbJ-6hvrKlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "10/25/02, Chowk Bazar Rd, Chowk Bazar, Gopipura, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1871237,
+               "lng" : 72.79449219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18847352989273,
+                  "lng" : 72.79584202989273
+               },
+               "southwest" : {
+                  "lat" : 21.18577387010728,
+                  "lng" : 72.79314237010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "79538175feff57d70662564434cc74ada702412c",
+         "name" : "THE BROKEN EGG",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111749299687097048484/photos\"\u003edipak polekar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaHgkP8206frVIU94A-IqfgO7sOMkwae_wC8XBuM7hJmHr3_bA8bc2FBVb6gz7jKMDINh8MN0R1VYCxMHX6F4pvTitlVSnWMY3hgxbQ62z4uddebrf7deIdFyfaUXuyHTEhBiLDNrFzDXHipUf0x0G4i4GhRz3w0q15GMyJXL8EUm2Yx1TqwWQQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJFy0tTNBN4DsRuhDw-NRCe6s",
+         "reference" : "CmRbAAAADtEsUR3L59z1Y5K1eP7SNHjmuHrGTTxxFXY_8aHX3RXfYUmrZyrLVj3aWzY2mXeZoJiL84ekzZifgJCkVUGgE0efFzud6miER9en7WEGPXjbfvP8XaRAGmJ-TPd6SjoHEhBHM5cwCtO4HaYDKSEyMBB6GhT4oyrJJqnwsgIFM6gJFgeJjDZtMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "F-15, Aalishan Anclave, Opposite Star Bazar, Adajan, Hazira Rd, Maher Nager, Guru Ram Pavan Bhumi, Adajan Gam, Adajan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1994886,
+               "lng" : 72.8051277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20083842989272,
+                  "lng" : 72.80647752989273
+               },
+               "southwest" : {
+                  "lat" : 21.19813877010728,
+                  "lng" : 72.80377787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "412647fee2051192eb2036f34ac29ba98a9d70ba",
+         "name" : "Leela Stores",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103420356926538557189/photos\"\u003eLeela Stores\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOnajhlrx3nxb17mS-MkzV8IeLKw5KWqOZiWYhLyRSd2GKQ06t4T9PKWCnpGXeDhg2Wce8zHullBij7sttGsCHFxZMnfDxnj6pMfedqrs9NBc4t5EU10TwghW2b1hy1rJEhDcu8L6cg87GWfFDQkoGFHHGhQhyQEBcJH5yO9_PoQoiQBLuhtDwA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJPetGMIBO4DsR5okC_T6IvSQ",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAAxm8yKxckSZf_NbjomNjGQyM2qdLCa7tEbbvp7Qm-nMjUW0fWFFSeHUKR27CnIcM63RjTcStRgk-XaUVXh626bKYNzB1sFtnTPwpBJjmz-ecHfqTk1wgMiH4N9CchcmOEhCOBsjEFN9dJEzH8fGxkDn3GhRpT3mmY6tlLEwJ7QT38RUgXKyVHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2, Ratan Park Apartment, Rander Rd, Sugam Society, Adajan Patiya, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1550053,
+               "lng" : 72.7666641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.15635512989272,
+                  "lng" : 72.76801392989273
+               },
+               "southwest" : {
+                  "lat" : 21.15365547010728,
+                  "lng" : 72.76531427010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "63fc4660160e60ce655b821ebaa15b36db72611e",
+         "name" : "Mahindra Holidays & Resorts India Ltd.",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJH2ZSpYVN4DsRoTJ2lzc8dZM",
+         "rating" : 2.2,
+         "reference" : "CmRbAAAA2-Hy5a6p3s-jzc_B_l3U-qrrFzPqc63iVS_s65unqG3g3439H79aNo-Cw6NQX0_dpylDDY1PEUmB8DjikJDJqiv1Mu-ZhCwLKMv9Lls7xhIuQ35xbuVq1ZfE73QhA3ePEhAY0Qj4tTDGAsTIzQLsXZJmGhRn-e5F6CkoabLf-7fqbr2rb1Q3_g",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "308, 3rd Floor, Rahul Raj Mall, Dumas Road, Surat"
+      }
+   ],
+   "status" : "OK"
+}

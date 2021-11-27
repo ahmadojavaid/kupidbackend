@@ -1,0 +1,834 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5QEAANqUOa625zd3OinK3KlJ0UKJ0GGmWMft5_g49AQXew7cyVpJT323kEJOKgeWi_7bdqCJLpHKXEjgK_7Z6LNN5lLxE6bBopWazsu-8WghDbCnTb-CCFxa7oRpavi4pUjy2RZ808b5ZY_IqoRaG4lpG18yaIOBhTkMYy1ijjmsG6EbeUYbZMZWqPNHA75XlcmmWvQfRvl4pBYz3cgts2EURvn3h6K43LdaaXNCr62GqCUad8je9nnkDelXWVi3l63NedtWAvuIxTvemVKz_4_-lXAv9-zmSlChfLOOrkJlkIqJM_vMhUe6rTX6aAG0zvZgXFxxBe6MEhRp1joeFeRyTgeKea3CZ4eLII1n6MV41YjZ6viWMn1KeAGUAM34f7mwMe6iJmc_hd5nk5DNtDrlmMqVIXk7nMEC0zCgY4s_TMXwGyuXU3WSPKKDzYzlAA0WhTJEE8-l9DEqw28mxLlRV6hZCQrAwxD5hb0MgqiZBpRbM1HkEmj7-QP9j_UJf9QXLaZZqFlZn8vhO4rCnel8Ky-Q8QLaziQrG0mYftl9qYud3q0ufWaSUeJYsB2O_LHLjnHbCbtvWHz38MJa2qW6D7QYm8CySOd_rXqWOuI839tasBvKpLZ6GvJ-2SCKR6jukTdYM74BN24WaqRkKdMjMBkSEBPKZqoc-p2Tz35Vs2UpN1YaFFbBHFQ5kJv54Fp21XIZ2prLYrZZ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5131358,
+               "lng" : -0.1309251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51457467989272,
+                  "lng" : -0.1295800201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51187502010728,
+                  "lng" : -0.1322796798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6e49e8f1159cafc17a565467fede2c366354b2f1",
+         "name" : "Bar Soho",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109334677448587262825/photos\"\u003eBar Soho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdfd5nff0uN28GgxFwqU7qGnGZ6DXCrLzJ7QulhWJxruwlL1KN1VZXo2uo2WupGLfGmgbCGWzbKkbbuivAaJWqkR18AiGIclO25tib49BYr4p0U6GvlUGTz9-50mMhVTLEhDLnGypGsRRgBD78EcsupoyGhRiX0zfXW2KH3Ts9omkzTj4rWcTkg",
+               "width" : 1404
+            }
+         ],
+         "place_id" : "ChIJhQm0yNIEdkgRC4bXiV3RvY4",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAAFBhiMT0vbZLC7pSKSggcOQX-TYmliS96p4dulrwJKMXQYVctY_doJbUmvMdYR1LFpn9cYC-dtnZFeKWQM8y50sYVmS1nlI-OuoHhyEiMel8pLBKJJcnQ7cOpvguTzliIEhDIA_boDnfuUWk1uFYnhi6dGhQVDtCaea_QD-0ba14gUcwDI0LcDw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "23-25 Old Compton St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.512518,
+               "lng" : -0.133377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51391377989273,
+                  "lng" : -0.1320327201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51121412010728,
+                  "lng" : -0.1347323798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "36697fbd9e46e72f2ce92c494e4935036030040c",
+         "name" : "The O Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1901,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100620044234535365401/photos\"\u003eThe O Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4A0JKcvIRp6mNPRZnd3143BOXMHASuNSgNo76enWIykzzxTSqp8hy9H2qSYwlKsKCF7Im6HAX5GNsB0gFNbzOhWIecMTUTwAIqo3zJt5nR8VjzyuL1aKPdTOby50fp9oEhBmqzae5ScBQJblDOaK3q2PGhQWbUP7Hx19mm3pz0Adh0TjDfttkQ",
+               "width" : 3163
+            }
+         ],
+         "place_id" : "ChIJM0X4CtMEdkgRpKQprzgkvwI",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAA3MwvnZeiMK_tVCQHWrC8dF-Fd3LsDDfbi8JYRkDAAHYl4zKf-GdEtGXjXA1Ek-X5xLsaBXmAQhzdzDpM3dP55p3s_m0njzFAn10-lSTVAdvWcJjSOUetnODI92H96Q1sEhBT3IMoGomS61RGPSDheSsfGhSd6OYctVXXwpuAvMUvzjj_6uFmIA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "83-85 Wardour St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5015463,
+               "lng" : -0.1619006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50297367989272,
+                  "lng" : -0.1606301701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50027402010728,
+                  "lng" : -0.1633298298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e365b65e94f490a44845407931b38ec6d9019a81",
+         "name" : "Buddha-Bar London",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106401653831718963022/photos\"\u003eiulian sandu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQLtPJn2P32Bvl-FVP26ndpu7QwJEFk0el1kXQ4mgTg3OuFmHEsaamayxwOBCRlAmgcu6RYQIYLcvEwmYL6zlOW1fevWqlPk4KWjYS1nQ2K04w_itc6M94rufcd-JKSfVEhB34rv1ahJcCNqsjgt8l5-PGhT2dGmBi8bYo5fAvl0iSV6_o1RXpA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRcNU-DgFdkgR7HboK6X8cmc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAhjpc82q7nERPfti4HeJ6v-goMv09lFQwCVoc1Fu6OP37QA6paWQsWkND6EgTrGupzGC4sjbYAzgpYnQJs1Ect1rvVp4Y1MPzuLOBJjlUndB3e_GosRxfGurXVkuCr_t7EhDXzYi6PJjim1-ybi96rleDGhTp1vfSALEvRxJHFCTgPEUAv03xfg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bar",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "145 Knightsbridge, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51314070000001,
+               "lng" : -0.1249433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51448587989272,
+                  "lng" : -0.1236896201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51178622010728,
+                  "lng" : -0.1263892798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "36bfb7784b07b0f125786ea325d8bc3f95f8b102",
+         "name" : "Foundation Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 883,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107199893164651609151/photos\"\u003eFoundation Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMvttp2hzY0ynrE5Zd_2CLI_wGCcBkXgqzyEUaNUZ0yElWyQ_w5f8gx69OzqGVkD8j0cD8BA3grFycC-VXoTEheSG0ejtzy0uHJnpip1ta4z9FP2tJWowWFePVYq5sAgJEhC0nNz-eC2D-QFGGMw-ZXUAGhQzlqxtiNN8zwdzTiv-O-vcNSrnKw",
+               "width" : 1325
+            }
+         ],
+         "place_id" : "ChIJSSrI7cwEdkgRqBDIko6Q3Ng",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAAcsr2zBqd4hWHD5beqQCPnkpC9qYmm9vBDtLHTwIH42xrFw6YNR8Jl7n6LFNCO9yh2Uokhhzzn3qf-PuxgmdRdulF7hhjxc6yrCBlVPrUZ4xJKKGB-a_OdWg6RKY9mHdREhBEo8u9v64T1oU6fiWCa3M0GhTlcapUdDcfiuFpxdFz9JuRR-CDrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "5 Langley St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5100571,
+               "lng" : -0.1497074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51144257989272,
+                  "lng" : -0.1482217701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50874292010728,
+                  "lng" : -0.1509214298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f1c8cdb5cca0335d6512fd0c2030345e34b5b23a",
+         "name" : "Connaught Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115632531834272029856/photos\"\u003eGraham Knopp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN9g42FN8oLcyTnmXhxjvmZx2_tBQ_ZIm0P0fRXAWA-ltVuj22g4ZOPBr6ttdGYVAfKHhNFxusxvzLyNlWXTyD-H3FV72ByS84jD1GHC7uLEGdhR3gBn4GoPPRmSrxsTBEhCQnsaeWSqLaUJeoFNTmSu7GhTqL0byCfnIGiKnimFm9gVNhoLBBw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ0aqjLCwFdkgRsvmYeG290jE",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAArtou9CV6xaBl7abYL3bTZ2ci-2zIm5ulj-D6w_0GZGNTp9VTnbM7aNhwsfEfHGBFPUdg9aD7kGsazAbph1FE-acFUuuvSbf4-qnytHvshtmdhPRzA8VEBlwkaX70TBV7EhDMSnVkGzFvpUw54vSvNZKnGhRPFDQM1Co8SdX1Wp_DDHVzlQ-cRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Connaught, Carlos Pl, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5027459,
+               "lng" : -0.1174368
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50417317989272,
+                  "lng" : -0.1160440701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50147352010728,
+                  "lng" : -0.1187437298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2eab555530b1e908eb65b5807f817df4a527f3d8",
+         "name" : "All Bar One Waterloo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116962843844916850604/photos\"\u003eAll Bar One Waterloo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXrVBsU7mZ3Cgvwe0vFrFx-CSEOm12p7S0N6n1zelqJR6UZauT-tIDsGaouhVekjTXb-BCFZDVLwN7Tq_kBs21T157YHqlj3I_H8gutN3lLeAc3zzgSnZ0fbBdC-FRqyjEhA0gkppJhJks7IKzdJS9RMyGhTUbiQnSsbuFVLnIMwzEUOWj9swYg",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJcXM-cLgEdkgR3qLu5MK6oE8",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAA_x3LXX0_XkeuYnlQGGKgkq6Yi6z95AYubfYU7eQRZ8ff2EyH5-QUXuBI3msAF4i1Byq50smBPWuUx--k-WrVh4yHfBDXMsjbxkAEcH11zDgY6zXrgsbw-E0lJOem2Ys4EhDS9d6QzjyNwXuvmwHVEuAFGhTd-iEhhAqdHSgWNYi6gqA3Lm9vEA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1-3 Chicheley St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51654449999999,
+               "lng" : -0.142773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51787017989272,
+                  "lng" : -0.1412942201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51517052010727,
+                  "lng" : -0.1439938798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d6b48ddaf922c48c9cd234c2ba99f35587872e24",
+         "name" : "All Bar One Regent Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104593667918684395204/photos\"\u003eDerrick Pereira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAki7Dcinn4UnKBXo0fGntzgUA_pzeON1JO8bCrqMbbJRMWfFzp4f_4Lgli6x5yDqP71DXgTUW9iopOkzJSj5jzxpSqCDB9saFtCmZtO3UQoB25fnSKQMliDzQmknlfvkuEhA9evEGwzIyca4JlOhgKeQkGhTSwArT_xbCdNdMQOVz4Il0FWLQpw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJE9UcFNUadkgRgOk6WsQ4U7w",
+         "rating" : 3.6,
+         "reference" : "CmRbAAAA5cBu00EU-MvR6Gs-0ROW5EzXEAmn7MTmMlN5N-Yd46hUqgaTdWoBdluU6faoRwr4DyCveV5y5uRgwE1WxdSyJgy4MV2_aqP1HLrM93Sq2zBNKNXq8vkYGqVhGmIV0rjWEhDTCnIZoOjg3-vKCydRQrI6GhRafvm-l3ZcqL6VmpypHJOPgyyC1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "289-293 Regent St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5101022,
+               "lng" : -0.130624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51146482989272,
+                  "lng" : -0.1292297201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50876517010727,
+                  "lng" : -0.1319293798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "14f88654b8978aedd59f92806e5782350baf0e47",
+         "name" : "All Bar One Leicester Square",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4117,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111699966521612403188/photos\"\u003eAll Bar One\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQqD004aB28dwxe1lPK1rC1ZQiRm2nMs1b-QJHjUwcki9fwvXkaJx6eruAzstoNgn4cjuax6fquo9ye1ubN6l1KRmcqjl-V5Usuvffem1dqQO-cekuDiB1uqNvF6jxWLrEhDGUPLQTewA8zZmsHwsNXXVGhSAZRws5eOFvXUD-oOd4glmf7yadQ",
+               "width" : 7360
+            }
+         ],
+         "place_id" : "ChIJl3W9ItIEdkgRknJZX9c147M",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAAFeikcHHQho0dzjmGuF-TeM9rWMcpMn-XzVv4plcMoPQscfisPHaT1va_dhjQ2e_TaxGwdHojEGRDtMjyNRbLe1IzlKQQeReztrAGDKxT7ORztIrs7Gp-kQFMihU-aDl7EhAJ4b1M32MhAHbds78ycSL9GhQYqzBDWQ5HbebZ0zZVAFA3WdBJsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "48 Leicester Square, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50794399999999,
+               "lng" : -0.123314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50925737989272,
+                  "lng" : -0.1220093201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50655772010727,
+                  "lng" : -0.1247089798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2cd3608c5a0c4eeef4f6d62210abc9acc3541646",
+         "name" : "Gordon's Wine Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112304790404182780410/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARmAwWX16rOxUvmTYAs4WL2rcIT_8q_xeqCzI1cgO-nB136yg7KCqVJjmk17o_vm7uCsdtsjM9qF3tPURPStf3kUzi5tKpQU4X__4XPZ5baclXNejgSh_RLGa2FZxkacIEhCDNMLqA22WXltFL3lqdsRQGhSzK92fPsRkHkI5B7thdMsiZuSavw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJSWvAzM4EdkgRaZcCMhRbk0Q",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAwEw9hhK7VcrOXu85oq1xmNm7ui6YszDgCroWJ2y-6IG-YdErkRQL1EsqMJRZmOCFw36Zm9yK0vtq6SQaD7IHtl7YGjZc-EaS9jkNQGW8V2OjKqIfR2AOV30jcdXe9Bx8EhBMkbWaH_PM2rg1WKPvTNqPGhQ6aVxT55p9vOrNTZCpmKnnpaL8-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "47 Villiers St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5198036,
+               "lng" : -0.07942059999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52115342989271,
+                  "lng" : -0.07807077010727775
+               },
+               "southwest" : {
+                  "lat" : 51.51845377010727,
+                  "lng" : -0.08077042989272219
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b63beb86329b3f628c1b50f69427f1e930fd6a0f",
+         "name" : "All Bar One Bishopsgate",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3337,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108638264611946527736/photos\"\u003eAll Bar One\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-wzZNO_I5-J7gSOWUwWnnsSG_LwOCu6LL2cUjSc8n5E0fhyauTLXabAKRHkwTjFZJJPbeLyOmc2GLhLjGNN4OGkPGkECVkyzrcE20iRMS4Rjl2mtHh5AQ_RN52mu6kt1EhApmZkS_T3Fik_EpNhA1fXlGhSREmmGGC58Ij_fPG6gLnm-YPrdLA",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJYQD7SLIcdkgR4BJR4vwDAOg",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAA3zXmumDQp8oidfQBNAaDU0nSr5h1x9Jnh7T0SLaBwHlsJUQ2XqRoFFaKFvkW_KuWBadUyNPRZ0oAZsWm53amz7kCc2SFuRbjgQVtPJ0ys0fa7hR7fhmQIvFI8vPvGKZyEhD-bXu94N5CjJZOcE2cbv7oGhTesnQLOE54_sMbrj2ZDlu9qT5GBA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bishopsgate Arcade, 175 Bishopsgate, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51109899999999,
+               "lng" : -0.083879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51244882989272,
+                  "lng" : -0.08252917010727777
+               },
+               "southwest" : {
+                  "lat" : 51.50974917010728,
+                  "lng" : -0.08522882989272219
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4ba22612d7e075e3031df0737bb8c12d33f76939",
+         "name" : "Sky Pod Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2168,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104670737588913705926/photos\"\u003eSebastian Di Grillo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwJgGpGzRigZAL9fKPZk5UXjMh6RaBarU-yf4vfVMsbPH5B4J2z54osYNrh5OoLAGZe7K9X1IYuFdZk37Ta9y8rr-UxMn1c1Jvjja54XQitsY8IFcPqfApFPgyNlaKPiPEhDGcbae6-pYhJ4b1fQQmOQYGhQxvFXni8y0kMTZtU_Dw7hNz9vfuw",
+               "width" : 3824
+            }
+         ],
+         "place_id" : "ChIJO_02aFIDdkgR91mn0E9GejU",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAutw4j0IfTg1FBcHSq3X8dLpyaq8jcZO8vGMdVkJAPGqihqLE3AMeVAagc2U7X_92ZJeS01O1w8uwtzloVGT8TgdiuDXmmideKjB7RRhDhhfuijqr60amB5iPybcNVftwEhDhK9-4vxBXpmaq1EFogTA1GhQ_uizfFCiIxh_mLHaq_iAAMzJC3g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Sky Garden, 1 Sky Garden Walk, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.49751269999999,
+               "lng" : -0.1368916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49876632989272,
+                  "lng" : -0.1355052201072778
+               },
+               "southwest" : {
+                  "lat" : 51.49606667010728,
+                  "lng" : -0.1382048798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b2806e3eb39cd519abc02b723faf24ad57fd8a92",
+         "name" : "All Bar One Victoria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3337,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101122924153622600708/photos\"\u003eAll Bar One Victoria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_nWrxwwFY_vwBbdMO303Z_dCNnj7cME53JMQsTkFVzIlPSSx-wY8DIbV45PgO1LqncTGiZLCidGP89RC5AWjjP_JK8IQIQQahC__2F6kj3m7Qwd230YeFJW8ILNBP3l-EhDt2vg-EcGsmaYGZdn_67pWGhSF7saywKR9cVamabbC7cazq8r4KQ",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJG2dllt4EdkgRtdsI_BITgpo",
+         "rating" : 3.6,
+         "reference" : "CmRbAAAALkbMFZN9nxMo5d1cpgvbMfUxhx81w73ixN52O3SoCsRvfGJ4hrBPliB9WjsfcATMNk8SH7gWz4AnG-94l-mwh_xvIrkfwaZlqSrrfNcrnl_2tweDCHgkB9-cTq3T0L0PEhAvCuY25MU3ANurqMpwQQfWGhRoj8cqjxwM7H0N_TDIZIySsqIY_A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "58 Victoria St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5001875,
+               "lng" : -0.0762606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50157242989272,
+                  "lng" : -0.07486677010727777
+               },
+               "southwest" : {
+                  "lat" : 51.49887277010728,
+                  "lng" : -0.07756642989272221
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d946e98bff7d2026c2c677ac3af354e0abcc7f42",
+         "name" : "The Doodle Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109387008281562768037/photos\"\u003eThe Doodle Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOG6ES15OrSm9djdWhYpNQYJocyqGcoBK7OBRKG_x4ma6f4CJd7fMKEIUfUlDa27VQ3i8-rol3Fq1l2phSvaCNeuOoWI9YljTwniRD6clycHSxSivy6Q9HEl6C-x8N1CuEhAE_eWqHsmagjdTgDxpYrfpGhSOv8FsSZ1wJrMsz63rxgr8ni_3zQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJScAqkHMFdkgRUzas6dSHSxM",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAALgu92baTkrWoRSfCUJ1Bo2mhWiFiVcTdA6QpzFF345tuOKU71_wbtJQUQWP2drrC-I9vO2cAh3Bu8-E5AR3Pv5HhVyukqETsgWr1Hp6VNFjcn2LhqOeaFPympMLP29XoEhDGUfKqIXTqQKA43M-wUd8rGhT0_I3EQfr85-TlIZfYIk1_Vzfk8Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "art_gallery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "60 Druid St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5446501,
+               "lng" : -0.07578499999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54600557989272,
+                  "lng" : -0.07453552010727778
+               },
+               "southwest" : {
+                  "lat" : 51.54330592010728,
+                  "lng" : -0.07723517989272222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5f079773b1e7d8cbe4979937d15b17da310f8efa",
+         "name" : "Untitled Restaurant and Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106653915766133740130/photos\"\u003ejorgezaida\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6Rue8LoGniUAkFQAIZqeweAq-krH2czTGiIaj-fiKEPsDVu0Cg-1yLlI_GOiimEcq64cawWmoA-FzxTdCfnfoP22HgW3A7-u9zt1hi86Jw7G2WF8_Y1Ic4zFojLuVaTjEhAtIFMibOrVXb2BS4lSezAnGhR1mzsWv-J2km_Ec637I4OMDWMrjg",
+               "width" : 1540
+            }
+         ],
+         "place_id" : "ChIJwWESJZIcdkgR6GNKP6DPq9Y",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAFdqogH_ufkCURDffLrB68vnHOxSaF-DhnmN9r2WYTBUz1LzkP3UjnNNEPxZiItbwKL7jkYqNnQvvH-ZMfkoW9_zrZ6Uo5AMmd3_Er-7z9d8gulLIrqQxhckLOB7z2EQiEhCLx07tyy3exaGFbIYtLsH3GhThHWYaQollJY3j9ALwzhCuChAkrA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "538 Kingsland Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.510606,
+               "lng" : -0.135595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51196532989273,
+                  "lng" : -0.1342256201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50926567010729,
+                  "lng" : -0.1369252798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2a0beaf4341b5c455af079d5f234bd6cccbe84f8",
+         "name" : "Bar Américain",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101940015909076243641/photos\"\u003eBar Américain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ6EcWtvs-bI1B2886W3-XO9np2yxnAyMFCzE91UQiK4fHMmn7Uhsoo_MIwhW6hY2OBjl1U_TpHGIeQApH5VkX_xMC2Y0xrtVzOVaCh5ZPivswe_XrmFm8PQ5AGAs3YneEhAv-4ke_Es5Omf_ooyHkFudGhTpNv14euwQTadTiJg95KhXTN8hHA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-z-BbNQEdkgRuyoew25dAFI",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAFN9t8Ed6qK2F1x5oJ6yJBdn9TwLm70OaTdcV-WnqQd5fSviuKKJ55vgZqB7JW8khwR2fxR_A6kJrSivwJdacHP5jVdaGMxU1kjOdMYGiag7naUJ68tiJkeNUZj-lei5QEhDPLyMku6_7o_JJPRoho3_qGhSKdnB4hy8-KAPF_TVWaZThLJyTkw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "20 Sherwood St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51074999999999,
+               "lng" : -0.1242646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51211742989272,
+                  "lng" : -0.1230060201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50941777010727,
+                  "lng" : -0.1257056798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "45d369fe56960560959e5efb3ae10a1b71bade96",
+         "name" : "All Bar One Henrietta Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109304011628787601695/photos\"\u003eToni Cañabate\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVtOjhS0hhsDkUWx6IC9ZyiVHQJqYMB54dk1iBdt-LCZg79np__TeL0wzn5D_TZemNravAoy2-0T6P8HiJ6KrArnWtkMfx8PXrYlmykoQyB8aCNTSojGKnjL-4ZTdays1EhBdZIJE9vUkbT_jHJUvD1fgGhRLdVkf7gk6m3UiTmzEoslL-mBXIg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJiZkKEswEdkgRxr2VLxWhgII",
+         "rating" : 3.6,
+         "reference" : "CmRbAAAAp7mgFv9mwzoguDbG0NUhsjREMrFTGiNoQkREbATD5gqp4pRqOdDwpqdCjfq8rdfORFBowaVeGlyEbQKoMY4WrSzWsije6GLfRbCxCZY2TZrJe88wR7RO7up1VhuM3SsTEhAeVmqppvZ39aKotPJ1f96JGhRtpmTZFKZ6byIV4-91-Q59eAqYKg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "19 Henrietta St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.501026,
+               "lng" : -0.177445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50237582989271,
+                  "lng" : -0.1760951701072778
+               },
+               "southwest" : {
+                  "lat" : 51.49967617010726,
+                  "lng" : -0.1787948298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3f23cee19185345dcb463a54d3e30a48e8ab267e",
+         "name" : "Jacob Schweppe's Bar at the Royal Albert Hall",
+         "photos" : [
+            {
+               "height" : 5792,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108933708453348409505/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABbc2vTXxl5hyOPazAKXq232bPzUb7XZ7Gbt7-vJCwcN254TU1gtKFqUQGGgNqafN0MSjqRMZD5n5Y-5Yj4rvlGdZnUnfHoH11KuCXL4C-YMawoATHo2CdkkDg49ZnGa1EhB_fV7CM3AQvbHK_qjbIc58GhSO9ITX_ctnPXFTVNsrcWwAuzcDXw",
+               "width" : 8688
+            }
+         ],
+         "place_id" : "ChIJ6fJbIlsFdkgRnh2HT0Kv8So",
+         "reference" : "CmRbAAAAu6ndQzDHmqRBZ3uEbkP6Y343paw2kLrXFOnwJFZ-fuVUu5bmkF0TWyRWUYu76Kj1lN4QT2RWQtZdXEWw0mpHDVxfgpfkTSkDWI4I0BTg7pJbzsWJF5hyTA7-RgxrCYOBEhBiajd42oLRNFNqif9jzf8mGhQYomCwMkg0u5rcwOOda5kAzsRgEw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Royal Albert Hall, Kensington Gore, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.506116,
+               "lng" : -0.1402559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50752217989272,
+                  "lng" : -0.1389654201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50482252010728,
+                  "lng" : -0.1416650798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "312679910a9292bd4bbbcf6316bb7f0044e954d2",
+         "name" : "William's Bar & Bistro",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJt9do29cEdkgRwNSNVKc2ppg",
+         "reference" : "CmRbAAAAl-bO_IMS5uOBPL-rsPm4tOm1V_U-InzzuCvhUJXe9c6u6QBFiwqA0a-VAtSAI7_tnScjGIhFizW9yML_7eJ4GHLA3DMFdYMrlFWvSyW9wvpkLlAG0Cp0xu-5EXJb4OqpEhCWxeySi3HZZK2FlG_02Ua2GhSE-HZ2wNFTUV82wSZBASvzuZcTeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "7-8 Park Pl, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5544014,
+               "lng" : -0.0749669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.55574692989272,
+                  "lng" : -0.07352382010727779
+               },
+               "southwest" : {
+                  "lat" : 51.55304727010728,
+                  "lng" : -0.07622347989272223
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b56e25b4cdaf4ff23d4f27b3b9083ba75ac94183",
+         "name" : "Loading Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105409754931062797336/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHI9ML92B9aVZjsNqgf40bgxwGIA87xeb0-7vIQ4m5vBHA1YBWcbbJ5Fx5o-iH6gyFfA7rqsUK0n30sq5mjIkZO4nYPf5W-1-67aDnVuXZwEjo7dfpfozV-ZxVxoY8vSQEhD7nCXt0u_hd4x7FHQiSTH2GhRQpQce8Tok_zEdfS-IjvHj6KvYVA",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJb4U-tYscdkgR0L-7bBocvMQ",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAvuTLyhc6hC4g90edxt4ySujFalzJeaTo-37RZ88FeDtzjhm_Fkl5oM1fkCxNkS8EiBBIieUkRQmlSOnwN6LuO4TZISTyfOapZBbLe4qYX1mXVRKuZjk-GKTbztdkcMVGEhAqRs4dodvlL9WkpeBy4zHpGhTb7XBeDE4IA7Pg4wQVrHr4U5LbNA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "97 Stoke Newington Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5111356,
+               "lng" : -0.1364477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51246057989272,
+                  "lng" : -0.1350623201072778
+               },
+               "southwest" : {
+                  "lat" : 51.50976092010728,
+                  "lng" : -0.1377619798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef6d15a060d383d22782a6fc4fb116b2175cf4d5",
+         "name" : "Mark’s Bars",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115416180958257845987/photos\"\u003eAdem Kader\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1YnDvZTaVFz1nPDPAMLcA_05F_0EBN2kEzcM7CxVKq8Jq8r5NonPN84bpohhYboMfWqWWLdNIbYgpehRlLQm9UdFxYD8V1T_WpNvezv38ivojFh-SiY1DkmvD9SMMJTFEhCijDlQrOBVBGi-E-TbGJFlGhTHcE3Z83g0SRfZmQN0wHnOWrRxdw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJSzB1a9QEdkgRAdKLu-qD848",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAhhcDDUNF2CiyonluA3SuAykY36grG32DElpRTsfzWevj-bQaSPVU6zcQV4I9eMXos5Xgg0cgOk6bf2fafIVImBE21KMZMKidSdcCySxvWfYSh5_xdrjE2OYEQNj_3WjzEhAlLZ6mvuuSURi7jHEGlozfGhTgNlx9HyJ2O_T-EbXoW0ReE82FmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "66-70 Brewer St, London"
+      }
+   ],
+   "status" : "OK"
+}

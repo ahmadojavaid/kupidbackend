@@ -1,0 +1,761 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5wEAAL6qxG5wywAFY3-thrE8-DbSUO5sVttSQEzmfpG0Z1_Pz7sjkSNHzMSOerdO5ejAgydD3HZYSsExfM0ucadiuWHvz4oNi_io70Q4G_DVWsTGi6NwU-GIDSg6Kvqy0_h996sCfB5XXmU6poKBTF-aQQ7gdihhDX2_mnYjJkOHsS-BlDHxyRHc_Y_l0FA2YtB9rXFkuhlEWBLai003hTiHiXfivUWhWPcuu4u2k44eiU05VVc7ZQ56JT_uzLMRItyemOgp1wykp5UmjLeFmK326RZWARWT0i_GwGiDMu2KJlzpnxyF2h7VBTfJCljYBElCKE_I0EsjwHxov-ASLQ5jYRuG4WjAwHtsz8Ya1vAUKYpVOR-sHsvHD6zbydZ9eIXi7QdQ9bwm_QAlbhiYqAne_b4BDEmVeH33dzff1e-EIAWvtPxg72GsfqqhMlGp1UGLmfbt4SnuAU-4StyYh_8Ya7LAiaFH8mbg8qX-FpRhb6n_xs0twY7l_R7-0IWbshoJOuYRjaEKWms6U01x-8G6ta6DbF_aaG0RxqazC_YG1TUJg9QNdKh2TYnnfy-npAVOaOhKYi_poRHTDc289ZxgxiMzmpydJ9ytQi6zl6sVFPa-47SiBh7C0m5IccbFU6ztRPQggkzYtHEJY8hQYEOs3rYSEAITbaR88amEyxEHbzDFi_MaFEGfj4WiQia8S1njiSmWDiKMlONz",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7152423,
+               "lng" : 73.017196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71659212989272,
+                  "lng" : 73.01854582989272
+               },
+               "southwest" : {
+                  "lat" : 21.71389247010728,
+                  "lng" : 73.01584617010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c2b463a79ad0e50b377a8475f45433fc3bd28d62",
+         "name" : "Café Coffee Day - Bharuch",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116018901230583122012/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe7OdzriwIbeRvOTxXbWTUXU2pQqP_RVpISdmTbXOzAQUZs2MRJAzSj3dJtuHrTBFMi4_s6-Es6fQhcYHNzU7bhtRXNVEvGxmMxunY4O9F-1HoLIpW5T1JTrSuicwJGQ5EhDZ0xBU450QxfL-5SxvROaWGhRua4pZwCn7PA3DCqCZfmCWY2Yq-Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJvTUR8Zcg4DsRT27mb8nEVKA",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAABeI8RSQcWxUgEPPMqx7eHTEJs0xqYGVURy3h8GCflcUuNevsg1ADlQuMYj7H6VhCoF0ZoQqi-Z5xxvZvLEKQpxqhV-BM1AqvRKLAzdd-IC99NhX51AZqQZVYzHf0mXjUEhCixuu8pjPzqxJceyUzexesGhT7XLN9_GyucEZWKMgVnRVV1DVyHg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1, Jk Complex, Jadeshwar Road, Near Inox Multiplex, Jadeshwar Road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.706409,
+               "lng" : 73.00005899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70775882989272,
+                  "lng" : 73.00140882989271
+               },
+               "southwest" : {
+                  "lat" : 21.70505917010728,
+                  "lng" : 72.99870917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81d56f52335f8950872b564dc4d82692861ba028",
+         "name" : "UNDERGROUND Cafe & Restro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109771232414806761606/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvGvRUulEpOFZGc661n3PuRwNMPpJXyNYddodgtcZ1oHuCLf4f2SvZA186XEblUNN5W2X2h5zAxSeXVamd6t6z60NvF9cqMxpr-UMp6CjOb3cWE7BtTpav_kg3Z5GNa_YEhCdnkTwcUhus5Eyuna1mLysGhQn0Hf-3LEqwQIXHep8oJOZNdOV9A",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJZdFivbYg4DsRzmnTXy0YsIM",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAA6S46R4t9qqIXw5OxyU1aebnM2Z9OpksRjCv4gU4nbZ_RgBmN-sJDr9ItjJAIpeg8xcQwKSmcBW54uhJjR0SRJWq-tR_ber83NccM7E3WsmeUm44MHFmxfZJpLPlKz0SCEhB_W2X4W-eh92tEwWrVwx5BGhRpqjHP5z3ERDtea2adJ2-PJvz9iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Skyline Buildind, Opposite C.R Chambers, Shital Circle, College Road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7106161,
+               "lng" : 73.0006099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71196592989272,
+                  "lng" : 73.00195972989272
+               },
+               "southwest" : {
+                  "lat" : 21.70926627010728,
+                  "lng" : 72.99926007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "110879512aed142344e91f56fd9dedce107afef6",
+         "name" : "PIZZA DA DHABA CAFE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103975822542999174200/photos\"\u003ePIZZA DA DHABA CAFE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA75sboi865O3eIBVGGGsbE8Xv_-SZSNWWBr_Wq9qBQ7b-xTwLeuduLjKTQYpkcWAEO-LZbtc6bDE2NVFaot0Gd5jVpgMGsISW0_a3ernPfVYGSSh658ZRVzxfC_rsMAdHEhAjgvvcpL6sodbL5ylaQCN-GhSu1btq02VQd6Ng-oQqNqaTuYObJg",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJCyeU3TUn4DsR38WIMNHfS1Y",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAA1fzgxcnr9LDw-hmIzb3Ol138L1Ew69sSREKAWKHDKLrcql7cElI6AdGGV9T3TcxyJAJFcjQ8yiYssQIjkxr2Qpc7LJ9G8yg7ot9Rr_kd1_GypjpMxioQYJAWsqK0dvqnEhCV1eRI4bPUcT1JLxS6HL1bGhTzcRj9IqRM1eZM99anDGcK6WqnqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "millenium Arcade, Friends Colony, Bholav, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7037995,
+               "lng" : 72.99513109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70513487989272,
+                  "lng" : 72.99653837989271
+               },
+               "southwest" : {
+                  "lat" : 21.70243522010728,
+                  "lng" : 72.99383872010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2ec96361eb806099e9b1c9d85625428b981fa1ec",
+         "name" : "Crispy Rolls N Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3YpKF7Ug4DsRSCq9rdPMKNk",
+         "rating" : 3.1,
+         "reference" : "CmRbAAAAi1p6wKtylfm0ahs3gwXCfd0ohXJ9M5WjJogNgIbJqLdzIOaYVelFfR5v5N0HXaCyEK8zQl6hZ8yI9mTd0JcPR8rOMireUF_g6DdemQhC7ackhQjdz-gDi0QkPkNkKbxUEhCqce-HV28d8M6xPMuTpnqIGhTpCTsZ3A39euDOUNjCEZGK6l1jGA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Falshurti Nagar Rd, Behind Puja X-Ray Clinic, Falshurti Nagar, Moficer Jin Compound, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.718362,
+               "lng" : 72.97816900000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71971182989272,
+                  "lng" : 72.97951882989273
+               },
+               "southwest" : {
+                  "lat" : 21.71701217010728,
+                  "lng" : 72.97681917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "87856da22cebc1120fb505069c659fa15a43ba1a",
+         "name" : "Shab's Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116243407749532511233/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVoOD6ZZscxhy_r12veKIq_t7Hd8-Q1hnRF_9FDKdVto6y7ClqP3b-h7P3zM6YCdzUzXpwVhPgZpnlJkB-IM2qpSUH5BtnsssW6d7fyPgtelHq7ZPwXgHYkUxwy9hVVHzEhDtkmUTBHXVMsPqoqjd8JTmGhTU5zdvAdrM4LkHIsy0xciZBQgypw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJOxtIC1kn4DsRAp0hX0xFDrE",
+         "rating" : 4,
+         "reference" : "CmRbAAAAz5IOBOes3QEFlOmgH8Z1MF7BE-NxPKfvuyt7HVo-C29P5oAnV3Ak-YOhsGHVRsy4doTZMiBSJQc5ZC8-Ft8VgHJbqDO-ZIba2taQSz-opDKh8fua7UBe2gf4CpH78hMkEhAT2M5eNlK3-SDi-khAGYinGhSFWXl3UguO6_EiyYHlFhIkLIo8Ag",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "137,157,158, Shilpi Square, 1st Floor,, Opp. Nagori Dairy, Dahej By-pass Road,, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7041453,
+               "lng" : 73.00171659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70552457989272,
+                  "lng" : 73.00311592989272
+               },
+               "southwest" : {
+                  "lat" : 21.70282492010728,
+                  "lng" : 73.00041627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "edafa0f68b1ef1112b237cd20e16affa2a12d5c3",
+         "name" : "Udipi Cafe Reasturent bharuch",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100502433616438959680/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArmRY_GjSuUCNNTUdgqLM8RerdDz_Q3X9NRzHTF-IN2pZxGwlL5kk1j6yamQqXr-bZfjJ0mLw2k7MzcSGEjS-V7msM1IOMcZ9yunKqA-z2diSzRhaHHHdieNAz0z245nMEhA290OQ0YGy2WxCU3lYgPaGGhQ9T6aKlt1XiLLd05D4rb0juKzJeg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJofxDSbYg4DsRhkAnHgRVX2s",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAoi3DGkeR2P_aMR4SWSvZDfK8l1bWzVgPhIqUNVp3H5qdd76WLkP9usGWjFxsz44kXkAVfu9Eg6pNFiwnXcOezfETKWnjVj93kSwj5N2AE0139oAR-9x5vplUj54KILtOEhDHqq-wYbON3z-dkoc8mN8NGhSvqF5ph9j3N6t5bpqfS6BTbPg1dw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Vadilonu Ghar Shopping Centre, 6, Kasak Main Rd, Opposite Aaditya Complex, Kasak, Bholav, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7079326,
+               "lng" : 72.96888559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70928242989272,
+                  "lng" : 72.97023542989272
+               },
+               "southwest" : {
+                  "lat" : 21.70658277010727,
+                  "lng" : 72.96753577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "40a976663a1d63c6eb9942cf3010e142bd4a2a18",
+         "name" : "Cafe-Al-Dhahabi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJn-CNJmgn4DsRtf4w_ao532o",
+         "rating" : 5,
+         "reference" : "CmRbAAAAwOLCSTZf_tUS00iaVf0_IOdqtRRECouQxladzbfzCj5uPJAi3UpP7RHHSyuJBr0bqHUg7uJGigCuQ3tswKiPD7nJMPeRHdxYPHTsQZlFX3WKMJK0PYWVvTB6Fy1vm1gWEhBrffmomy7PZBc5IbceEbEWGhTYzg_5y49vKLnLxnswsXamZ5GaSg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Madina Park, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7196068,
+               "lng" : 72.9794033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72095662989272,
+                  "lng" : 72.98075312989272
+               },
+               "southwest" : {
+                  "lat" : 21.71825697010728,
+                  "lng" : 72.97805347010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d66e1d3a52038c07c4df81ff62a2e5a177f744b7",
+         "name" : "Chillax & Relax",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112890437103230856104/photos\"\u003eChillex &amp; Relax\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoJT4xE0Tq8eH7NCNx6qP-kvOGvPDxFDUQNzsrHcMLgcKLmi22NNEk-us5nqYlkBKlMIBMYxSuLK3gSg95tenosFueLpDf5AEcT0gIxLpD_Tv1kWMLou92mxdUK1HrR5KEhCQWeOrG3qMHsTuj_6sGAutGhQjXtZ7rtMmDlujRNqLYq_edyDcBg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJuVsWsFkn4DsRJoAYNXzoIJY",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAjOeT8rXYu05udcypoJZc8IRGGpMj3Zekftpw-Mul-ukHeslOS5Zdz7kWVO2OMVuYbZ2KNwSwcSBC4ei119dOLypuHwQurI0FGByvhLcquQ3Wvug14-JjzBdbdHX_3m15EhB8I6GRTNCq-JIfPrIjHXdaGhTgLKA_L42Oz-tv-Cjj2Ze1r63hRA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2, Shyam Villa Shopping, Opp.ABG Enclave, Dahej Bypass Road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7182026,
+               "lng" : 72.97851989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71955242989272,
+                  "lng" : 72.97986972989271
+               },
+               "southwest" : {
+                  "lat" : 21.71685277010728,
+                  "lng" : 72.97717007010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3f543741299041858e40257531bb5bf1c21a7bb5",
+         "name" : "Cafe Hideout",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112353282318365631529/photos\"\u003esneha pandey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGaihfdjVsJgtium4UZzf4N6mdFAlsIdTKDLq3iUHFqhVR5vJFHebAuS219skajsCF67XeAijefoRQmLftnouSbZPLMOy5itMoETRZtPUIyDUc8eVvlcAkCWX_tni5c5dEhC_v8xan9M9tBm3tRh5asp0GhTXlgGWscWkY6rbI6ZL73JE76QnkQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJR_Fodlkn4DsRv2ZnsD69Xmk",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA987S8ltSzTYXgBokMnUrtISMCNDpTD6nB6CYQUNhTKVk7lzTSKrehGOaa3LHVYtHJl3WRA7GKyOwkCVzrjPxJw9YRhGy7Sd7ehE4EybfyP_c78prYb_lQF2U3zchrgifEhD3IvMwtQhEOMu_1VD-LQX0GhQUCi-ybzwdAecrHtbR0lzSPFbvNw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.696149,
+               "lng" : 72.96469979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.69749882989272,
+                  "lng" : 72.96604962989271
+               },
+               "southwest" : {
+                  "lat" : 21.69479917010727,
+                  "lng" : 72.96334997010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "11af1d167b2cf99f1f98301d91cc1f8e13ed54e7",
+         "name" : "Sanjari Cafe And Tuck Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK-_9jhQn4DsRR1t9P8P3eFY",
+         "rating" : 4,
+         "reference" : "CmRbAAAAXNkDF0DZqyDvWo93vCDyRVVex1djaKy2ydhjDHM5nvAaPg9gVfWhiR0ROe5Zgay_ey5eHykeZET8mcvIAy_REmDeKABQNIP_cj_wfT2H18SVfIdrQUHHodRgCwUg3a67EhD-CZzl4FymdKpK0VyUp-69GhSnS9TgDaCP7QZerB4rIeAsGbqfpg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "bhajjuwala society, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7084683,
+               "lng" : 72.9693522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70981812989272,
+                  "lng" : 72.97070202989273
+               },
+               "southwest" : {
+                  "lat" : 21.70711847010728,
+                  "lng" : 72.96800237010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "38a1e30fd1ef05e24de18c949dd18f2d293e5cf3",
+         "name" : "Rizz Cafe ☕",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101542695863926220689/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAjxjgt4IjhgZC2avOxg5UZjEyayc51sNLjVJJ_5uDueQXHI7U9r-9t2Sh1eAeJVn1S1FLhv1Bsfd-7GGxKwY6vmblY3_G4XyXYnp7Shx3BPyf-hKv3yJm0vQFPoioSgfrEhC9xNsRiTZq0TbLOro9z8gAGhQXtVQP3ARIdPSHUBOotaQusar70A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJC3oNJmgn4DsRuWVtEX6DXzk",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAAxwPwNiMsYCbQ_0xnmswmYsxGSqDrF-qbqvhLHfjSIkOYvpAQ7HwoFrv_iwiaxlPokLcoJhJfjqL_85ybS8jsFu7mcvY_qm2CJz9z1VXL9h24Zy56QwMLrDIb061ALDgTEhD6dnG_6RBFEp5WQRzfw7vMGhTrPdFoCSUaA-isSpJZRU2tTR_DdA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Shilpi Square, Shop No. 43, Opp Noorani Nagori Dairy, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7150427,
+               "lng" : 73.013454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71639252989273,
+                  "lng" : 73.01480382989271
+               },
+               "southwest" : {
+                  "lat" : 21.71369287010728,
+                  "lng" : 73.01210417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bea8ffc6419eef845816ee7d8a0eedc5a9df3f75",
+         "name" : "Ice And Spice Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQ38fuWsh4DsRy3pE-6hgmm8",
+         "reference" : "CmRbAAAApu-O9SZnfiJHFVHIvfS-kTMAWaEY4-VdXWoim9RzrqubQKUjcKZyMs5JzvmZQB8RRLiAvvB6ke0FEbOA69LTMq1xSGZx689aeB3wAzA1npnanLbaCO8f_EMiQ_nyt5pIEhABQ6wTV_oNRVtbNy7KB5UMGhQzNeFqcQeCef5kDEm_trxfr2zpog",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jyoti Nagar, Bholav, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7044724,
+               "lng" : 72.98696009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70582222989272,
+                  "lng" : 72.98830992989271
+               },
+               "southwest" : {
+                  "lat" : 21.70312257010728,
+                  "lng" : 72.98561027010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b170b8aaffcd22a63ae9f50446999059e768bd1",
+         "name" : "Bake Quake",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110128562663615748428/photos\"\u003eNirmal Chaudhari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFW97dyDpVuqJc00CJPGycWcMkjIraXJYZOjwo3SltI_V06tNEXGfI-FU-VyJCWIKcDlGTMCjcc2bEXcDlOYBEc_q_-fBth4xiJQCoHInSlyOZYd8B5-pCk8ky9daKR-EEhDCaWAqSP1nXk5q73Pw2EoKGhRR_VrYfLswvdnNLcyHi07YOTrfIA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJozizZEkn4DsRO9XwLE0M8zU",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAMGl2kSj0GNSrtH0J_xq21006tYuZoQ1rOIW3JSEkeCheajuDYS7QdMOBPBfZHmQbjT95Bb9WvpwwE9JPgn4kTU9mKAsWt0SlmQjWf9u-ttoJHAusuinqNHND5LyDyEBxEhDHWQuGh4I44lVY8vE0W-pnGhSgFxMUILLg2-b2vCWITJV70TquTQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1, Sevashram Road, Moti Doongri, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.6992716,
+               "lng" : 72.9689521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70062142989272,
+                  "lng" : 72.97030192989271
+               },
+               "southwest" : {
+                  "lat" : 21.69792177010728,
+                  "lng" : 72.96760227010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6c6e663a2d6b4154a51e7dec097ad20404aa816f",
+         "name" : "Motliwala Tea Center",
+         "place_id" : "ChIJFwp3smon4DsRoYZ4qN7eMTY",
+         "rating" : 4,
+         "reference" : "CmRbAAAAtFaoTmivsyIySiuc_tlrs6C9I56GE_GlneJWCZRSfFPQCHnruGfEqYNyiDZtemt9Qvmk9ZmtlA9OG3A7Hwv_9Tw5tzREHudq4i3YHwE8E6sbHKMx6sPxcIbElmP0kySxEhBPAnAz7OPRmTgT81wv_a9KGhR6iP2cIdlejVjYP7WcaJiD_zBxIg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bharuch,KanthariaRoad,Sifaa"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7117275,
+               "lng" : 73.0008486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71306527989272,
+                  "lng" : 73.00230522989273
+               },
+               "southwest" : {
+                  "lat" : 21.71036562010728,
+                  "lng" : 72.99960557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8dfbc18a32108f3a57bab707cf26dc3c63ca932a",
+         "name" : "Hill of Beans",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJnSzNorEg4DsRCcZvyTFdnsk",
+         "rating" : 5,
+         "reference" : "CmRbAAAAKdrsOfBz4tugH69X11503C-7KqJWARm4N1vafteq4X3Wor64o3CtbKhoouNd6P_KCyOm1ym7zp1UyzLOXQgN0r80hwbaUDrGHZK4W6hDl8mLyvfD5VX6ftpiOGVth5DEEhDOUlIw5oTsaCWqR5UFzyWkGhRKgnWC54f9npNeaD2xeTCXKiiXgg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1, Paradise Complex,, College Rd, Friends Colony, Bholav, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7155413,
+               "lng" : 73.0215432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71695027989272,
+                  "lng" : 73.02287772989273
+               },
+               "southwest" : {
+                  "lat" : 21.71425062010728,
+                  "lng" : 73.02017807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0d20365d0ce9725ff443f026a5d9cad7bbcba8b8",
+         "name" : "Jay Mahaveer Ice Cream",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113958962021479181968/photos\"\u003eAnvesh Jadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGDPywIDavbyq_38yD97vsxkXkgt3cfUWInRERN8PVV3XYhU-lShIm9GpZ_TB3jZrbNXVi47_l7fJqeihSUN7PYA27Dh1GX8ZbWW8Yl4Hnxk1sy_YM5wFX302tKVh_nNbEhACRim5yP96ecYnCmD5Ow5bGhRpPGx0An8VFUx83Sh6qa20y2d9qw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0wpSXJcg4DsRBmjP0IG_8J0",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAk5Vl8rGUM1poNi08MtcNjSzKWz1BKjj4M9oJipdHfH2uvjxxzwrQeIuVuYvqUNoa5IlE0X89_wGSLi3g2yoQzfs5acIeKFkiRJcUuZPOb6-FP8UtkOh_AeQ1A_eL628VEhABk3-f7BSIh48Erql1HZHAGhSib5atZ5b9D2uRdw1dB4BkhjtgaA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Chitrakut - 2, Zadeshwar Rd, Pushpakunj Society, Zadeshwar, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.6951353,
+               "lng" : 72.97455219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.69648512989272,
+                  "lng" : 72.97590202989272
+               },
+               "southwest" : {
+                  "lat" : 21.69378547010728,
+                  "lng" : 72.97320237010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "20513851fba8926140badc4fca8278b96dfa3b29",
+         "name" : "Hotel Zamzam",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117571593553594204227/photos\"\u003eRafik Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANPweHEyrf9QlAyxj1FMm_X6jTaBlTuPM_KebJNcknWXiFL2RsJ6hHwDLfId-I_-5n2ny3AJVTy3iOTrcgwPZztmrfyVTAygZFuSOU6mSQHDTvqwuO8BmcVmcSJ4UGhjkEhAcN_tkcwEWi9w6yjhjX5GFGhQotrT3I0JXh1faB8tZPZDhVNUDBw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJKZrAuD4n4DsRqKP-G5GHha4",
+         "rating" : 3.3,
+         "reference" : "CmRbAAAAwbzYbMIVDE2qezaOd9QAjzvMcFWzaMyqZ59us0BU2vqUrkq8beHq5ZFUVSlTZRKiresEGHDnSzdKxJWLhF64cuRVOtZHAEmP2IdILTxlLfT2XskaiJF5P4s5jfk75rFbEhBJ4QaC6NTqMT19XAu56YFmGhT4LkMkzoR_emvwbClPGhbFqhYpTA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "SH 64, Mohammedpura, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7025217,
+               "lng" : 72.996606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70395102989272,
+                  "lng" : 72.99793407989272
+               },
+               "southwest" : {
+                  "lat" : 21.70125137010728,
+                  "lng" : 72.99523442010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "96dee4183273b07088ff7c5ad1dc69d683927e15",
+         "name" : "Jai Santoshi tea stall & resturant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh-Feg7Ug4DsRlJMVGQCfqSA",
+         "rating" : 5,
+         "reference" : "CmRbAAAA9TiWe9dG4Lq8UoGRFOgyaBqU0yH82hGKId7_ETL742s0-nXMn6XEE5UaX1qm8Rj5gO5sFl9KBIxdPOSsWySsLIORBY3hdIotsgyLR6hVk07_GSU5lfSZ5PhlZEk8MJv9EhA0HkIk5VjqJqATZ1AbGMRvGhSGdqBdBOqLbAkMGJdcS0Dg8_gfEA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "103, Railway Station Rd, Opp. Station Depot, Bhurgu Manzil, Old Town, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7196684,
+               "lng" : 72.9802928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72101822989272,
+                  "lng" : 72.98164262989273
+               },
+               "southwest" : {
+                  "lat" : 21.71831857010728,
+                  "lng" : 72.97894297010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b9f6ee2d819ede8d8a099f8b0c12eb60d225b78d",
+         "name" : "Platinum Ice-cream And Colddrink House",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107856379731066686155/photos\"\u003eRavi Soni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQKEGUQYcJCE5r_B2bbsBnb_S3Bb1DKEPPrVBhafguQ1Gif7gt5YCsFKv13gwdtGwSXov7FqSDx81jYdPhI9RYJtGSF4bN9oS63N2SwZ7iwdcFaZQekSvP_wumq5JBZWvEhBIPH1an2pxQTxCr6mZbcsXGhRfgGBoHVxoXlNNcpm4ONLnMlLiWg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJj2uiyFkn4DsR87n8l2UlMF8",
+         "reference" : "CmRbAAAAW8VHzSPB75WEDDfd7etmk1RDCKo6ugGVQ2KxNEVdx5oNDHBBPgYwG9dyWcTgqskj-hyKIt30NmW6G4boXIKt0LkwCuhbMlTXjlz64880yBObFyGFpgeXFgyUws-YoKXQEhDsMjcLY9SIfZq3u9w4GnljGhTE8WNHKleW0kOpAp8VYl6-PTTpSA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Rang Platinum, 1st Shop, Opp. ABG Enclave, DAHEJ by pass road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7251711,
+               "lng" : 73.01389689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72652092989272,
+                  "lng" : 73.01524672989271
+               },
+               "southwest" : {
+                  "lat" : 21.72382127010728,
+                  "lng" : 73.01254707010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1fa069deeb62921d3c9d7753ac9ceb14c0cb3a73",
+         "name" : "Dada Pan Centar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111430936161630438793/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPrN9vvV_8j78HdM8wdHRXUQivLGrF9LPzzzgUOjUBnz30FJ2f07exfL7-go86bv1pAfhf-qo8Dm5m7islAB1pkoUEXfq3FalbYVlr9DAi3d65YYG2TZyofeqJW13bMHREhCcf6HaAb-Fgcvsy75jyvwLGhR8lVuoK0J_AuxlIyqf6vbHbqDBiA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJO5J29aAg4DsRuJVRxhCCUzA",
+         "rating" : 5,
+         "reference" : "CmRbAAAAn0Fhz6jd32do6icgAhJ5ahH9-oyeW40QDWWJmARzvDrwTU05et_8T6y_9vgX6SkG0U-KuR71i0CpBO3qW9_iFtT3BhPRL4gabCXuH7pi8OZtTjRjm5hq-xSihljfLBSiEhBgHqWnIhMGQgBK8_pkeYKOGhQZpgHKQlvD-r30V-A9IhLj9pUUPw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bholav, Bholav Part"
+      }
+   ],
+   "status" : "OK"
+}

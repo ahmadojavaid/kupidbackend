@@ -1,0 +1,871 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5wEAABD2IqO-6vZ_0_D7wJt7hIKOcQkewuy_haidKWYNT4P-0Mn-j6cr2PsWBnFQUN1YagkQHe_JPz4Wi0_6xGfBHnpRMs1RUrS4TfCGe9hC2ZbfpF4NvqZ6N2x-WH5P3e8-C3zALpohq6228c4g3k6OPzJGuA9RP2Ivpi5RgOgr-ixoPKs0hX5i8lL5vCmkrOuf92bfzrJ2ugvxYiiYboKuCN53tkT-PaeR1wWXxzH5xcm3DYE7VQdAAQZevajA2QUVsx9D5hBprrc55I0dlFPzYYvE9JJvl2SEMEOFMm8MZcnX8ZDAsJiQV0fa__2xGQOjy857jfBv5TDlOeD8c6Sv3aotUAMt0YDRew7NeAoKNarFceOnMa-bX12trDO3Jjf80bvUS1xTyUwD2LdO5nMnIehH4cKoYAIPi70VtbA3PVCdXPQN2ijig6KsOYO5x-RQLD2_lY5ZsFnvzjtQ68OHgniz61eJUj_v5ZhORGxEmnEomG9-RC_DOjRFFeGtF1XUvh3QWw0DYvy3wfLaA2WaXPkmliNALkg1k4LYK2k60BjK96lyZsLr_a6XoFicCW4-j9Q0z8AQqM7XIP61rxxcSY4kKpO9xVIUgg_3RXaIeilzKboklWHZ_dtsOvlKzFMfyR_4koRY5e1YDyjnuy5jv5sSEAm3jfoADZly5wPnsvoq14waFFxxKv59ohRqYfGulyPSox5hdAnb",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.161733,
+               "lng" : 72.77368799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16308282989272,
+                  "lng" : 72.77503782989271
+               },
+               "southwest" : {
+                  "lat" : 21.16038317010727,
+                  "lng" : 72.77233817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "19a98ac204e4b3a7b313c112d36bee711c10b969",
+         "name" : "Café Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106693831221110534476/photos\"\u003eArpit Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh1hyBnhfd_uT6eat_sfXUiqWXofynar8K6QE_01sjVBZSfrDgpw0AHZp92RuWg0jdAULQmdmu4zdV8vZ_wdQYYSWu1xajF7q9ay65zzegBKP8ZaClC1Yb2UacCr-iwBcEhDtAGRfObhnQgIWOKVjMwaNGhQlWEQufYfgW3Df4YsmzPwEneqYyg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJCxs96pFN4DsRgArl6YedQFg",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAw5bTbFcb8alPTH1xp3va-FqeyJbEs_SO1ojUaReQ23ULeNNRlZTsyvUbAzonCQYJiwiSWEQFDPg8Z0JunnfXvndIGymhOMYGrBMskbO7e3rgBFj5Wt2Nc8-Uw6Ji5k1XEhBBI2GmN0zZaqgFabOi7ssfGhQKX02hWS6AoYlTBnMFeD04_8OZOQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dumas Rd, Piplod, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.203615,
+               "lng" : 72.794179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20496482989272,
+                  "lng" : 72.79552882989272
+               },
+               "southwest" : {
+                  "lat" : 21.20226517010727,
+                  "lng" : 72.79282917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6ed6ab680c953b831b17b131b4744d8600699701",
+         "name" : "Cafe Coffee Day - Anand Mahal Road",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116572090206219492335/photos\"\u003eHardik™ Chaudhari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK_e5Uc7rz03Q9f8i3T4T8ywIRfb4xXnKT6IePKgSNum0JTmA3xyLINAwWgy8YwQna6VI2eFvEa_FZkYMS-UGqwT4TKzoQEEL2XfCPt9tnI5dNyAtBbtSOrEpbIu1UUzGEhA4nOZF1s_rSIZHNHl4XICDGhSrhLy733u3OBQUcvudyTgqyO3aXw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSfSUFC5M4DsRDzOhqthUVnk",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAOPPL9k26ZiF7ETRClkTEdxFJ77VnxQOcfrDwyRKl4KI1zYP2O2Y3ErVC8MTs6KkWlHy2BJEnInvhNi9giTzpvWZFqHIeE4dAUHJbVCFDXpHcMZf51tK6vSFwXtq3wPWNEhCXvd5xpppRLjLuLv-k7eCpGhSFtCqRFq8Nr2hCboZAtxPUdizgdQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Aditya Complex, Prime Arcade, Anand Mahal Road, Adajan, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1712762,
+               "lng" : 72.7893162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17262602989272,
+                  "lng" : 72.79066602989272
+               },
+               "southwest" : {
+                  "lat" : 21.16992637010727,
+                  "lng" : 72.78796637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2eb98bc16bf41c5671d4dad75ce59f1949163b22",
+         "name" : "Cafe Coffee Day - Inside Golden Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102250137087362261648/photos\"\u003eArchana Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxwkDDQ7XkvSVGiz0Bokgy--dQdUOxgnyXp5y6fEcFqdVKRQR8pgcVOd7Aw4ew9qfB0MmqpW2gFjPjKMQGdVGAxHp2uHfr2OnluTTUSsk2AUUr4mSTjit7WoYtAK6Ed3lEhD2RMVTtKVuYcOyCIburWONGhQbTKWmJe9J2FoGH2kiv5ei8D18Fw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJGXJntulN4DsRjiwF8PKB-oQ",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAbDcF38UyvWQB4ZW2eD9-gnXdoUNe0SM7bZJS0OtpqkhlVlqa-FmvI_ZbcT0O_tS_0Uj_ocsbJzX2YFq_ONwaF-Foln9AY8VTp4Ntg7yaCkzh-SDiEf-jHSuYd5_XE83iEhBIuG_g7UMO3RRz1Up4nc8vGhTkUSePZG8ZGU2mCHwX81U-3SUnhQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside Golden Square Dumas Rd, Meghdoot Society, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1962002,
+               "lng" : 72.7848791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19755002989272,
+                  "lng" : 72.78622892989273
+               },
+               "southwest" : {
+                  "lat" : 21.19485037010728,
+                  "lng" : 72.78352927010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c52d55b9ef407e7351c30e4d3ea19d25a1678cfd",
+         "name" : "Café Coffee Day - Riddhi Residency",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116275403988322370457/photos\"\u003eMehul Gandhi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4nLgaL8oVyASlxAIggcR9iNzlm-feyrNaUkCYtap1fAwEOyfXYgkir4Ac5oXqgovSRKf7tbdFQBm7f6G4nEQzhN2xzQcecL7irnSP5wq0U0x-5CYl7YjIGfwKUkvgALTEhBzEDwRaTfdu6Uenh2muM9FGhSHfxMQuRebfkfUeCVe4-PrsrCQww",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJK-fZ6TRM4DsRz6UxlHuYTiM",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAP4InT1epeTA3ZW8_IZtJAL2J8ztCdOS-2PmiaPJ8n_J0srafBPD3XSA4fEWef4haRjvES-6RwIVq-MG2ihdb_39Tg9GJodi3aIDIHq7VMZVzE0KgtSy9ekjVWtxYS9XgEhDVG_7xlTvjc0yCRJfjqJ16GhSJsl1PC9ggJzkUV_gX6M-OFQG2qg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Riddhi Residency, LP Savani Rd, Guru Ram Pavan Bhumi, Adajan Gam, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1759377,
+               "lng" : 72.80997619999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17728752989273,
+                  "lng" : 72.81132602989271
+               },
+               "southwest" : {
+                  "lat" : 21.17458787010728,
+                  "lng" : 72.80862637010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f8d09daa621c46693f921dc08900cee00db1dffc",
+         "name" : "Cafe Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101801796358579778885/photos\"\u003eJaldip Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKIwSVsUlfJjYKLokqorYe_8xVqWO_zAv0vZCiGI3oDcHaplctdt4UuM0jfSnfbzv1WRiIKu62Vh5T2ROqmBtMTyPwFD3CwVN1bigN6JPDWbLDvEbHoPDyFpjath1sS8nEhBXkd7SFvKo0qVLercCVCi-GhQ-yMZv0aqg6ECjSnzrkdDlvbBpxA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJm71aehJO4DsRaJOMUEhblKo",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAEdjcXV5zR3C9_9GZYbkzI4ELlqr-pImqew5m8c_WlIexj23OF3AMhZz2n7HHx30Yk6PQw8z73b1q_jefQIt-TD6BS1fkVpWxptkJcwOiuXKJjlM9CjOimTktrHym8o4qEhD0l-YEtGrDOwkS258FZuNyGhRD_zyYvm7hM4kPlf7ByIrZ_U4wFg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dig Vijay Complex 2, near Axis Bank,, Opp St Xavier's, Ram Chowk Circle, Ghod Dhod Rd, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.191615,
+               "lng" : 72.7900863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19296482989272,
+                  "lng" : 72.79143612989273
+               },
+               "southwest" : {
+                  "lat" : 21.19026517010727,
+                  "lng" : 72.78873647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b738aa2fa233c366809adc3f6cb5e3ac7c7132cc",
+         "name" : "Coffee King",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115874908667358365539/photos\"\u003eCoffee king\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACDIC1cXf4sljlHNTn4vkeaFONHo6VRQv9gfsM1uT_kIg_Gpl1bJ5S-y4FAynOCEL1hMjDSlLkVAh_uV1odrLWc-26GrA8S4-Bt037fQlyI6c1dUvOqitV-SiUtxGpC_sEhBkqwq67zxLeW_PDr5ZFUZRGhRJWRb1VeNKUZVfDsS-gsEoqXrCZw",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJDblNTMxN4DsRfREM5QRv048",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAaA9jm9r3Ga5LDpHGIL_Toy0PfKwGolDksVYhkrTVAACScT0xwet8ozGPZSBahxVao5o7aFrwzNVM8sXs6BSN6n7nUlyAsF-U5u5DeoM1jQpDEbiOdsjU2wyjTo3vsbGWEhD3rh1lIyqumoZjnQ4TC5wTGhSiQfVkzOXyyJECSRjHiqenHnthSg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1/2, Abhinandan Heights, Adajan, Opposite Trinity Business Park, Madhuvan Circle, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.185072,
+               "lng" : 72.8085664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18638222989272,
+                  "lng" : 72.80993262989273
+               },
+               "southwest" : {
+                  "lat" : 21.18368257010728,
+                  "lng" : 72.80723297010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "25ae66a9ef7c3b9521126e3482a7c33103d1628f",
+         "name" : "Mysore Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108990162573263435821/photos\"\u003eParth Pathak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB3aF5RcHUlndV1H9FdEHH6UfS5rTs5RaVNLqooPlJUiW8NB8KWhRHSsQZthKs-f_tePfE-bBmFqaiDaaVemrCSn5ad1Hz6aUyfmO897j2nX187h8LHnzMFIt3a8eWXuLEhAfJeSZQv9UhysL5EIBVbj-GhT9WIG2ckO_Yudpcy096QT-eigTgg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJA-mkaXdO4DsRQILwPJ_rZOw",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAT96GUqupWrZegvKXm8c5Lnact_hRO8_mCyMQHxrkgS6BugFCxdElI2WsbrVWeChwz4B57SUcqfK8LykWyTh2Y97QtklNqz0CoTmW5QnGUECmKxrU83zcs9eUTnH1SNS2EhDFDq5UHhhATL2eGe2ky28EGhQltI-ANXgy-3bcH_OBYMNdd8oRzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Virat Apartment, 12, Surat - Dumas Rd, Opposite Care Hospital, Bank Of Baroda, Athwa Gate, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.170874,
+               "lng" : 72.790503
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17222382989272,
+                  "lng" : 72.79185282989273
+               },
+               "southwest" : {
+                  "lat" : 21.16952417010728,
+                  "lng" : 72.78915317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "02799c3b4df1928147ed4d789541d80e12699e47",
+         "name" : "Coffee Culture - The Ristorante Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1233,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101088235485540801302/photos\"\u003eCoffee Culture - The Ristorante Lounge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEYzTq70YPSlSoC81r6kdpEW6nL6Z56VvPmDgGuB4_ZwjYWIKUy4NCY7IxpOd1OEXTVOjp3YpSDhQQeZy1jICD564h9RxjbCX78hPKR87toQGiBvitukR3Q9QprKaNctREhDrsRo6DZzZ3p-OzJ51D-htGhQEhEu_y1u-pvgzEhGjN71HL6IoDA",
+               "width" : 2550
+            }
+         ],
+         "place_id" : "ChIJzcSWRuhN4DsRlm7B-sEJ9xs",
+         "rating" : 4,
+         "reference" : "CmRbAAAA1tUgyfoMXwnaTkJy6mXYed7m6GOMSBZiFZfx03mu2p4dE9w49v41Bkw2nmPRkDH3fe_t4kku9UEgOKgl5728F9GYjCrtckfK3TuFZuT0N4WwxwLlxpE7_vYGd0XGz-pZEhBa6KFooPeKx2PueAioeGPJGhQRLPxTaV-aMWYMInKuJA2LLTYQJQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ground Floor, Opp Sargam Shopping Centre, Behind Neelkanth Apts, Parle Point, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.19569,
+               "lng" : 72.797341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19703982989272,
+                  "lng" : 72.79869082989273
+               },
+               "southwest" : {
+                  "lat" : 21.19434017010728,
+                  "lng" : 72.79599117010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "577e94f9f806a52b95572ef2b25f786c71b32d4a",
+         "name" : "Pizza Da Dhaba Café - Adajan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109645422895947305639/photos\"\u003ePizza Da Dhaba Café - Adajan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAslPABbW1CDaMHpgJAPrJFX5cx10QC2olKb4CAeymGZHom_kHd9_N88EbKPvDmuu36KAB8BQzQocqfMEDBHJZXYUTH_6ztMkQmEH_2g-u4v0Tx7wPiqwy87mGtuh3Ubf3EhAFKx08hHSOYzN-sABTSS1fGhRmjRwi0VWQLSQrzSWt6IPHKBSYHg",
+               "width" : 1334
+            }
+         ],
+         "place_id" : "ChIJyYViT9NN4DsRypmw1T-oufs",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAzMIutVkVdDPA6z2_XEaowV8sNnNg_o1WnaZsYF6_Q6-tbnT1Fb6q8LPWWWi0LhYKr4MhrAcN6ETYfNnM-K_ZSuauwocxqWH3dRT5MU1vrhcoyrsmZetaFtw7Dz8-rlcYEhA1pK_j675CCK10ZeV1a-jiGhQhhq7qJ4pBiljOiacwv35aScbBHA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "203, Takshashila Apartment, Near Shri Ram Petrol Pump, Anand Mahal Road, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1861543,
+               "lng" : 72.7940979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18750412989272,
+                  "lng" : 72.79544772989271
+               },
+               "southwest" : {
+                  "lat" : 21.18480447010728,
+                  "lng" : 72.79274807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "253ae28b8cba1186855fb1136b3848a0fcce5713",
+         "name" : "Level 5 Terrace Restro And Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100662727908836413021/photos\"\u003eAayushya Rathod\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr1B2LGQTMugbhfoRNVe0Ih86ZCVFnI62Z3sGrE5EfLYKY8F1hxR0V6rMbMvk7b8iBTlqSD0iPK4nATobamtP9Wj-iax4NGqJVcNkeMXs6UBUxIQEOEemWoauGPBoMFNlEhBOG_EM0-ZwUkMxGZLjBUq7GhRmgitKZ06rf1Ga_bBpUn5GyltcVg",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJGVxZxvpO4DsRXij8EKLyssA",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA3x2lyw_pBbCEqS3sdCadTViHxqDdD18rGLpMT61nAffm0BNMUET-OcZ9cH38jBl0vqyRd91vpeS-XLlFs9s44CYfA1wN2KNV7e0F9-Glv1Hfy5u0uewgyo_qeY6uFVYuEhCjhWE-ujZmMTWRRVVWkcdiGhTEwMVC2NWdoMU2fDFZXnI3yDROzg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "515, Royal Trade Center, Opp. Star Bazar, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1925707,
+               "lng" : 72.79973559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19392052989272,
+                  "lng" : 72.80108542989272
+               },
+               "southwest" : {
+                  "lat" : 21.19122087010727,
+                  "lng" : 72.79838577010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1fcef30b1f93cf6727cbc53823301f18b9fcd4bc",
+         "name" : "The Hashtag Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108201715633081463859/photos\"\u003eKetan Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd3l4hkRBfJvzpQxiHxH4P1U9SCumzjWXMZ229F6YOvN78rsiJgFkmwCqffhJCPYYjPNeaiOLS572kC5YARXl5xDpYqSxG6zdcUK8PQDhka8Fy3zgqjNx1stO9Zj3kFrYEhDdZ6OaMtrRAkjNnpcbRtBRGhT2zyU3OcGyNEQhOAPHmUKO0-lKFQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJu_wus-dN4DsRLKmaweCBazI",
+         "rating" : 4,
+         "reference" : "CmRbAAAAj2bLVzpkoViI4WieOvhlIeOdgPjTrDPD1mMmKeuRMLp_QwbfQyJcEUGADactfBqGTHVm-rxZNCMYo7ddFvMjFzVg9lPwhX8xUxtGhOcLEkKh59zc4cQ_Pa4awMKw0LicEhAZLGG-ixaKnmqLxuH7jtILGhTIvTgKBfLhKywlU2emGtvZezEzmA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Rajhans Theater, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1602656,
+               "lng" : 72.77319779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16161542989272,
+                  "lng" : 72.77454762989271
+               },
+               "southwest" : {
+                  "lat" : 21.15891577010728,
+                  "lng" : 72.77184797010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b326d5c053a78af2147ad865dc66748d8fa5acea",
+         "name" : "Cafe Coffee Day - Piplod",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112874553334756054626/photos\"\u003eAnjali Mathur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAByEfCHhR2PT4-cRMh1pOq9bbvez2XsR5x0NMVy7cGg1WhWzA4A4lMeQuHSv6bdZb2d01DaiaUvdzO1H2WWdWIPSAhSLlPiisu-VnNmrAaBK3q2ggHIb27Ces9pRxaIyaEhA0TbSI1pLPGh9K4nsUhRgZGhQ102UnyMzawtpN-9hm4WTcCRkbtg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZdBopJpN4DsRKqdAN_HWgFM",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAFyqGwllatQdAmLd5fTab0hKExE1bMks35yAErdvV3ebHOMmSpJKMQ2iSxvs72keTuT0JR_s7aCE3X6IzEz0XckKnZKAdP-ZqEPJyb44TqxYX81vHaePQGhXpsoRZAWm5EhB7J3Wa7r01mVpyIWw-cAKqGhRal3blxy-Q5rFdEiUojv4ZkvXnEg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside Ginger Hotel, Piplod, Off Dumus Road, Near Iskon Mall, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.175369,
+               "lng" : 72.73824689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17671882989272,
+                  "lng" : 72.73959672989272
+               },
+               "southwest" : {
+                  "lat" : 21.17401917010728,
+                  "lng" : 72.73689707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c192ef207abee4ad535211dc9a10d3d932acda2b",
+         "name" : "Puff Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104216309031969965496/photos\"\u003eDharnidhar Shing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEKj_tAEn3E8mxIm9Rx0XXOAbAV_-YSk5VF6lZ-bQf9u0Llud-KAEfuEHtNYDyIG64X85PzSsKw5GNRiOkfsnzjebG1WaGxHe4ZYvCFsmJ4YampKDfoAljwW3bNbxyYh8EhDCJwqZPRhveTBM_f27LCPZGhT9zcDKSwcltoghUbee-eFnC9Jw2A",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ1Rdl2hZN4DsRFk1bSYHQJ-o",
+         "rating" : 4,
+         "reference" : "CmRbAAAAK7Dt_LFZqvlqIz3F7T-3ZXeggGzql51OhN0LFysd_5WYzd65_-zkc7tE6GmnELRWKB3bJyWmxeU1joErtmdNUqRdqyrnDhh3uhgpRHeEPa0R8n8xEA0Gx9xVPgrx4C2gEhAarwojz1ChUySX79QnU7ziGhT3g20A-I3y2yhBTBmucDANhdBprw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Mulberry Heights,Casa Riva Road, Bhatpore, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1751922,
+               "lng" : 72.8084054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17662172989272,
+                  "lng" : 72.80974162989271
+               },
+               "southwest" : {
+                  "lat" : 21.17392207010728,
+                  "lng" : 72.80704197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "449af8273ba4a0d9643028339b3e71f73b9f4d4c",
+         "name" : "Cafe Creme",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJY-CmyHRO4DsRtG6-fNj4geY",
+         "rating" : 4,
+         "reference" : "CmRbAAAA5oK1qLaUrUxGeoEMEaNjxCbUot1Y-iUFr02d97Eh3fdkw_K80xiZ9TJvrk0lcqH9yOtJYq5GxpWmYGAp6Wbqsy5F2f1pdZcYTp7riE8YdSba76WsjXO0dWyImLtfWN2FEhDisM4RcC9EtaHA917fEkZ0GhREF42C-ivfAha92I2PHtC8mA634g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Westfield Mall, G-103, Ghod Dod Rd, Adarsh Society, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1632453,
+               "lng" : 72.78043099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16459512989272,
+                  "lng" : 72.78178082989271
+               },
+               "southwest" : {
+                  "lat" : 21.16189547010728,
+                  "lng" : 72.77908117010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "be628393409adad719e9f5d677c5e44c5365641e",
+         "name" : "Baka's Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJm2SEK5NN4DsRFZDRlsCoWvA",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAA8bHOFcaSNEMHy0iunh4iF_Iku85RTURumL0A_6RBj0hFKwF3sKa71UpZZ2mQtIbexmFpWcfh_ntw5reuCTVNoN3lZwY17d6On7jjo98JkUAUjpjTvMCOW6t4E9rdZ4ojEhD_MOwuurOQFNpaX2BM66OnGhTisy7Swp0UATlviKrr3efhstc6eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "SVNIT Campus, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1774413,
+               "lng" : 72.8011776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17879112989272,
+                  "lng" : 72.80252742989272
+               },
+               "southwest" : {
+                  "lat" : 21.17609147010727,
+                  "lng" : 72.79982777010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a60627897de1bc6ce8a7af327fc567d1f8b684ba",
+         "name" : "The Hog Spot Café",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101181873413650887258/photos\"\u003eRaXesh Kapadia.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb7ycclCeNrgkQyuFRRHliDY7dW6mCvBbZpraMlTiP7OpU6MMQItihZ2DrxRskE5WvfMZGC5csGBXAKNADkad7VWNuac8hCElmkGMiXFD9xBkAL3vJh4YeKMO18dV2xH4EhCgXg-h1Ma66vBsTbN76kDdGhSPxY6NS4SkhQKnPhTRHoazkalPDg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJv3uwc4tN4DsRknAFQhwXtL4",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAS9H22KbdR-FO3tZRgAgEzgD3-nFs0Nevh0Yin-MlYpVxokXccGSEvw5G2CiZhE5kmpGwVlMkE6c7B0oIStPBKSpsnu4mvN5uOiphf5U4lGQvoO9oJnZohZXARUZp1uvIEhCB0LQh2wuhKDdKisCufwspGhRfY172f7XqPj4ANCtwX5_cEcg7FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Athletica Fitness, Nr. Lourdes Convent School, Athwalines, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2020721,
+               "lng" : 72.78440669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20342192989272,
+                  "lng" : 72.78575652989271
+               },
+               "southwest" : {
+                  "lat" : 21.20072227010727,
+                  "lng" : 72.78305687010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "02d895e8cae43a988eeece96ae2b4bcc1b2240b5",
+         "name" : "Frespresso",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115676547640067843981/photos\"\u003eDipesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACikFoB-C7KZvBx_R1eGPzRNxY1QRlCuUvP8hupwUGqLQKvGXo3LEOgXrnlmUgg3epFaTQ1o9Mks8oEhxw-m6JJDlrDSQeAI7NhoYalZZSkTpUQ_LWCtF-9gNHe1Rp-VeEhAMtXWULiu-kOEgRnXM-ERrGhQi0vGkWVLZllWCtGWXo2f4ptcaHA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJh_B7kTZM4DsRXxRti_rnXkw",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAAw0RXZQG3mHFe-wTnVvrHzcKiB36XggDqfQFwtiFZ3fCMBE9ZCk4XkaOOa-2frHSI3WDJIcLvbZCmbFwxj1Wjz3RqjS_rJupEaNAOkTtuS7dez_XSCNEQzJbhQfTT8wUSEhCq0lbKVNaqjWSShMeC90H8GhQgbb24YLtDdqF-F0rwpb4ujW1DUg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No. 6, Vastu Residency, Opp Sitaram Nagar, Honey Park Road, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.208455,
+               "lng" : 72.7847
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20980482989272,
+                  "lng" : 72.78604982989272
+               },
+               "southwest" : {
+                  "lat" : 21.20710517010728,
+                  "lng" : 72.78335017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "041f95bd56f27d18b8306cf45f9f6f27f01f5b2c",
+         "name" : "Frespresso",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104623905234702627201/photos\"\u003eFrespresso\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3Xj_KcIn7oIxd0fi15YwM2C-C4esJIfEPV8s8EK-U75CTxC5NQi3kY7ETMvhE6GJYcMqnvNPdYhxfP5_3YFcj9EX5Gs-PVl0iIrXicMWXmtgFXtUFdxIN2crzPbNcILaEhCgmJmJoJAQPatoETqHfynBGhTG6ko5A5OHhc1I_h-9BWq2-N3xzw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJefP3uzlM4DsRYBeAjf9Vjbo",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAANCz9ACfZsAmHg1-r5O8TH_fRH_oWQl0r_1D_8G3Wo6FKB4rypKp6g2hVNm6eK50XMraN3QQKYcmUxtpR2yFI8pGllK4GeMeRNvf101m5XUVD6q5hztRgrDRromJV6R-qEhArD_mXwSqHlHZ5nQo6LW2TGhRaFv7pViombAJepRfksQXS96kaEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop no 6, Opp. Sitaram Nagar, Near 9 Sqaure, Honey Park Road, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1896143,
+               "lng" : 72.78992099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19096412989272,
+                  "lng" : 72.79127082989271
+               },
+               "southwest" : {
+                  "lat" : 21.18826447010728,
+                  "lng" : 72.78857117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a6cdbd64c56091e7299353a096ed3f1f2037b2e7",
+         "name" : "Tea Villa Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109209419473465282992/photos\"\u003eLensomatic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsqXzqpnuyxshmNZEWaou1qpSrvEs7AHF_PspG_xZQzouianTuod15zmn4vzIO2CgP_fdSra_pQbmr5b6j1b2ITx_BuketQunuWZzN04fu3WENTQYGGp0fgnCE1y39CPMEhAqjt9C-iUTbzmdsMHGwQ9wGhR1nEUUuei538_3BW40xt69RzTAFQ",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJ00_tJDJM4DsRyjfcHRWp2BA",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAABCUZlpqEDNAmExjDqe9vyEtIhTBFVpnND_Ltn2KNwrmC0XAQZNhNRGfhcUn-FHyILr9m9BkTuwHh0znqaRUkAxwf5I_wI5eZ5vDt0bycot9Ou8zlSBIJvFLwFPWkKi8UEhCkriMZRSPjANFYktg6s9zjGhQlvAXa1GwDBtbzTIv7myMqwR2qxA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No G-3,4 White Orchid Building Opp Guru Krupa Row House, L.P. Sawani Road, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1701575,
+               "lng" : 72.78907409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17150732989272,
+                  "lng" : 72.79042392989271
+               },
+               "southwest" : {
+                  "lat" : 21.16880767010727,
+                  "lng" : 72.78772427010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cbec4b812549fbc47ee095679c30a6e8c5edfa55",
+         "name" : "The Haus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102882713193433065087/photos\"\u003eThe Haus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxxAtFUnGo4y24kAON5sg9oHn07NalSzHo7g0k2lUGWl6owZaVYHq4K7pVAJ4is5k0ZJ2ja95LLe3OprerMOdWxBb8MP2Lh1J2MSZUkaXFQYWVjLrwXxz_u4EfsftJvq0EhDjHAHjv--chw5C6gJPMrFSGhR8cffE2jJD9aTBug_U8tGmSgqnXw",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJm4pHrulN4DsRIscl_rv_9h0",
+         "rating" : 4,
+         "reference" : "CmRbAAAAFLffrxFqWCx-ov1otp5x5tmABY6V2e7ZAbAjqxBUGTtW2y0ClO9WND8dCixBVlRwh9Th-tH7MP--75Pg4Pal9LpwaGLp5Oa_yh6U0W9rZiNMVG_zbgeu0DbVo_4IJjELEhB0QZAKdHGZuuDO9Yq4oQz0GhTBdolwlB1EIEehILJqWWclf2l3IA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3, Radhenagar Society, Opp. Sargam Shopping Centre, Surat-, Dumas Rd, Meghdoot Society, Athwalines, Athwa, Surat"
+      }
+   ],
+   "status" : "OK"
+}

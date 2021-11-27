@@ -1,0 +1,683 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5277357,
+               "lng" : -0.1326414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52908552989273,
+                  "lng" : -0.1312915701072778
+               },
+               "southwest" : {
+                  "lat" : 51.52638587010728,
+                  "lng" : -0.1339912298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b6147543b5a12acbdb1274e11d616ddf7fc817d8",
+         "name" : "Cafe Rouge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100492765943511749373/photos\"\u003eDewet Diener\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUZ-ifWYdOSyeHBnregeMXZ5RWEMEX_7iAhjaabt71BQA5OlWNW7Iwq5uAXmL1xDmE8tGMVKrCWihu31QuiQ4uc2PJGiVCHTzylI3yuh6RUVMZJgZpfSnV2ilrkkjnoQAEhBg8Qh5nWe_UeVTEee4Ar_YGhRz59eFii8zuTP2YBL1zr7HzOrPJw",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJfXlyqyUbdkgRpe-891AP_Mw",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CmRbAAAAt5_rd1RfLWC3qeb9eJLmWUykRvr_05N0-ubU22RD2TFiTKDT3E-d5fqOTMps95lftcpXTjNS_tzOAuKACzbfLpKcVEaaEinLiUesFNPy2C7XH6_TmU8dlS9ndypCgNOyEhCFomdozvTWjk0RFVVwByoRGhRFbPG2Vhs66-xTE0Tn71Bzus8OOg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Unit 4, The Piazza, Euston Station, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.54677599999999,
+               "lng" : -0.161074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54809907989272,
+                  "lng" : -0.1596765201072778
+               },
+               "southwest" : {
+                  "lat" : 51.54539942010727,
+                  "lng" : -0.1623761798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c930654908eaeda62326eef59dd7db0130f870c3",
+         "name" : "Bonjour Brioche Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105837379442487307830/photos\"\u003eBonjour Brioche Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5MVe5i87fGbNGWH0lzxJSoH9mMkX1Wsd_GZceI8_qzljiuQoyrSBt4akn9hfMilpp-hHhRDP8UhRy9JItSOtZllGKSEyBQCu27JV0hhC-l8HhyPHWfVZU1rHwIidnBLKEhDMDLgx9MtnzNKFp7g2QY4HGhQ_t5ghVqKV_LxVQ6jL_Ae7WAu3bg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpctyf_IadkgR-M2pt0xFuyw",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAy2J0xQRe38hF_53TlNAoxtEm2dn3tilk62JYQFp_TN-E7mLKTReL2Xx3lmvwyJ2BP0AtZxk4ZqTs16ii9E7BRZYClXC7_Hp1zbtQeo5yX-Dut3vIj3HLkTrrz6T_MDchEhDjogxyhrueyMS3XA9TMbiPGhSfFF42PAzhNKOKmO5nyqkg2AmlYQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2a England's Ln, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5212255,
+               "lng" : -0.1346736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52257532989272,
+                  "lng" : -0.1333237701072778
+               },
+               "southwest" : {
+                  "lat" : 51.51987567010728,
+                  "lng" : -0.1360234298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "52075ab238cec43c92a11fd0c28889bd5005185b",
+         "name" : "The Ambrose Café",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101736007417766554461/photos\"\u003eMikas Stirblys\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQB4aX78ryaN8Uc6UaPyHLE5N1xLDxGpns9eqEospIu0naPhJRflWXWSt-Jjz4rE2iB-y6rUJ6vgRUhTSIuFEtlQzXsY0kRJsT34781EhMG5MQegPeI3E8PKEtKf7ioWiEhBQayD6QstSnG5dx-rsV7NGGhSjNYxkl0FiZCyU2omooaPx4wZF3A",
+               "width" : 3730
+            }
+         ],
+         "place_id" : "ChIJQegDtC4bdkgRzcdpSk4-GLA",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAiKnG1FDRphvqoWG2EEjQ4ts39ZgAugaS1bgsFfkYsFoPeuLDr9V6Kj93K4ZKHZLl8trIUMwK5EBOhQL2XxFRn3AlDnAysj_0M4AfXv3FeKUioE71_fIRwc2Ra8qcGAFDEhBF6YrmnIMaPo1gv1Rgew2mGhQmeuvspZlh63qGh0IiTx2fe7Ov8g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1st Floor, 196 Tottenham Court Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50113529999999,
+               "lng" : -0.1247146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50248512989271,
+                  "lng" : -0.1233647701072778
+               },
+               "southwest" : {
+                  "lat" : 51.49978547010727,
+                  "lng" : -0.1260644298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5be0b5587a108d071905cbb7208c5784cbade906",
+         "name" : "Caffè Nero",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116701471502017428971/photos\"\u003eNymeria Stark\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFzyUVbMRgxv1eX48JPinmEi52HRQP7lqBCJUIynQljezn7HeaEGY9PMil3Qu9TYPJTXLmILySYxo4K-M00CjI5HzlTBRt17khryxXJ72m3ak2xHtDo4EaLdJNL892Ey9EhBRWXoGV4USSlTGcx62_0uKGhQzpcGMn2z0_eoq_617ApvCq819nA",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJJfENOMQEdkgRqb_Utto1kHw",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAaliaHyDp2NgN8TSEkzE8JNKH4zR5niejfjyQtBPV8r-ZX14AaEpTz08cgo46FKfDvq59P2gerpoHeIGbdWNX-K0dsnO74stnHstOSivtfjMqDNwMSWAI6wmCloArsbrfEhCPI2Ern4Ibq2T6cUKYK-lUGhSwClhIzUI8cndE9ez_KhPssasT1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Portcullis House, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.510856,
+               "lng" : -0.133633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51221747989272,
+                  "lng" : -0.1323591701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50951782010728,
+                  "lng" : -0.1350588298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9ea1affc5e0ab2ec9a345125ac064aa782715ea8",
+         "name" : "Rainforest Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105112781444186960499/photos\"\u003eRainforest Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOeMObjpbrQdo0-X2XNFXft-JWJ-dTxuUIQpW-Dgtrq1Fj6fIcHSdxGc4HVazRIsKvzx936MEhd-xXUIw_eQfmczPIsBokAx2-WJff0fpLdEfu6VBd4_HFMmeH1Ml9Fy1EhAJ_DFhS1f_i7Bm1I7aOlcoGhTZSKj6wBf997Jq_oc3Tu9DD0ehAg",
+               "width" : 4927
+            }
+         ],
+         "place_id" : "ChIJ3VekwdMEdkgRTEiBkvNwTkI",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CmRbAAAAHUSp1kpyaCDiSWRu_SnVQ2UMb3jCBBF7t6x_UZt4F1zZJGtDKaUYfBBzeAyNCTBOxz2sYOuk_TwcqrPYm0o-MR0BtRApcluvqEV3oHd-W3SvS5cIW676DSX1copiVnThEhDwBw8kNJU2QVxfw_EdhJbqGhQvoejxwtxIqZXTq8DYxgPNeBYFAw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "20 Shaftesbury Ave, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51212160000001,
+               "lng" : -0.0791949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51345022989272,
+                  "lng" : -0.07792207010727778
+               },
+               "southwest" : {
+                  "lat" : 51.51075057010728,
+                  "lng" : -0.0806217298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6b8718b54a54498aa4e159cd5db92286a68b3151",
+         "name" : "Cafe Brera",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103779263711593304371/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZztaWEerzqDFYyeke863svGYB5SK2Qk9f70ll42qNzsyCNN7XWCv5KMYMc2pULg06IyPN0qQkK29E2XMIcrXXt8JvXYSmGofdYlV5HfERTuEJeS8vT2wToP9bZ_rLP1tEhA9s5Uw775nXVlp7lQuxfDJGhQEKbr_2DmY-JLlMh3v5RDFlKaoMQ",
+               "width" : 3031
+            }
+         ],
+         "place_id" : "ChIJzTNbq00DdkgRPozrCrPMv2k",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAYjYOTxrff1_5meYZRv4euT0EcCm99z_s3aLkhjBH-VoI7sbrOMZmiWQ_TJTzX8XtnweJemoJ53i0HA1VnEYeurP7UbQC7d7sYaOFnE8Tp5ijeg2lN16ONdd7X_p1OkajEhCOGv3OcVqx2gAva6YvuyBtGhR9NenDOSqcBtV5BqhudqI6At2PyA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Fenchurch Pl, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52718489999999,
+               "lng" : -0.1554207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52849352989272,
+                  "lng" : -0.1542416201072778
+               },
+               "southwest" : {
+                  "lat" : 51.52579387010728,
+                  "lng" : -0.1569412798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "70127cd8a9b047590157cd11d49d02de58082884",
+         "name" : "The Regent's Bar and Kitchen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110169539130334768181/photos\"\u003eThe Regent&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHP_Edrdxfj7APbMryq-6n70D1FkpNDyy8r_UBjvUyvDZlP5Xiy_gZnRKEdmvrQr35OvLAIjPhF3eD0EsEuQoBoIOrXrjI1cFkhE3vYespDft2fcKb44hU9jCBYDIwqWgEhABIIFYzhk1gVF302XfO0ZoGhR0Xldt46JeuOjuc9x_DHzO5VIoBQ",
+               "width" : 745
+            }
+         ],
+         "place_id" : "ChIJUaM0CcUadkgRPegvxdWa0rU",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CmRbAAAAMueiZ4LNRoegDpIuVPwk2cGJkbbbX2b-RhiosRCu-PJ4rD0Za8QLoIV8KNlQ3HGRk093nn-bKBWbsQrJIS-Hl7cAHEwmeqCX7YSyWwhE9rkaMgr74IWfNi_7e61sW-OwEhCNen3WkAchPajuQ0DF6fMrGhTqa2lexYTiFAk0pbaWPIJtHHgPfg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "The Regent's Park, Inner Cir, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4967488,
+               "lng" : -0.1430959
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49803472989272,
+                  "lng" : -0.1417556701072778
+               },
+               "southwest" : {
+                  "lat" : 51.49533507010727,
+                  "lng" : -0.1444553298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a998fe171aea668006bf35be652a461ac7cf88c0",
+         "name" : "Aster Restaurant & Café",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5777,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101226375539133401629/photos\"\u003eAster Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjc3SiWQk1FounS08JsvXwtvIkZLQuYQH6IGamiVYLDIWVtToDS4qwPsB2And_LyAew3m6H7cbFv3ubBEEx3eDXX6dQByIVG9ulykSi3pe3jUzRmFvodpIHHHUNISwtJ8EhDq806euSq8fjkkVG4HjcWbGhQjF5dTzW2nHyvRlD3sO6oAk-qpuA",
+               "width" : 8666
+            }
+         ],
+         "place_id" : "ChIJiWc9_yAFdkgR6EITYqJcijE",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CmRbAAAA0nvA2NVEVH9XneMAipKi3-7khwZdgsXa4UYfN4UZWNGvQ9p9ZCRKqK7AAg_85SR0uhpDKkVHS_umZO5nLWujMVWfVFaSQ8CcALQO_Xxf4CoOqDv3qkK4JBefGrrkxFZkEhBa_MTmVqzcVAom5LVD3EywGhSvIJclwk1lM8MVmP3B7rovPvI9dQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "150 Victoria St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51411359999999,
+               "lng" : -0.1247248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51543792989272,
+                  "lng" : -0.1233406201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51273827010728,
+                  "lng" : -0.1260402798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "575d35cf8e8a32d248cbcf563b7b6b08aae88338",
+         "name" : "Costa Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105965259839860178467/photos\"\u003eAllan Engelhardt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyYD9yCc3-tyIKTnzPK54m4xx-Av2exnSmbYp0SzoRSu92JMo3W1eNHewwGp2aFtCqJFh-i0QfrrLeSSFtJ3Xr9eHMIY-DLsfGv6LAG6oXJY29wfUl6ax9nPms2OMjY15EhBK78lsSVM_3fDAsF3JOvjSGhSe2N2xLel80HChnh3KxCWXIXAAnQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJsyneucwEdkgRP0YTGPD4aHw",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAWAmIvS03wzkkY4LsmQkGZ57CdvZko0qPk6hMig0vwuQwMyrmurtiHs5Ag--XARZg3nTj_Nb9woKbhvT8ZirnLkz3acqKg-AW13Yb5rN2nxmp10y2zFJ2sEU3PGlzHQUlEhCrmisv1Ts8rdZ-ruhW9dL5GhQzsbtmH94ECU72-6vC_wn3twsjYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "39 Shelton St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.501599,
+               "lng" : -0.159739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50309162989272,
+                  "lng" : -0.1584782701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50039197010728,
+                  "lng" : -0.1611779298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9ce2f52e345dc4e327ac4529071a8fc91bdf546",
+         "name" : "Harvey Nichols Fifth Floor Café and Terrace",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104111246635874032234/photos\"\u003eZAGAT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc56qtWqwrFwKKq0zLDI_-hkNNkpxDRd5C2owmq19ikKv7aAD_94sjBGmrabxIC1opEXaNLYQxKBN5efyNw46HzlVzztSsvDJGsoZzpD4vkGnavUjXwBkrW4CrFY9NkZVEhDJZb3zSjsDZcnAiXnfrkccGhSwZ2uQ9JJH39h86f9cqbUNB8a_kw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJE3sonjkFdkgRKpPslH2B-Jo",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRbAAAAbvAe3ZCMR337hQcp1Kzfv58CReXtCjdVJA43oOhQ4eD1ypbO5BKFF-j4lTG3H9a0s0RzsRoYTJNQcFUFppnx5c2sKnO3z-NNTl1T1hNMrknYo0Vw9xrICY7VfBxGjGzJEhAGdtKRdij3qOp41tEQlX9SGhTtINKUVTIOSHZw3oEWuDdfMljdnA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "109-125 Knightsbridge, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5234685,
+               "lng" : -0.1273138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52471952989271,
+                  "lng" : -0.1262123201072778
+               },
+               "southwest" : {
+                  "lat" : 51.52201987010727,
+                  "lng" : -0.1289119798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e34794fb3de462b4c9bc53b0f98ce0fa8a34cf2",
+         "name" : "Blooms Pizza Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 637,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118138774938780578705/photos\"\u003eBlooms Pizza Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAo2nF-6omEbcBs2vxzJ38UlF8fVFlHv-bx57X4zmO_PvN9RiI4cILw3cDdDPJpoLVjoQYfhW5qnXTXcY2ebMS6MYz0rs0F5ErUCWhkNF7cciyl-LaDkwaJuLaY6mFYs-XEhAyho1_IxbAZkDoG5A7gf0aGhRbBX3pKrNiG8PXfeei9OJfenuNtA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ6SheTzAbdkgRdygADTSwMTA",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAA9HVE66bGhATNRglUVIw7dni-DD8-ikvKMPBsNCbntpcSkh3_4UWCNxNxtXdgazCwUBUjCo1lWzaxzP1oNByF_tNSXbIG69qtiPKAC_GZU2BMaiCMQZZz3OmL6D7GiVWmEhBdhWEXIyjDAS0Q9Eph3SPJGhSP4Kow9LwXgpynOKIePZSD5aTPpA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "store",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "39 Bedford Way, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5080371,
+               "lng" : -0.1253192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50938692989272,
+                  "lng" : -0.1239693701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50668727010728,
+                  "lng" : -0.1266690298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d45febd2293d913576f43ed9ba99e5c173f2e994",
+         "name" : "Costa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1136,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100240707471595022127/photos\"\u003eSimo D C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAefdJklLEXd5wWN-JI4aETIM9YR-rKsrRLfanap2nw_dGUhUP2ojWr3pR-Wv_fbPC-4l1FWz1bwD14cjTgnHUb9Imjk-bUVeLq630NsgkFK0MAj0Vy2LIGm80-1inkn5REhBDPQr7lju5smF09HMbSKbYGhR5TfvkmRYC7P4vWK8Xm1tSGaRElQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJv4oaMs4EdkgRI_PUWFgZw-c",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAwWWZDFEtIKcnwpUXRVlatGxOJ-K5-HJ7NM3GBh5o50cH7UFhjoQcJnnjThrzufQj1sgmmsCVD9AFlMHAkoGCa7Ew3MEnarrT1P1kDSTjKefA39QhrHvC7FqbHFXh72qGEhBZBJxA8wiZ8TVHOj-qaflSGhSpWAvpJtKAV7Dn65KQucE5cborSg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "12-30 Strand, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5107072,
+               "lng" : -0.1217796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51204802989272,
+                  "lng" : -0.1204503701072778
+               },
+               "southwest" : {
+                  "lat" : 51.50934837010728,
+                  "lng" : -0.1231500298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bb1c8ee60a9839e3c72b4c89843609183149bbf5",
+         "name" : "Costa Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115319659359907301114/photos\"\u003eKmemfa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbrZeJ-vo9poJANbp4DEdrpaWzszohNhN1M3vL2m13zmv_4WP-UM7La3aSoALcJZrF8-lqrdbvfVXj5UlGKYJ0wRs2GnvfKtuJ803NearWSb3WUN33IN71iVj-hNuTciAEhDMeb9OXsy_o060ith67aYSGhQQ5UzL2zGtvWCnM4oeIyMwmdKHLw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJL1DwwcsEdkgRxMkM6BnLEQU",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRbAAAAL7rSLJdDAirWuuhO9AkK3q0KJsKe_hMVS2xp5_3s8m5FY6HjTCCYPyN-HpWwrDrLahY8lp1NhdwXp7jVDnbty8VXLqjuw4NDYPLIwZiFiHTAcVtzLwd7dM3wK7yclnK9EhDM6P-0RTk9r4BBgKU7zSkmGhTq0jGvqcsJl59B8HLCWQB0WXNLwA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "37 Southampton St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51366230000001,
+               "lng" : -0.1180283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51502937989272,
+                  "lng" : -0.1166131201072778
+               },
+               "southwest" : {
+                  "lat" : 51.51232972010728,
+                  "lng" : -0.1193127798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a0e25f0114be4fd8909af5f13ed9a0a506053f27",
+         "name" : "Costa Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109342161079987180396/photos\"\u003eK Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2o808Z72lN6qpAsXkse2nF820HRSiRkNF2tZH-JUz_UBVIXFuLHYKhALKlCQU-zgLcTde-zjV7HXs2XPHQl0ybAtBVAXGbVkfGRN3jmYwDqF34Tw1ppghgOYX-8QXB6OEhCj_Opgf1POkigcullWBduaGhRlSs9f_rrQF4Nyc3dIi9_uNiCZvg",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJn8iwmMoEdkgRXf5OYlSLgjY",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRbAAAANjGZC_uaaJNToUGPOR0oblA9Whg9yH4g0skKG9r7xieo60AhOmYM9oOmJqJ8JRfBXPakpEpBVHauJOXgXpdslceEYiVEG0gmDYVy7wNS2D3iC9XD9mE52xK75G31ZR9XEhAeU5rliKdLFVCt0wbj_08SGhQNH7RlxZ15KHgK-U2WmvHiiDPXFw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "9-11 Kingsway, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5429091,
+               "lng" : -0.148235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54418947989272,
+                  "lng" : -0.1468859201072778
+               },
+               "southwest" : {
+                  "lat" : 51.54148982010727,
+                  "lng" : -0.1495855798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "452be324de7b396e297ec45016d91e41b676cc2f",
+         "name" : "Hawraman Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109735987117368906001/photos\"\u003eKristy Robinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvexhhRFduycAZrodDGITpeiT_v769Le6Dyi_F_uj5iw8tTj7Yo2DgMHWWUriSVKHkaJjeMKDOqkp8qhX2_p_CHzLMizcNufzUkneEDI5l_WsJOK_9zqEydHZxLkxZzAiEhAKgoD_8Znku0iJlvO6v5biGhT9QVjLKmiAXuvjFgd9CHUO-wS73g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJfx51aeQadkgR6ZCWn8QMV14",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAGRF5cd9hR09zKMUyQQuQGPsmehXlQiMTP_OQwyZmMcD2grXUNyEwpkESy55D4GIZJrMjsn6P_ls6p3A6aPAkwY7wfrCqBWIAwrxGFiwcN41fUpGjwAwMFE39OgTvEQHcEhAaFWPHP7WJJ96I_i8eDYpOGhTB6ws_ZVWuyLAyubViZqx6z7VeAA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "38 Chalk Farm Rd, London"
+      }
+   ],
+   "status" : "OK"
+}

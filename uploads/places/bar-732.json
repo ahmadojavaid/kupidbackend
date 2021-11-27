@@ -1,0 +1,262 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2198838,
+               "lng" : 72.7937821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.22124502989272,
+                  "lng" : 72.79513237989272
+               },
+               "southwest" : {
+                  "lat" : 21.21854537010728,
+                  "lng" : 72.79243272010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "269dcfec846dc9f4e196975498da9c98210eae77",
+         "name" : "Mama Keri Bahndar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVWiMEhhM4DsRAcbvEgmOjA0",
+         "reference" : "CmRbAAAA331XbdmPn5K7hd_hQQ96219vA4nvyDRnFsyxRTkse21KULN2pxaAUMMep0uUMg8te_5Hq2kCuk8C44LWQ1KpIAs4OvzLY1CfwfBc2mcJsdpwaysM0Cil8aMeia_eB7XFEhCdUIxkpfUI2-lsgJMhBZB7GhSm7-p59kIfuGlAIXHb_BbGhg96WQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Balapir Rd, Rander, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1657676,
+               "lng" : 72.79393859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16711742989272,
+                  "lng" : 72.79528842989271
+               },
+               "southwest" : {
+                  "lat" : 21.16441777010727,
+                  "lng" : 72.79258877010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e0f27be3700dfe6d969fc9a9a02ea87a536f3154",
+         "name" : "Panchayat zone or panhouse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAQAAwOVN4DsRlx5UfVYF4B4",
+         "rating" : 3,
+         "reference" : "CmRbAAAAymZwI80vA7zBv5H22e3KU-YwKGbaM-ZToe8SegVaTBWalcbqUiHUP_lqrZmSl5Muf55K6vQe-r9oX8cUVNZYoGJlXOfOvd6Du7PGH2bMwMqquZKB8wX501oePaWIKAoIEhAJ0899N4r-6Phi4MGxsQ3jGhSLng4KsBzacRLpKoPHJZE3AY3k_g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "City Light Town, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.207357,
+               "lng" : 72.7807852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20870682989272,
+                  "lng" : 72.78213502989271
+               },
+               "southwest" : {
+                  "lat" : 21.20600717010728,
+                  "lng" : 72.77943537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "db186e0b970b1c3129807d713f03670a22b92b2c",
+         "name" : "RAJE GROUP",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117865880193743840352/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPyJ8vaZnO9xGSfggxYuNXgyGRoDyO6VKNUACPBvM41GwwBrbXHzS5F7jxWpqEJis6EPqDk1WJ1Q03kv1QBUD7-5_3d9ik1ogbfxQqgRvaNxny8B3OAwkR6VvPYgxZ-KHEhCGx4bDYlcCHjkGKioL37QCGhQsitNvE-fYsJmIeOwDLyd3mJYhHg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3XU3CjhM4DsR9Ri2iHqQZTU",
+         "rating" : 5,
+         "reference" : "CmRbAAAAECA7vdH5pIhjYymaTYTl9zj2nKFpzohKbfZh2rGolBx04kUtXrumzSRnC8loNEtEB3MC_7MUebBiWr0oAdSWRHyKBAuKRmciJB-2P50auTbCYZzEGB7_qriNtB94RkhTEhBNo_pD4qGeqATjlppQMAAyGhQY3lxu-QnCpaPnNN1iWB40d7BAwg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "VISHVAS VINAYAK CO OPP SOCITEY PALNAPUR JAKAT NAKA 359009, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1675625,
+               "lng" : 72.7858045
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16891232989272,
+                  "lng" : 72.78715432989273
+               },
+               "southwest" : {
+                  "lat" : 21.16621267010728,
+                  "lng" : 72.78445467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5de77382b67913b04453d2dfeafe696a3430a8c8",
+         "name" : "Swaminarayan Soda",
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103305415533290166230/photos\"\u003eShaikh Ahmer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa6PDIYT8RsVG4tkDlT_DhEVAvSCcc_0TUm5NU1lM4bMDNyHYrO8kmrDDjcrESzX8MYaws6AdGC_ITTWBLXGi1SrBAHwfXLBKvHgAb2xTTgFq4W5Be-JF4I1OQYbazC4GEhAcZmPXxS0GjDQ4T3R82NlKGhShAknXoDjIl4sMWtIYK6ymEPGweQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJobqd6OtN4DsRL4zJd6mvsKQ",
+         "reference" : "CmRbAAAAjuCp9dQheXuMsOYvrpEhDRrPcSPCnUG7I6hAF4mxYFqKEd6nUC8rIm4bKK0TwLuSC1eFJIjVGgXdzBsC-QVTPRIyeJnCjOgLB-b2W4DNotLev_aavVxUV7rWIVy5Y7wfEhAJ7I84tgoFhmh3U1ZjBg7ZGhSH0EDUa_te8AD1cTecAlxizNYaHw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Surat, SVNIT Campus, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1734825,
+               "lng" : 72.789214
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.17483232989272,
+                  "lng" : 72.79056382989272
+               },
+               "southwest" : {
+                  "lat" : 21.17213267010728,
+                  "lng" : 72.78786417010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5abeb596d207b7c7bddc814a2457db087cb72dba",
+         "name" : "TERA BAAP BC",
+         "place_id" : "ChIJiw7rY8JN4DsRDdBoV3qf8rU",
+         "reference" : "CmRbAAAA6He8tB25gFCwJ5xBzhBgZZC7vHsgKqUIzafurI1ocM2JcVvR-C6L7Ggqk-9mA2dX3qTkipvvlDAucHk8Df3XaFvTQOnh2VXGg_ejFAnRwCep5K0I2E-WInodctOdJw6jEhCT9wPEKMjGjTI6e2uOXgaSGhS3ASh1TkGi1gegEZlvqoxB8WBiKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "40, Umra Gam, Athwa, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2287488,
+               "lng" : 72.8214182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.23009402989272,
+                  "lng" : 72.82284782989272
+               },
+               "southwest" : {
+                  "lat" : 21.22739437010728,
+                  "lng" : 72.82014817010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "74675ccc6f4a9b6cba2f1c46d9a3b4ee29f7bb78",
+         "name" : "Chamunda Pan Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ6yDJ5btO4DsRTm1lCBdac7k",
+         "rating" : 2.5,
+         "reference" : "CmRbAAAAEGdMIN55a44srWMHySPlgYk7K9ISaXmjAB7xOILrmsJ2pA2szifpwBTf3XEg2g3k2YIloGipRmDQhdoiDqhVqqIHfdiiBIEtly86CvzHVqomZySS4a0xjZyx7Q4fVZ4PEhCoFAxkCrxXTamN4bFC8O2WGhS0aK_qgdo4UUpg_tCcv79lC7i4Yw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "B/7, Ved Rd, Laxmi Narayan Society, Ishwar Nagar Society, Singanpor, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1976868,
+               "lng" : 72.8029425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19903662989272,
+                  "lng" : 72.80429232989273
+               },
+               "southwest" : {
+                  "lat" : 21.19633697010728,
+                  "lng" : 72.80159267010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "886d009f1e3931f402aacba799dbf3937988b11b",
+         "name" : "Sugar Cane Juice Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyS6GtypM4DsRlUlx4Q3aT9I",
+         "rating" : 5,
+         "reference" : "CmRbAAAApguKCehttCsPEJz4GNKVDYMLSN8ys_LBkCiuxrCV7iIBto6TVZHovPYw6cmu1v2UqK01_oCaU5yJs_vVwElpLHo9W7rWPt1e0JgHKYsQBXPeeox9C1GuxbYPqMw2N12HEhAj85PehyKQqoYHM-BwFEI6GhRfVKSkQ9LTHTrdUcFLW54B9hY-aA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "1-d, V-2, Krishnanagar Society, Adajan Circle, Rander Rd, Jashvanti Nagar, Adajan, Surat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2317394,
+               "lng" : 72.82596289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.23308922989272,
+                  "lng" : 72.82731272989271
+               },
+               "southwest" : {
+                  "lat" : 21.23038957010727,
+                  "lng" : 72.82461307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4d1f9d46d5f80aae96443322a34ac985e4313782",
+         "name" : "ગનીભાઇ નું ખોવડું",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRaJUW7hO4DsRaMn56t5n_Rs",
+         "reference" : "CmRbAAAAhswkk1WE6mHRC_TJ8uvTYBWHgvFWiQ74fZMovIkNo_xlvyuH9z_sx81TDTLN6g5YqPUkTRLB3Q-xPdMXaf2-0Apdrxope62ilRUfEEHAIzVXwiM7lcB2wvAVauifqsdSEhCVEFcEnUeaeNk4pwqeVSORGhRF66r9aAn6C9dyJHjogP1BE---dw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Parvati Nagar Society, Nandanvan Society, Vishal Nagar, Surat"
+      }
+   ],
+   "status" : "OK"
+}

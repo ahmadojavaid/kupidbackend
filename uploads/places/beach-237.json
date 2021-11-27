@@ -1,0 +1,670 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD6QEAAADkb5aw2KS9mIG-0PjZqcnLzBsA5ahZRwQaQqxPz-Fb3hjqlB-YZP-nGya18vAwVhMBebKSRCmmgu3Gvd2xoHjPP-nfAXhL7KA0Gb_4uKVfqE3_iTqkm6joaEsf5-KWwth9I9ZLqeq7GBLOFw1p-zAAm3yWwCnWvHUEoLq1kwQG9oS0opfcfN46YSofmM5oIhtnZo7GKjhiRzsUlq4LEaC9alp-iTxlM08uFoyd9S4roVu6RJokkLp_OZ1aoIPiK0yEJJ6GUJ8OjJN6YNeSXgthjZt8eTlJpkIPNp7oQAFXCus9PZAjEddniQP5hJ3g42Njrp8pdi5PSwcavLJ2ExrOH3b-I6KvnSvImYxwvW6n5BnQzlsKHpkoN03bxHcLV2MrLcBdg8QmkmA9F58JkHRxJoAB3Kjt5GKVctnnnmmi7ZBanJF3ZfJFf5LZm-UMp8uCNV1Tn00LgTpSXRYW73nrMw_WrY2T2jGkOhDL3gWyNGrSf_UuMubARoum7thOjQKyNAu-7OVQMOhnJNh-rJ3RZrHhMI3VMqOxSFS-__6SELN-7Rb43NzriTnxWqFNq5FGNrvmAFD-MLfPVWcsqdP3-ky2oi4pynzsv58e94nCzBB-wzbNjo1xxqZJAy_N9Cib51On1CReKQnDQ_r58xYSEDTdLV5nnjFksDPytTM56H4aFO7CRQuHHZpb3kZIUxliBEG03ptM",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0373772,
+               "lng" : 72.5656369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03872702989272,
+                  "lng" : 72.56698672989273
+               },
+               "southwest" : {
+                  "lat" : 23.03602737010728,
+                  "lng" : 72.56428707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "50f9de160daeb7ce4e6fa14c0dc5a7b18f6da7cb",
+         "name" : "The Beach at Mandvi Palace Sales Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWzdYPfWEXjkRFmoqGTw60g0",
+         "reference" : "CmRbAAAA6SgcUzeFs0JRFopU-4DXKNIjAdT0WOpPfQDGIwKgndKxDv2vTsn_TpaptKy_Aw53as__Wilrqa3055tYRxYjw5m-sT7n1FCFGdSMT6u9zcTp4zXGW6p60dmYpKltBaViEhCJwCupP_wSNvVxW2SnaA0wGhS3nPX7J76DVvmPA098chXDGi2JTg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Havmor Restaurant, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0421754,
+               "lng" : 72.589381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04352522989272,
+                  "lng" : 72.59073082989273
+               },
+               "southwest" : {
+                  "lat" : 23.04082557010727,
+                  "lng" : 72.58803117010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a0739bff6c88500c8a046c8f12b5dcae3e6f12a5",
+         "name" : "Dona Sylvia Beach Resort Goa",
+         "place_id" : "ChIJlY0AkGqEXjkR8MiGVsw7t7A",
+         "rating" : 5,
+         "reference" : "CmRbAAAAWQWG4CffDTJcrNCc-CLBsdImWbYIlbEI1Dhb9YJv1T2YgS_gIiReRvK4Qp4fJ1-6uf-VucCf4_a5kXs_qCI1xlHBooFDSeV4M849kqTSZGP1nN3ZgfpB0xk4TSWNJbDwEhA8leZ47EBDtTFI162US0WyGhQ4_RrH7-vyN1ylWlSF8itHwxlaEw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "D-42, 2nd Floor, B G Tower, O/S Delhi Gate, Shahibaug Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.041729,
+               "lng" : 72.569169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04306747989272,
+                  "lng" : 72.57060597989273
+               },
+               "southwest" : {
+                  "lat" : 23.04036782010728,
+                  "lng" : 72.56790632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "89be3b5321e7fd13952fc7e87dffe6a17d1aa5fc",
+         "name" : "KHANDELWAL HOLIDAYS",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 313,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118344567623605741526/photos\"\u003eKHANDELWAL HOLIDAYS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuFx7NIzpifmdkTQDOH5O1FbUmby_-cON-OR2yII_u0L-MkwJkbblXgdLNhm7E7rxEvtbbKEa4E6Op--B5VlsR6cgyEzELmbCoY9WCQa4AUy55jRSMtj4vkOSwSpODtmbEhCSuXcJvTETMvuaE0gUUtw-GhTgqZrVFqWcBCjomQIPgIWAbcYBsQ",
+               "width" : 969
+            }
+         ],
+         "place_id" : "ChIJtVbfNWCEXjkR7dzot8MjN2o",
+         "reference" : "CmRbAAAAU1WUGn4-O0dQhQZ_pc8Hffsz-1suTnpuC27ykSL6p5_6qkcVLPcwGThDsJXuFGYFJTk4jodwyssq25_pWKJks7FHiGrpibqCrxr3-oqpCUBd-t8O22WNJ6wxpumYyhOTEhDTa-iTxPG6rR3zitMvmNTQGhRVE-lvA7eFVOkCI9DaAepapWSlhA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Aggarwal Center, shop No.5, Income Tax, Nr. Bank, Ashram Rd, Sattar Taluka Society, Kalupur, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0233161,
+               "lng" : 72.5569757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02453002989272,
+                  "lng" : 72.55829592989272
+               },
+               "southwest" : {
+                  "lat" : 23.02183037010728,
+                  "lng" : 72.55559627010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7ebcd6e75d12f98f848f846acd7f54c3665b4258",
+         "name" : "Radisson Blu Hotel Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116189441553647272357/photos\"\u003eRadisson Blu Hotel Ahmedabad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeRQ9ZwBR-ceDUkhaQhoxaX8Xiy8Hh02umGA72a_5KwaL8CA5O50x3Xx4-pmPtMPm5KObFsE_Lpl4dxT4a8kH7GK4kHCrC7TRcX6fI2FTZikNb8jh7vq-9if4ZhVzkvffEhDygRCPHW7r4-YM22P7eAa5GhQQHnz-HzwNFH9W2d0GQEBy7zMhpQ",
+               "width" : 978
+            }
+         ],
+         "place_id" : "ChIJ6_vIIPuEXjkRvDA5ysx4TnU",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAvJ_4PnBD3MKPvsgbNyTO_MkA8NJd6qr69tOa_PU4d7QtlDVFcL_m2Gt1K0yOdKv-iNNvVeR21Y24w2nZrvdGMKjfOLe3qMGE7lLF8deBz7tOgqBRkxx6AiCPK3utSDnDEhCnkjtt_nwtd6QWO026qvQ8GhSPZEXHp9TWhCKZMZGJ6uLSIBXdzg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Panchvati Cross Roads, Off C.G. Road, Ambawadi, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.022435,
+               "lng" : 72.5676783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02382792989272,
+                  "lng" : 72.56893162989272
+               },
+               "southwest" : {
+                  "lat" : 23.02112827010728,
+                  "lng" : 72.56623197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3c2a57d5fad599e2a45b409ccb8cf4a444f7b41a",
+         "name" : "Four Points by Sheraton Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108225652812926482948/photos\"\u003eFour Points by Sheraton Ahmedabad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKTO7JXAuJ-cfPFMmqxBvxree7bsJvbXD2nwVTBGWa5iYiBn1HXA8hvs0cbmumhyfMlJbRyYX9N-az8AQvETuyqE00j3dtO8E8Nq0iuTNdyEGrL6_8qfNiUbl_L6ye1u4EhA4HAU6V-S2HnShY3tjxd-0GhRWLccA7utpYnjXp-L3GiVw5UOZFA",
+               "width" : 616
+            }
+         ],
+         "place_id" : "ChIJ18RQqPiEXjkR6TNkoduQjn8",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAqpWq0gQohJJXlHMahYuPewnoRjHkb5rrgagQOx1Y209xOoIm0spwVQ1Ea9Rfn3vHaKLWHtrgJB54fRxqHHGP9Xdv2k1omxKlumH9izTscKs9r16bKH1fMs771tJeLDSqEhD_F3zKW3LC3586wLIajpJ9GhSVshBt4pmb_3KJZPvBErXk9BssQA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Opposite Gujarat College, Ellis Bridge, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0437818,
+               "lng" : 72.5702017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04513162989272,
+                  "lng" : 72.57155152989272
+               },
+               "southwest" : {
+                  "lat" : 23.04243197010728,
+                  "lng" : 72.56885187010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3e8428e294ada337d57b2a497d0e78bd9c4eaf97",
+         "name" : "Hyatt Regency Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116529043290532980111/photos\"\u003eHyatt Regency Ahmedabad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAG4oqgsAYIIoj1cWWxHAnSWbzzmk5dTG9RkSUMNN-YtiemEdRROk3Idv_bM6KVtAyJluJ-ApPz0nmkuvOiSWWjnwHZWwVtcSmBh_CjvoEQY5IV9azgy36X3ChSDEUkANwEhAbkA0LgQ7xZ21tLiiSQ6AbGhSkaDCug0hwFRY0_gp_8ayzG27V2w",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJI18JomGEXjkR6spwQiQrJ8o",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAApo5LjT2nSsjgKYMkfv5FG1DsLKdgqbZ-ELP1_R4fZcQW3hLWJhay8Qjbpv1xEDmw64fsy5cQFqoWStlZUxaovtKB6M4MR8_gtFhTBC_ozttkX4I5ROs5J9rov_r3k9y4EhBKkO04rddo36_2JkR4Vc3HGhRSMYVc6wFr5PwAitw4XQpuDkwH9A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "17/A, Ashram Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0520643,
+               "lng" : 72.5710357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.05353302989272,
+                  "lng" : 72.57254812989272
+               },
+               "southwest" : {
+                  "lat" : 23.05083337010727,
+                  "lng" : 72.56984847010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d87a6762dca49e34ba1141bca3f0fc821cdbb562",
+         "name" : "Holiday Inn Express Ahmedabad Ashram Road",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 727,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116271424108421900727/photos\"\u003eManish Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASv0DqxTAcl4wouNi3eugqijZfXoYFO0rNxtGGR_VmoTKa8wm63seu5Q6GfyU5phh5_woC85Lj-XXGkHhlmCwNXS-QGPZvUZ6EIstZ3kwzuT2C68hKy4siYsIBIMgkdLzEhBBwX3n-1-u9K16Tc3P2IlMGhSBp4xtAXhuMt7dB7tDDVYfg86KGw",
+               "width" : 1079
+            }
+         ],
+         "place_id" : "ChIJUbAJ3nyEXjkRNwO4ueD8JhY",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAoA67-1iAGFGksDuu1HDirGgdMrFXfekveDq3wnXReI2A3uAx5eAXnAZexhQ59G8NGGAB5yfXvpotTZh1nUGI2L7925RNtIohFRZ2ZnassYMe0UU6H9gI-1uZB53WcDHWEhDc1fKtx5crKptnRrFLEfa2GhTCUU5FNMcNlsvbP0Ag9NHL4ZiugQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Ashram Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0575243,
+               "lng" : 72.61659519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.05887412989272,
+                  "lng" : 72.61794502989271
+               },
+               "southwest" : {
+                  "lat" : 23.05617447010728,
+                  "lng" : 72.61524537010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "abd9bfa752667b10c2eb7341e6274868929c9a8e",
+         "name" : "Ahmedabad Industrial Engineers",
+         "place_id" : "ChIJS5BCEaSEXjkRWRhTLlDDZno",
+         "reference" : "CmRbAAAAnWAJWXMaN4fVK9yCgR1zYWjRIxOMJ5glixi4wiRPrbw7neLX197Of_AoMGe0xvu7IOY0Vsnmpe5rfNJ_CXPLyjBsxnJVPmGsIqEcDBVCHGewmKNfGdUefpNg8XEE0PIcEhCrGGaQhDHh7g1MWgDPnOW1GhTll1NE1iXmqTLUsM7pIVLKK2AHlg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "B-2, Silver Beach Complex, Gurukul Road, Megani Nagar, Memnagar, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.022505,
+               "lng" : 72.5713621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02385482989272,
+                  "lng" : 72.57271192989272
+               },
+               "southwest" : {
+                  "lat" : 23.02115517010728,
+                  "lng" : 72.57001227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3059a6a0032e84eb08235bc6177e4cd72b38ce3",
+         "name" : "Crystal Ballroom Novotel",
+         "place_id" : "ChIJqyx7g1aEXjkRBkh_F3HsB5Y",
+         "rating" : 3,
+         "reference" : "CmRbAAAAnVg3nInoj-SLsi-nVw5h5ke8Su6TUazlkon6K5mYfmrVf8jL5mMPhWAzfXcmcFYqDzzMYFsZGXIUBcEsjZfXb-cQDKxMVg6iP219MMgJjDR32tfVpap2JvBiWMqwf8BDEhD3iIfCMcF1q8pOljmPbUFZGhQCpG2UQ40MTpk8HTWc-ZA43nHOxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Iscon Cross Roads, Next To Wide Angle Cinema, S G Highway, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0365437,
+               "lng" : 72.5611395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03789352989272,
+                  "lng" : 72.56248932989271
+               },
+               "southwest" : {
+                  "lat" : 23.03519387010728,
+                  "lng" : 72.55978967010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ce8c5bbed3a6d75c3729fa02560e0fe526f1963d",
+         "name" : "Marshalls",
+         "place_id" : "ChIJm36oaPOEXjkREeLsE2eeuDY",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAYmt-oQL3KKwQ9yEGqaDPoB4ErUxN9m9tseW6wFaE3IGY1wyKQKMm64mDraQu3avgekiAybpkJkjB55Ft5XmAT7363zm-EwUPK5IV6Y34xB9NmCbtMXsTH0N8CFJvC3UJEhCQNWy6Rmv4y95C-T2-ZaHZGhRiZvzqYk7ed10oh6mXyOHULoIduw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "B/1, Basement, Shree Krishna Centre, Near Cross Word, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.031981,
+               "lng" : 72.57759899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03333082989272,
+                  "lng" : 72.57894882989272
+               },
+               "southwest" : {
+                  "lat" : 23.03063117010728,
+                  "lng" : 72.57624917010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0d6fc5789d75f19a91b16d9db2f18667e4e182ad",
+         "name" : "Hyatt Tea Stall",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110090425331583459617/photos\"\u003eAltamas Saamiya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJhQ-ezYu6F_Y61Q3jdW-zAX0kR_49zEYWqoBXoHZSeChwLB8IY4BaMipX22rToMow6VRqs_05iRpieHgtsIoWtALomXLep8_oBZpQtQLm-lkUGtjSoMUG3JD24p0BNDcEhC9smmc_ozFWG4ptUGGsd69GhSlljy8nKVXedMXxmqj5tuzUg7RjQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJw4MKG1uEXjkRlj0XuTkRg_E",
+         "rating" : 5,
+         "reference" : "CmRbAAAAinI1VLvi5THet3GD0wB-DChbHu2jfNZxAP2hJt7DeUjuTgTLcILPGHYYm5m1TOwxn9nuXRx89Ykz6LqP3ZACoO0tsYM2Vm55iSF1VoqEF9DVq7cNX6isG4yzZyM8oRiaEhC12zlawKqttPSh6pBpyX_YGhSDP1-EeUn30qPq5rCVnd0Joc0Opw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bhilwas, Khanpur, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.03855,
+               "lng" : 72.56761659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03989982989271,
+                  "lng" : 72.56896642989271
+               },
+               "southwest" : {
+                  "lat" : 23.03720017010727,
+                  "lng" : 72.56626677010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51fc5faec1deea64ec2defe732e3f74edeaa894a",
+         "name" : "Hanjin Shipping",
+         "place_id" : "ChIJW9Qi_1-EXjkR65-Vt5j0rJg",
+         "reference" : "CmRbAAAAdeTV_DdVCe6KVOg2AwPoytbC2PRzDWPd0CpvQEE7Ikq1-PaKBokbAlpLGT3n1uBJTcQpVC_daUlH_MuBFtwpkG9IZsaNC7lcKoPPDmBqkIhuMuWzLYu4KGi9zVhYJKCREhDMqB7pW260qsAL2ttzI8HDGhQqPG62yVYTm6CA7UN57J708Ou-4w",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "32/33, Kalindi Complex, 3rd Floor, Opposite Loha Bhavan, Old High Court Lane, Old High Court Lane, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0332401,
+               "lng" : 72.57101949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03458992989273,
+                  "lng" : 72.57236932989271
+               },
+               "southwest" : {
+                  "lat" : 23.03189027010728,
+                  "lng" : 72.56966967010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b6ef7b1edaa980dd6d815bd05a11eac441344e26",
+         "name" : "Hanjin Shipping",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHQwUKVmEXjkRcIH-4vcRCOk",
+         "reference" : "CmRbAAAAgSDsZ1MS54hN59LmKEqmxuwYYEcHx6xMzHVmhLF87kQG-LGC93Ftn0DDEWlNBkIeqAgxf1OvWZWUPqxBesAkflVp3fCeGiEm-WLoL2ZcG_QIwQ8_waS16Iq6iBUarg-TEhDDnqP0Jdpq2i6fSTCYN7ilGhSOFs_uMySBl5eWnAxRu3osiryU5A",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "A/710, 7th Floor, A Block, Atma House, Opposite Old RBI, Near Times Of, Building, Ashram Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0334923,
+               "lng" : 72.56494069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03484212989272,
+                  "lng" : 72.56629052989271
+               },
+               "southwest" : {
+                  "lat" : 23.03214247010728,
+                  "lng" : 72.56359087010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "846ef4c76ba5f426734fcced62c5c4c45da5ce74",
+         "name" : "Suzlon Energy Ltd",
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108987968845626175195/photos\"\u003eVaibhav Sorathiya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz1AMYH_79zqtkm_uRnD3HYQw2GrXgmXJRQOSHKr4t4_YxUDHdpBfPyvfi1JliU3aDyWNNltJdzp1V3P3904pUmk6efrGoju_3M-u2kSq3zPZ_8vprW4zfCuoUG8lkixoEhCA3OBZ0vhkW05V8b5wvSpOGhRVF9BJ2U8QaMbNJ7a7VWYLlq7oRA",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ____P_WEXjkRX0czcRKyYRY",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAuW4xKDaK9WlOEvWmrUKJuzPfXU__DPgi3cexORP5ZCVyIDC4otHZ4PvXp_cnojutlG7edb6qBkjEfPu3bYgzP26eznqEt1TEBN2trehkrOqrMJ57nVFLiD-L8vJOwyAoEhC-8kub1Oxz5wDZWKYklfLhGhTyGxkNNH9qmD5AKEkyFemY4iJQaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "\"Suzlon House\", 5 Shrimali Society, Near Shree Krishna Centre, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.022781,
+               "lng" : 72.555651
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02413082989272,
+                  "lng" : 72.55700082989271
+               },
+               "southwest" : {
+                  "lat" : 23.02143117010728,
+                  "lng" : 72.55430117010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "be10ab5d115f4e72259fa921674c3c69c0d5ee96",
+         "name" : "Gujarat Tourism",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111505325465409756526/photos\"\u003eGujarat Tourism\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGbtdosKfHJZLpaCjmDHLu__OvDIu-TzHr6k1TpigbafeAC6ChA5zts6vYHNlQsI2m9G7xpr-kDz5ZK04zBEtEM0FldcCY9wx-cSLx5QMyeEBGrEKjK9aHgQFXXVCDv8_EhCOlkeFW5aJgm4eWizgnhqpGhSvNGXhTMgGOQ7AY9j9RgQj8fRC_Q",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJLR7Q0-SEXjkR7Ii1csewJ3I",
+         "rating" : 4,
+         "reference" : "CmRbAAAAFphMhDGfcOHBAo0BdgdFVNlej2yLwoQfRzdpIXBnRMX4HZZ94LubWlW6Q0_zqVaQFu1aSJCwgrNvz_9ifF1fcxHRA1rTuxp5Sat6j5RlUHCW1PYpyKiT5Er8X8pFuKTAEhATn9gzIqKmUIx-YsRBQns-GhSY7D2hKk61eSTi-kBoCMmBfqxnhw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "Suryarath Complex, Chimanlal Girdharlal Rd, Vraj Vihar 2, Panchavati Society, Gulbai Tekra, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0461408,
+               "lng" : 72.543199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04749062989272,
+                  "lng" : 72.54454882989273
+               },
+               "southwest" : {
+                  "lat" : 23.04479097010728,
+                  "lng" : 72.54184917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "789c9605fce15156a1403c5725d18088f2d378a0",
+         "name" : "Cidade De Goa",
+         "place_id" : "ChIJFfEDab2EXjkRrg0iVb9hbzI",
+         "reference" : "CmRbAAAAogiPsz7nkZ8wWjnA7vM12q44uxlDEFIlNGw_sbqoNRnTI_tsJ3aaQxD-m-E5Tt1hcH-hs9u7xxSeyH0-fDH__jDOrKyu3ULTW5CO3dZmsEJmyXUWGVgH89KhNV1DsK2YEhDDhRXA7yPuaKfhVezEzEQOGhS5TbshdJq8I1uOjZHdXsPPnqrqwg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "No.212, 1st Floor, Sahjanand Arcade, Opp. Memnagar BRTS Stop, Memnagar, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0551934,
+               "lng" : 72.55850029999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.05654322989272,
+                  "lng" : 72.55985012989271
+               },
+               "southwest" : {
+                  "lat" : 23.05384357010728,
+                  "lng" : 72.55715047010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "77663431a9c45a3060586c6e2264c2615832cbeb",
+         "name" : "Delight Holidays",
+         "place_id" : "ChIJKzkWgoSEXjkRPy0vZ4WfExc",
+         "reference" : "CmRbAAAAuPbDAy-C-XbQB4qplEHLdg0XDdfU520lKWTkpl2JzIsPUnLya_yfjvkFQ41Z_pJSrX-SCF1rToBRwFYJkzwNpiTBnY8KvQu1HFZAtg5l9Dw9yU52gRYWmHxCRNCYNoqPEhBYMxPtp4YshPhZSKXjMxveGhS7f8ekpJ_14Iwj9m9HONCu6n-wsw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "A-10 Aryan, Near St.Kabir School, Naranpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.031739,
+               "lng" : 72.570455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03309397989273,
+                  "lng" : 72.57181977989272
+               },
+               "southwest" : {
+                  "lat" : 23.03039432010728,
+                  "lng" : 72.56912012010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2f34794942e94d7fdb61cdc7049c04303e186381",
+         "name" : "Mystic Gujarat Tours",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100386832934918569365/photos\"\u003eabhishek iyer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAroAIVLH8oqsod7ueVu3dJ1ULa2vEdNgfW0z1921PB7Mq19m4HSevCrWaVjnqrMJWeXaIw3J5qnterDuwKix3PKYulw3o3jnYGjODyaaKsYy88fVFVwXXWnU6AOWYdIBwEhCcWS6d0PpVdQUL0bN3uGYZGhSmpeVDya-4MYjp-f3oC4BcRyx9Gg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJJdSF0FmEXjkRoblfRIB-syA",
+         "rating" : 5,
+         "reference" : "CmRbAAAAQwYNQCqFUssB7DQcJqTp7nayIPHePIG-Hv2PMBnVXPxBuNUGgNzCxdLSSuHDEVM4vNLwj26q3fh1Waj9dJ9ycDJvL21ygmImeuWkEkWxAW_savD7JZEuYFcKt12-7nomEhDDrsJjmxqNzpMZgTfI-72BGhQwpkCJxzVdr8iHr1DqaRfi-VJ7Sg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "17, Chinubahi Tower, Near H. K. College, Ashram Rd, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.014718,
+               "lng" : 72.5852105
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.01606782989272,
+                  "lng" : 72.58656032989273
+               },
+               "southwest" : {
+                  "lat" : 23.01336817010728,
+                  "lng" : 72.58386067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f4a14c033246d507dc67b029859784387e555540",
+         "name" : "Taj Palace",
+         "place_id" : "ChIJl4OuhrOFXjkRTnWYh6swKcE",
+         "rating" : 4,
+         "reference" : "CmRbAAAAbIZsVwwax77Bk_jXYhO_gSIgQIbZ_2A9toxrl3sjLkFDDB9qoMqukSbLGE9KM0lad7ay7nIuX1E42CR8KWWZZRJbh2b6WHr0IyTMCd1dKiOs5lcdxuZKmbvyVpJtTRWmEhANgTR9jV5PqHct_IEx5ic1GhQXMKk-gTBtVvbxMn2toyspad2kxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "kumbharwada,Gajipir"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0126921,
+               "lng" : 72.6076233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.01404192989272,
+                  "lng" : 72.60897312989272
+               },
+               "southwest" : {
+                  "lat" : 23.01134227010728,
+                  "lng" : 72.60627347010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "52009f9ac12e714e20ef06ee112c1d2f669940bc",
+         "name" : "Salvation Army Hostel",
+         "place_id" : "ChIJdQa_F9GFXjkRyYbwh5dwUOQ",
+         "rating" : 5,
+         "reference" : "CmRbAAAALuPjvnOekPZOAAbT9KvF_kgc62eSZROfb9EA1nlrBvwXh4BpQav9AgMPJvZ8hSoFG1ZkF4-J3yyt2sehhnW0G9xyOCmvp5T9aGnhd4aeG9SAP2xKzP6Tz3PhR4kV_mlwEhCzdbtE6K8yVhW-Z6WzPwd8GhQSxlJxXPM7OCmgDwzVltK0dcCqjg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Rajpur Hirpur, Gomtipur, Ahmedabad"
+      }
+   ],
+   "status" : "OK"
+}

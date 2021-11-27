@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7634064,
+               "lng" : 73.06584459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.76475622989272,
+                  "lng" : 73.06719442989271
+               },
+               "southwest" : {
+                  "lat" : 20.76205657010728,
+                  "lng" : 73.06449477010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f1359fd8bfc10b580361882548f25e9dc2bbe1f7",
+         "name" : "Kings Cafe",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113665009411515698457/photos\"\u003eShivam Mistry\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyC-A62zNpHqmuxPJQGWkaBI_8r8qrdEnLg6V3GHbuClrJ3DGgSpdhVt7O7q_DqtNh0uxZx0YfnbKQIfRY95F5w3BNB6O5uCK2d44i-AO6IgsSrAldQdDudfyYnuRrLkmEhBLBPUgqLlLFNhyL55fjDXZGhR5T3wDL-0cHQZRx5fsZQOF4LMBqg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJHZxSbCDt4DsRs_bOHfRgIX4",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAGwWGClACZbDUoGSbI0UTOjk_vEdgeSl_CtbtWjmhMBO80jBosGAoz9oXtqO5vtPFZl7oCGCa4ZtZ9RQoYACkBiu_JX7_quSfn7gbU86WQX-8iB6DTUqOdJuG-5x25ehFEhAEmJH1GBY0651frPzaVZZHGhSut_MUPnc2VvLvFGqpNoLEjdFqaw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Chikhli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7632587,
+               "lng" : 73.0654157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.76460852989272,
+                  "lng" : 73.06676552989273
+               },
+               "southwest" : {
+                  "lat" : 20.76190887010728,
+                  "lng" : 73.06406587010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "758ebdbefd7a24933f1dee90f056fe6259d4567b",
+         "name" : "Baadshah Chinese (Veg And Non Veg)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113855730825401785117/photos\"\u003ePrashant Rane\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAISkEEaWUoTAWTe-zW1s4MvGcEMz74pg_oksDnVzKlnPTEj8IAvzD4v46haSLqmTJEBEHm1czXYLHWkzhGS_Eu4HrTws0F80YOFksfSU2WfswaIw7bmR-9S3gG1z8H74UEhCwQxH2ezp_4S3PyHp767sEGhTER5CTOrOl7yPNUBOuvgewSUadqQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf-5gEiDt4DsRM8roh024uZE",
+         "rating" : 4,
+         "reference" : "CmRbAAAALtW3NNAvOIRl90i9160U_LY71LK2KO98RvnxXmbRUiBNZ1ox9BLretfJgQgJyKVyxr05NBd6KthrrXx7VDBZ6VLA1tBvxqN6DTY7meDeY1H4mCf_QKj5CZE6EB8cqRZiEhC7hK1QdDe8Z5gvZCh68cjUGhTmz0jqXV4dMnAHhVX42IIvuRTTKg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Chikhli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7752691,
+               "lng" : 73.06645979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.77661892989272,
+                  "lng" : 73.06780962989271
+               },
+               "southwest" : {
+                  "lat" : 20.77391927010728,
+                  "lng" : 73.06510997010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "224df94fa4a2e1bd53dde9f2829c10e8f51da353",
+         "name" : "Hardik patel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104841716075125164124/photos\"\u003eKamal yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmkiQf9i80uQuWbnxlZdV8jJ5dOODuV_IpzyjWCqhtj_IlHBdalpgM6t7s2FWxsOtU-SGABx5Q3f96NnxlQIndn2g35iROv2C4zBhuwTpbaY1mDsYIT12mS3i0mYSltclEhC4TW91m2Zw5nDeD6bFLuwEGhQhjrMTnVCX-yiRAWgJ5NKfjiHcNQ",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJrzprIz3t4DsRI3G1v6ASTag",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAJ7N4uDMF-EytvH_xvLwBjvMsJ2diYgb67-1J-WyYMlFbSH0G8G96sZv1CZHkzfAd9g9hQg86JeEyXxM8lPbv2D54PBubUDAb5JiLPMIlDGcMlpNHvcEsNbRfe1mpXvXlEhC7x0wuIaqsUBn5UVlAwZG_GhQ-2Ihn9qQPlRnkrPlfJpXe3_tVUA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Anmol Society, Thala"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7731939,
+               "lng" : 73.07213469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.77454372989272,
+                  "lng" : 73.07348452989272
+               },
+               "southwest" : {
+                  "lat" : 20.77184407010728,
+                  "lng" : 73.07078487010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0fccf3e13278c57870ec04d788b558a408cdfb12",
+         "name" : "PAPPU TEA AND NASTA",
+         "place_id" : "ChIJT40k6CTt4DsRkEce6rkUY-g",
+         "rating" : 1,
+         "reference" : "CmRbAAAAGieDvggcrGsPgzrbehEfOXycD0dFnhsNKOR-unRkxX9Gwhdg9e7FAqJEZ8gqjw1feEtMq55BbjwM8gdHp0317iGG6R2vfmHdKAmdY5DKXBQWywTgfEEGeSO97jfPiQ5-EhBO-8Fnr3UAsTA5yaK3h4PuGhQPe9IWLsjVX8lHDxfpyszCVUXGxw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Thala"
+      }
+   ],
+   "status" : "OK"
+}

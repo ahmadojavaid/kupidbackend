@@ -1,0 +1,101 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0374465,
+               "lng" : 72.5663254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03879632989272,
+                  "lng" : 72.56767522989271
+               },
+               "southwest" : {
+                  "lat" : 23.03609667010728,
+                  "lng" : 72.56497557010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b3c684b771c1ac65023bdb2a16f6a5d3160a73fb",
+         "name" : "10 The Rest & Bars",
+         "place_id" : "ChIJ____P_WEXjkRHr8gLrJ_NTU",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAAPQZU2O18LfcnKZzUi9rfi2p22qiIVLC01n2b2O_NcXACMTwWIcfBBOjSFwMp-EgmsZbA0U0WikJZLYwHDRkAtjEEgeG0FiaELb7egLyzIwdls4XhDvYOrxYMsEgGvFqCEhDzajgwwcP0ZiDSzG7obbWbGhRpG-Amj1JVMcPKstpOyJgYz7KKHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Urja House, C G Road, Navrangpura, Near Swastik Cross Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.02009,
+               "lng" : 72.632149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02143982989272,
+                  "lng" : 72.63349882989272
+               },
+               "southwest" : {
+                  "lat" : 23.01874017010728,
+                  "lng" : 72.63079917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7c61d7ac7bb5da8c26838faf3429e2b5ad927e6a",
+         "name" : "Parvati Traders Steel Supplier Ahmedabad | Alloy | High Carbon | Bright Bars supplier in Ahmedabad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106810099574611725908/photos\"\u003eParvati Traders\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYysgYHcMxzdo1Qwl2AHgoFS8-WDQs5d_zHG58z_8PC6JZoWsmJVHzjIRBVQJ80yoRhN6YbnwR4rwJVRfv6lsOEqgkg5rlTaepUVDmjSgStJ94K7agsJg9m7TYDGHu4Q7EhBcSuPXA0eIhirwlh8R7LOTGhQOrU9epJdf00YFdDDWl8jdL_69Iw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ____PziEXjkR-EdFTDorGQk",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAzFnwodSebcWxCwheNtPbelDXCDHv0UxMNhS03aBvsnAJ_ScGlHZ4W734IH5zaksq9FWnC6If_N2ztUVdB7r1qwqPzbqSynZdaBkVOvPdSCa7ShXj8dGe3gE7ITVYCzbREhAJkc8udixbHdkOmUs21QoSGhSNQ1Ol4tX0VRCPOZdhwpx17HcNxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Bhagyoday Estate, Chakudia Mahadev Road, Rakhial, Opposite Grevity Estate, Rakhial, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0453269,
+               "lng" : 72.55968519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04667672989272,
+                  "lng" : 72.56103502989271
+               },
+               "southwest" : {
+                  "lat" : 23.04397707010728,
+                  "lng" : 72.55833537010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8f3ca03b7f11a2afe6149ffe46a5124f97402bb4",
+         "name" : "Premal Parlour",
+         "place_id" : "ChIJVVUVpYqEXjkRotDnRI53i18",
+         "rating" : 1,
+         "reference" : "CmRbAAAAfS3Q9Kl7DyZD-ElZIX5S0rx05sj82SWtkaI-TnAJZBw01Uc4q3h5yBo9K7krjEg61ceaE09wmORz0xfOEfkFEWIKBSM5sWJLiNLjnh76vkUB2KS8-PSxRQCRwsOok-NuEhD8aU-ZDfrifymLBEx0VEGLGhTfG_elC4Q4lw3tJpjrlkxt9f7Ekw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3, Arun Complex, Bh C U Shah College, Opposite High Court, Navrangpura, Ahmedabad"
+      }
+   ],
+   "status" : "OK"
+}

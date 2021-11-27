@@ -1,0 +1,891 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQD5wEAAON8hq23XQOE34vcD_LCgf5j5nrK_MWdj_p9dgNNcyyFd80Wob5bXLmaimUD-qPSrULYfqJBLZJVI4mt74A0r2KyMnkWZGNHsysifgNR-ycltpI-k6bc-6ormzGisWgDCrRkEqZdJRHcEJ009s9TWcrKpgzxDA8fd2UpUU4Sh0kvoFYHFBPJ_KHLIKHRQ1o5A5bbTI5XlWAsOeS87_wp780VIK3fNLIiBpvCMIALwN4HZniplWXSC24NPJnxME4MY0pyC0J8_norbGL8h6uhTEDBDRhQ9N4R082Mu6eBAOlHN31yKpVlXXhEUj0ige41F29wpDX0sHpSBwkgkgos5hElt4VCkNp8kxQY9EM_fs1_O6d1ZiJc9NeQry_T86kUOfjf8W54zT9CHCybyBD-OXn01Ugx0n3YG89UDIc067nXhfjrKdwZv-fPNhT1vu26-r_n4fLCMz-jXtKsCKwNHc39_s_ip-iMeQvxPw26we21o9fyWJbIWWU8T1QY5XfsTYVilDhtox22zoJWrq7GARXF2S2L-QgxzEEC_rPyW_ITfPqGZFcjBj4uvX_ttSpvKunW98c7jR9r2cRq9yHV6OiDsKjFhlsEqdU15bPmUTbj6diPlXE2xd1naxufc64ScKaUtFMH5ndTjCifOLXoq94SEJPKHEeilh7IXiru8Ekj3lkaFJNEdcToGZkbpJEG3-1XZD6kNeT8",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0719835,
+               "lng" : 72.6194532
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.07333332989272,
+                  "lng" : 72.62080302989271
+               },
+               "southwest" : {
+                  "lat" : 23.07063367010727,
+                  "lng" : 72.61810337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e09f9253956f31099b0ab9c2e26588d50e91f99b",
+         "name" : "Cafe Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117601703381125191065/photos\"\u003eShailendrasinh Jadeja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKaw9fCEHZkMB9wLe-ud_W29HMhG0IfGNt1EK3QuDkuTmfT34QTnSBwMeSCemL5YNISgWRMgu8jDbQLWT9oCWl05conXKDmY34fuOM9NbKpgKdIQeDMtv6fC1bslzs37rEhDw681spIY6JH7LFd7-Xi2dGhQJ9tHQdSfby_7_lhlaCySstRFNGQ",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJm7-_QVSBXjkRpetYqtuvvyw",
+         "rating" : 3.5,
+         "reference" : "CmRbAAAA9UoTh_cYhRjXMxsro5_Ow6gYK17Ih8sNmcOOFdzgiho8qCOVhOJ8EzgiXI2mo2o4prOs8dT50bzO1lkqQWUyBohKpxs1f0HQJ8HpGFCmqCRBBpLV9EHzAyNKZOWtC77PEhDKStJbA8KSq7iDjoCPtg_2GhRDRo9WVMh8vZbtaE0R4CP8Xl0Clw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Ahmedabad Domestic Airport, Hansol, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0436854,
+               "lng" : 72.56172889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04497397989272,
+                  "lng" : 72.56309567989273
+               },
+               "southwest" : {
+                  "lat" : 23.04227432010727,
+                  "lng" : 72.56039602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4f40d9fd3ef619ea25621f9c69093c6173b18070",
+         "name" : "Cafe Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 937,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108463694280298787612/photos\"\u003emodi mayank\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxox2GTEH0QEUdHfJF7LZJ0qBsttl1fc5fj71TSp7Yhzd3QiFWv0ilniDWVY5bwhXTwR_nmSlqefI2ZvM34giGrQm_kVnJ1tBiEAeoQEKTlkxuWLZ9_zHEF4h1sonotqeEhAwnh7QzxrV-4tFUl8CY-_wGhTIvUo6K2NbWnsSbw37FynXzBKTOw",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJsSBGB4yEXjkRsHaAJ9AaH_4",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAAoDj8dLJplmHTnRPtY9V-9-Ygj8qOY3UaNvq-x3rsqqFRCrDnF_6X8JB-CvLXvv8e0jBeaJIFbz6wqRD8vSmqI3kCThIVo2eyt-ApbJhrKdi9ONAAiyzJTaVqWEQErdqbEhBQ1FSJHnLrwrIqu6Rh8JO5GhQxcLeJLs1NWHx3Er3zSlnxJVZOzw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "8 & 9, RadhaKishan Avenue, Golden Triangle Corner, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.027,
+               "lng" : 72.57083399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02836282989272,
+                  "lng" : 72.57230302989272
+               },
+               "southwest" : {
+                  "lat" : 23.02566317010728,
+                  "lng" : 72.56960337010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3eef0851fa0a5aef2acfde65b3499043d2158af9",
+         "name" : "Café Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118249400391752574664/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5qBC67mvBpUf-ci0Kpg6IbamEs68kiMGi3NxcHfSq-zt2OVoBrxPBoEtf83G5W8LM16-9SJxw5qfBP6vSHxNSm4T0WiX92OgYKEMwEpPvfzl_7G9LD_QCdP-fzxRP2TMEhAW_n45okxnvKBqeyIi4_ooGhRMenNiRu8HwpypcjdWplkPqILadw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJbVjJd1eEXjkRFDxVPHA-pu8",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAA7pK7NEcnDYxeYLBcsqWUIcwZ1-688fS-GOtKFuLJCoAePaPrHet6opXO7Qo5JGgodc6pQulm0100q5SaSEyfw0PT-MEE-gLDi4ASm3p6HRMR2YJU9vAhjCCXt86KsTLhEhDARTT0P9EzixVzGQs2FlX-GhSlq0fAOSonbnmKQ4Y3uGf05SDvAQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside Taru Petrol Bunk, Ashram Road, Opp Nehru Bridge & Hotel Patang, Ashram Rd, Ellisbridge, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.032936,
+               "lng" : 72.565375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03428582989272,
+                  "lng" : 72.56672482989273
+               },
+               "southwest" : {
+                  "lat" : 23.03158617010728,
+                  "lng" : 72.56402517010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2a1cb02d46051b51122aa85b617a3708cfbfecab",
+         "name" : "Café Coffee Day - Mithakali",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115443968823216778849/photos\"\u003edhruvika nagori\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmKGMn39gEQYme7kSYWnt8IDCQMxZ63mi-FpqyoWg0MrvetRrm0DyZ8eJ2ApCzzqes_WU3_2LKegkdvhL3dJbu_Gep5cDOiDD3eSzClA498-zUrube2Z76XupDzEvG1ecEhBr0-SdZYKm53yXTui5rbH9GhS4fkEfbcNrW75eJusY4NwQtfGWiw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq8upefaEXjkRncFadaRA2OY",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAxNpPhRh7ZMdusobrJJWjKXEee9H9XQAnL3cksLl0v_VxhHFXqS2HhiT8vvdwYWw12paePjVJkaFEecXRtHgXNmK8LWlRCAxjoKR6Ulv-hMsM-B_epuI5oTK-qNlpxC9kEhDQQNwwsssyEp5O1joQOQWsGhQnvmYIjwPUc3WPnUsI88BZ-q3dUw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Shri Krishna Center, Netaji Road, Mithakhali, Navrangpura, Netaji Road, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0526026,
+               "lng" : 72.5712848
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.05395242989272,
+                  "lng" : 72.57263462989272
+               },
+               "southwest" : {
+                  "lat" : 23.05125277010728,
+                  "lng" : 72.56993497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "af2ec424392aff4b06ab914e02d75050065dbabf",
+         "name" : "Cafe Coffee Day - Ashram Road",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 937,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108463694280298787612/photos\"\u003emodi mayank\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXhnRL8hbuCDk1hFErfLfS_Fv5hOHBlcAo-cGWTNEjheFhb9rXDFszfpglYPf-Gne9n9GmKOX9xt9GoL16cCKV5yUqh_bxUXYShv8N3SljtvHOpnaNydLOfE-rAJLmQ8HEhBuc-42WMKJfhER9_m532AQGhRcykiFawy3TVOjPJyU4IOL2eMY6Q",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJqcnx43yEXjkRfEG12mpC71I",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAU52WqG8Cs7lU1xgeVlqqzt3SLgpjbTtvtnRASoDos3o6nEVTNySrIKln3L14MOEli5j-PfdLD5IYUmJRQVqk0b61in71zXcu_ysz6I11o2Lt-LaxFUYPIEtgksmppqW9EhCfDhl-H-kBkGPsNkvArs0QGhT2wEoWYmM6YqCXtU7ku6B4wm4U-w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Azad Building, Ashram Road, Shanti Nagar, Opp. Hotel Regenta, Shanti Nagar, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0411782,
+               "lng" : 72.5485108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04259877989272,
+                  "lng" : 72.54997662989273
+               },
+               "southwest" : {
+                  "lat" : 23.03989912010728,
+                  "lng" : 72.54727697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e1cf4e9e75dffcdad97c184ccb73362752c6f114",
+         "name" : "Cafe Upper Crust",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102945116469507526338/photos\"\u003eSrijan Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARPXv8gkWm2EJNbAezcHsaF5RS9O3BrYEzZTw3suj_PBdCfs9R1pVXLctazFJx6Ne6tTdUputd0IH14WkO5cuMQAuoDud9-GlW_cuGkX80TXE5zAFCqeUyGwxyXNKkIp_EhBAFrAX6KLDIu06lqPzzhGJGhQEPDwT5VNPJ6MmkcYfJgC-VlpC0A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC2AXQJSEXjkR0WdH26ep08s",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAAb9iSIHExMsSgOW3GmfCWrK8qUw4O4-fiEXbywoVVaM5JQCXW9Oh7M5mqK30evxvP_I0eY2ga0kNC5YyE1cdJFFxZiLnECVcykdtuxDf4mWICL7TmSfM-Mz50apLcxuZEhDIEflpwElRzFaA6StjNq1oGhRRZdphr3X8Mg0eNwOlN_s3TVKJ2w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Ground &1st Floor, Aarohi Complex, Opp Maharaja Palace, Vijay Char Rasta,, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0248831,
+               "lng" : 72.54813300000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02617312989272,
+                  "lng" : 72.54941287989273
+               },
+               "southwest" : {
+                  "lat" : 23.02347347010728,
+                  "lng" : 72.54671322010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fabde7e6fe5b2c950e987b2a26b41530df5d4ad8",
+         "name" : "The Project Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3317,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112370825809880970834/photos\"\u003eUmang Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwW61r273fBn241Zrv3v66jlszhw5xI4YjK4gTPJ6tQUgZogE0ecVt4jTC3LucZ84m942b2MjoTWqkXrx8Yox0rVDjrQUB7e-4yNleYl22S8Ty4kPrTCZZ8JL6Sc6e-ybEhC7MdD91nemr_bKytkj89eUGhT9pHdlt0LRQV-eacGCiSi5j4_7vg",
+               "width" : 4975
+            }
+         ],
+         "place_id" : "ChIJoQo8JOaEXjkR3s-Ojqz6K7c",
+         "rating" : 4,
+         "reference" : "CmRbAAAATcoOwT1aen7FxBXha_XzxcduB0GhbD28XKO2blyJtkbUHguE8hB0R0bYOu_XD2NxfsfRzjbe_Wc2fou-sx2LXxE0cf9S5livXsmW4kAFkjc3BJmCM1pGN7HtiYMFLK9DEhADswrARMG00L4YRW2UF9qBGhSc7YlE0_be7tGc9CGY2SqVXpwgIQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "art_gallery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Yellow House No. 7, Polytechnic Road, Ambawadi, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0346821,
+               "lng" : 72.56035949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03603192989272,
+                  "lng" : 72.56170932989271
+               },
+               "southwest" : {
+                  "lat" : 23.03333227010728,
+                  "lng" : 72.55900967010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fa9b06016f9e119a2baab48397c4a19420fd7c4f",
+         "name" : "Seva Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104316657227505780826/photos\"\u003eMatt Graves\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABsG0NbOUSpMxx_q-nZdi7i4JmYlOW520uhpQ95UA04_vqxwsxoFZyPUGgXDu29Wf56_ievDZnb43KPoLdlRXNFLhYxBwD1F7tkrPeLTDRJjsbcf3fIXQ05DJUfLoy2TFEhD7Rok5NPQMCnXmWD-hFlubGhS6RwBVnbqCe-olzUqKhAEyuw_ZKA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1Q6CzfOEXjkRYL1yTdxmp6w",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAwKQCt0GzvKNm25oim5YnWAYkMxkR2BhpAw_OTlW9DvWSlLoQ6WPvUrq91Wda7D8ZoTBsC8RFhaqbmGwsXasCCcZCm6IvP6m-0AihPUducKPu9d1N0s08YkqKu3jDbgZ6EhCqpjIeE58P_RDe8_Cw4WWwGhQG10yiOMFi0EGsP1dowqT1Ussnng",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "4th Floor, Shopper's Plaza, Chimanlal Girdharlal Rd, Opp Municipal Market, Abad, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0442669,
+               "lng" : 72.55054059999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04569727989272,
+                  "lng" : 72.55181992989272
+               },
+               "southwest" : {
+                  "lat" : 23.04299762010728,
+                  "lng" : 72.54912027010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "89ed4c4b95dcb6d83751943d467c65cdd2599299",
+         "name" : "The Cafe Baraco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113556790042299682720/photos\"\u003eMayur Panchamia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQCpsE3s3qikeO8Qs9hTnpVk0aV5bupdjB9r01A6Wl-vEYCujLeOA8Z7vDhmp9zgsKcF1XWlDU1FYTIhmJJ9ybzg_hXjU3tzGdRAKugCEWT3P2Z_vtE3lObGPnX0eVlhSEhDcFF1kzq8rrvXJ9AlMz_pRGhRykiCwvdpvURuQsDffopd82OmNLg",
+               "width" : 1082
+            }
+         ],
+         "place_id" : "ChIJhZpDOpGEXjkRP0u2AqA23LM",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAm15ZV-gVnc1Fj38oSi7cOgSD61PfWpJ1oGwyHiujnapG2AFbgXcUvZRPHOs4oO6YyZ0zLNxoouo72VPZD5Vkpx6uTCaMQIfXm4C1wUsd7raE9mrA_gJUsskoMC6H8DonEhAkdra5lRGngyrEzjzDa-omGhRYoe_6Nf3CCDmR1Vh14zCPx7985w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "34, Shri Bhuvan, Opp. Memnagar Fire Station, Memnagar Sarvottam Nagar, Society, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0433589,
+               "lng" : 72.56618689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04470872989272,
+                  "lng" : 72.56753672989271
+               },
+               "southwest" : {
+                  "lat" : 23.04200907010727,
+                  "lng" : 72.56483707010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "847fff00de9403055245d1b896d6e5bfa8963d1f",
+         "name" : "Karma Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103282078523533667735/photos\"\u003eChintan Desai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbgij7TRvWxyd0ZYR_w7HGSZ64xgzhsvhE8JB03l_aQWwejze-S8XX1iYQksSuS6Kb67iI1mPSUUuMo61HklyeF4RPVZaJbsCzwkdChcaCpw5bZ_l0bfL2dVkQ1onPBRAEhCAKXO4nnifG4H8_pBnheYcGhQHX16EQOkhm0-CIl3X1OJoiuWgLg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJf6QrCoqEXjkRYX5WzS7iXC4",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAAOECLxchAW0yrM1qyEINgrRxNOoxyleG2EAQPiJNGZvmPYtvjdpKd7Y5i9QYGx86t-RKWoO5tkHgkeM4AP0WC798l3DXMquCLjy1llPDP279grxoTIn4LWuDVPbITbp78EhBwi-dXYWeWUbHN009ljIz7GhRlEdDzkqwMMrTTRfP2m7Ry2FcHQw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Navjivan Trust, Gujrati Vidyapeeth Road, Sattar Taluka Society, Usmanpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0362622,
+               "lng" : 72.54971809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.03766527989272,
+                  "lng" : 72.55074502989272
+               },
+               "southwest" : {
+                  "lat" : 23.03496562010728,
+                  "lng" : 72.54804537010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ffd68c5d1421440cb31e6842c6dbbdd52ec287ce",
+         "name" : "Zen Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 638,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101709884891472510208/photos\"\u003eZen Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsrrfd0EfuvhckPK04Cq5cR4LJnVIp9IhPsbtCX7-qnwPhjXj8Mf83GfBXSyy8HdiHoPU0o8hlSFwmTBae0hci_J6rS5WDQ2mYLFxCsbwHSljdwX9zgQ0FwzbExz0mzzrEhCEjzcIN-oD6rfy2vnbONAOGhRthPvg7Aj_lnHjeVC0wj_75jHevw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ80Zy20ubXjkRPHnMPtvMPbU",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAxStshr1jBqoP9Sa-7W0B3P1rGXnkZn1xKEP1D5wFvSop2qG9qrPfW1Y-2WoeP5bVDUCMnLV1H7-w6cLsMZH3YToM1NBxdJtsSEUaTJgLlJACgtzAyCzjKQVHj1jsoLK_EhCIUuWhP9ftbdU3Ee9HYfHEGhRRcPM4hVnPIe0-QHEzptiIlvLmmA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "night_club",
+            "bar",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Amdavad ni Gufa, University Road, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0274545,
+               "lng" : 72.5525569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02879982989272,
+                  "lng" : 72.55389972989271
+               },
+               "southwest" : {
+                  "lat" : 23.02610017010728,
+                  "lng" : 72.55120007010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8d3ffee7ab6d8681c513e40ed116957358c5c207",
+         "name" : "The Mad House Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112757518201081851855/photos\"\u003eSmit Sanghvi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0an1MwBhgLZNx-1O71zDw4BEK6AaAL20vmN5Fw-aPI-5MOkRdjmc7yErOV1Doru8Ghw1GrtSKSCmFAYH9IQdorarodymA4XzMtqBMpiNSi4tvJ5qJBvxSxBZYhiVuZMbEhAJInVy1gLQ2JSSxPgPcDTZGhRIt71jIzf96lr6ql_KRqnVwz6E6w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ7b-pG--EXjkRpMZGj8nLJYA",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAv_yLj-dDQZjJW3YKsmjufxrd_v-SHTSO7O2HA3zAr0-zMrKe6rfd4n29CDLXatkR4GIafMxipOxZmtB06HBiMzPh9fYMC-uziPQArP0o56Irvso-QwFuP4KRoxYYCozhEhDq0q3Dep1Tj-nLAl6t47XUGhT8TOJ-xaGFlFyGZKXBKIjmL0NVgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "1, Gulbai Tekra Rd, Vasundhra Colony, Gulbai Tekra, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0832809,
+               "lng" : 72.6199548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.08463072989272,
+                  "lng" : 72.62130462989272
+               },
+               "southwest" : {
+                  "lat" : 23.08193107010727,
+                  "lng" : 72.61860497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8dbb98f20b606afae0651f352c24af599ed2b244",
+         "name" : "Shambhu's Coffee Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117630436300805500992/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2RchRc6_w0gcyn3R4mmb0lG8bLUYE2E5vCzGoOSmP9ArtFee9dPVIY0Nxpe7Owt40sGiGQ4XF80WEcYI4acUHtelQBUJBlLZ3LQ2KTfX_je9BMWfvyFUt6F-JMk_5tVYEhDD0Y9bu57rbMyZkB9D4QC3GhTi4c4MbNV9X3eVYPhesoMsZ2yBbA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJYzwYblmBXjkRqLUMtPGG6vE",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAgdx8pGAkUI8-RhO_bJlyWoqLNI6VUziW4qxzLq5utOIL-NvdvP_rwh5btRfpp6Qy92R6iLe1IpiSHV7Zq6Y_eR3X4YAZ0xgVDpsmeCC_P3-FxPpBZbCkaRozU6VjHTnBEhDMQbjA_TDz-mcofS2AVd31GhQpWcRIZO85GsBh_shEQwAs5lfNaw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Sai Leela Complex, Airport Road, Talauadi, Sardarnagar, Hansol, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0436503,
+               "lng" : 72.55008939999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04500012989272,
+                  "lng" : 72.55143922989271
+               },
+               "southwest" : {
+                  "lat" : 23.04230047010727,
+                  "lng" : 72.54873957010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d79027c31edea4799748fd82c6aff0032c12ba4f",
+         "name" : "Alfresco Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3455,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115716516805576221547/photos\"\u003eAl Fresco - The Fruit Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm5ZtNzpgmaIwIgPir9z5UHIGEASUwDDQeabY-0BjlarMSd6uI6Dt7gFGOVYq7plkF87m_6S0Q6ZfVhBqOGqrL-Sl9SGiBinIt5tddmPKB78_b2ErysHIhzwGGb3jBqoREhB8UHSgS7APYnh2yvCqnLtdGhTBMeakWUE9QzE1JCrplJgGPNjXdw",
+               "width" : 5181
+            }
+         ],
+         "place_id" : "ChIJVQW_1eSEXjkRDSQL-TlGdzY",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAw2eWiUWSKmp05GrQeFqlkljlML6za36uLO4eam6COmqLPAV8rEDaBmgZ1cnz2yW0kMvBdc-PiQPj1fyKXcHaVxkKlSLS-Mxx2xO229Qe2v8q8eTG11KKmh8bm4gP7VZVEhBJUzWpQatzy6kp5PzDG9ifGhTlqm97uFqLcrvRolJsK5IpGJzjbw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "101, 1st Floor, Dynamic House, Above HDFC Bank, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0522756,
+               "lng" : 72.5622152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.05362542989272,
+                  "lng" : 72.56356502989273
+               },
+               "southwest" : {
+                  "lat" : 23.05092577010728,
+                  "lng" : 72.56086537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5d6e952612eb457df8bb5202084c5e7a0bb68e19",
+         "name" : "Yuvi The Cafe Narnpura",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105677591911646201158/photos\"\u003eAarya Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ9gAwbagDH3mfmzdUFA-lWG7Db1gpKkg7Fk0GYSAieWZC-eyTeqkql6XqqPSIbC5M7mUlFj28sTIYpTfC7bSnLPeTD6ZjzOtpU40JyUkRqHEeYcynerGpWmerh8nmPEBEhCNTpwnJ1C30Lb8xymzbkK2GhQX0C8N06K3tjm3KWqVwUxGdte5CA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJSdJ-cIaEXjkRdSUTUkVlNv8",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAIF9u2yJn2634CKC3pkPkdMc1_3n_4fgTiE08cKVItR_qaHpaPOg0ilQywRRFWuZugZ3j4yh7dvvJH79neL70Wz16h4PhjlNqayrunCr0s5fVJM5RPc4VYzHkYtNHUL1yEhCjuOydeN4oPmWeCMZQjF-xGhSknjWpRHeC4s68Xzy5fIE508ArTA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Sundar Nagar, Naranpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0399114,
+               "lng" : 72.5474054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04126122989272,
+                  "lng" : 72.54875522989272
+               },
+               "southwest" : {
+                  "lat" : 23.03856157010728,
+                  "lng" : 72.54605557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c998de9c05337fadb7d570eaeb4c619aa4bba6b0",
+         "name" : "Yuvi The Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116663421284197495639/photos\"\u003eyuvi the cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlaDJ4TD0E92-9MI9JM6oG2s0Pjlq_uqDw4znoBnjVKUZX9KvF1aH4UZ55uUgdfqdBuzHpVCQp07S-FKTtLJ0_WgOpCqCB_YrkNpXDwd55qAxrHt9F-TwBHj9TTsZi9mREhCO7R44WRRDHvhszNJQc1SSGhTefsurBf_adBx6ZblGD9SrGY6tmQ",
+               "width" : 851
+            }
+         ],
+         "place_id" : "ChIJXeXU75KEXjkRxQbJBbwqo3Q",
+         "rating" : 4,
+         "reference" : "CmRbAAAAlG0ktvfjzE_ns1xF7hqjSH6__QgwEd1NE0fM59WMkaJut2tg2YVxhyy0o9QIPAPZeo6uMB3KRECSKcUWoDx_KfIzaBkKKpz5f23lqG-JyAoQZTRh68QkPr8s7wwdjyzJEhCS0kZZUvaajCYao-stZLdcGhRt3Ki-EyIl5YwAwww2E0z06jWNTg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Opp. Neelam Lutf Restaurant, Nr. University Boy's Hostel, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0146602,
+               "lng" : 72.5964463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.01627417989272,
+                  "lng" : 72.59728287989272
+               },
+               "southwest" : {
+                  "lat" : 23.01357452010728,
+                  "lng" : 72.59458322010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "878fe879193280d583d2694b5f6c58a3d39a81d8",
+         "name" : "Cafe Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101278907238300922160/photos\"\u003eDeep Agarwal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdCtDly_RqXA2caJB2w3Oc-63MZvxGZ1UUoJcu4eSys6nVPzAujMgzf5UtP_s0A_2O_olj3dW4FdbPaNVuyWXJM_EfuM-2SHqT4ClOogtzNGs4TsB636CFWH3ID8s-0UwEhBQ4zA2aeMWKtebs6jsKpR4GhSYUgwy-xhx3rNYzz5DwpkzCIa8xA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJq6qqOjWEXjkRv4e2vStAkkU",
+         "rating" : 4,
+         "reference" : "CmRbAAAATNng5Okfo432CjcSWoauW2W346Gf3gtbTEH4MxqjzhNCtPwuHie0-5XU9ZdxiiNi9MxneFn1tlikNzM4667S1d634HCMmf0814aXHBap-khQEs0MdhYpHmu1EXPSFrZsEhB6MzRmJGydwpr3LcFGboX6GhS73N72k1-5qVbuWj8P1KUU3nr1cw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside City Pulse Multiplex, 10 Acres Shopping Mall, Opp Arya Samaj Mandir, Mani Nagar, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0407308,
+               "lng" : 72.5489896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04207532989272,
+                  "lng" : 72.55024382989274
+               },
+               "southwest" : {
+                  "lat" : 23.03937567010728,
+                  "lng" : 72.54754417010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3d487e3060f2651a976a4fa29fa9303b57ead14b",
+         "name" : "All The Perks Espresso Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103305453806760689412/photos\"\u003eAll The Perks India\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVTCpwSqgGrAmRHepLTptoXkoISYLoTninfa7r7vgmzazff4_0quyzUAAwLq9RAwR2jDZVQdjmWmNAbtdLFZtITIwaBqzRYoC4K4k09rf05pL8OTc-bA5QZX8gRlGxZK9EhB5GqXeXUyQiW-ePS-3nuvwGhShPrRqlZGz_XoAepwlTIML0HaUHg",
+               "width" : 7360
+            }
+         ],
+         "place_id" : "ChIJl8OwbpSEXjkRwAORI_6d9Zw",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAruXB1ye59CVhFbZzF7mvG8jJrFWftGzecegvtpc1u9r6c0WBtOC2o8ZzLU-DE6MR3s49CG8KM78moRwktepgeB1kTSnY8R7Gjo35v7u3Q9tkgfmUOJRzGZOP--hTCDQNEhBiSQfy9SKQZZ9Gjb_RFcWjGhT-vietufBkhV85NzZOzE3YZFX17A",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "B/5 Ground Floor, Maharaja Complex, Near DTDC, Vijay Cross Rd, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0403443,
+               "lng" : 72.554085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.04169412989272,
+                  "lng" : 72.55543482989272
+               },
+               "southwest" : {
+                  "lat" : 23.03899447010728,
+                  "lng" : 72.55273517010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af5dbcdc7a6a9f613868dc3dbaa14b5be3ab78fa",
+         "name" : "Sziszaas Zero Gravity Cafe & Restro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100215096807459749235/photos\"\u003eHarsh Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA18574FND22G1H39APnye05t6Zd1Mtrr0J-9o1GWzL00Q2a8MxAqZtlK8Num4T6MS1GrpyjOKkTD1LVPaOiJCgto5Y_iUVlsn7ZPKZE3KYz6B4x5kJqafZ0K1tEpvWwPPEhBEoTQwyaR1fkrz3p0AENdWGhRFZRa9zri6KmIf3ob4bbsr-4Iztg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJNa3Qa5GFXjkR3zlxu8njIr8",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAHSXY55WwymKoUU8xw9doxc5zHe3IqykW4FqmRYxWT1DDBdSOhNbRIVQdJvvgRs7wvito7GKwEUjNy3glQO5bDrEX9QHU4xv7v8PYyFesc1Tq46_d5e2URz6aqd7binonEhDWanTTyhKwxBKpODhGExbyGhRTXHFiTr3NX7AwR-HHml4cVGyS4g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Fifth Floor Swapneel 5 Complex, above Meritorious Restaurant,, Commerce College Rd, Navrangpura, Ahmedabad"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 23.026442,
+               "lng" : 72.55820899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.02779182989272,
+                  "lng" : 72.55955882989272
+               },
+               "southwest" : {
+                  "lat" : 23.02509217010728,
+                  "lng" : 72.55685917010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4a421cddb70309bcde170af40b050055c9fc8a0c",
+         "name" : "Cafe Coffee Day - Navrangpura",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114379856074218786532/photos\"\u003eAwesome Videos Ever\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5urG1fklLb1GOQWtc8FGXBGmLzGBMEfIlE4YPxshGLk2b2PfSelJmzOVzXdURMWdpcDhJsAdzItCla5FDn_AR1Nxp770wT_AgFM14tnPyCqr5_qfBIMleeSSSOfSIdqiEhDPmhNhuKkLblM_7yewVrGTGhQbKTmPRddQopjJx_DIzVNttGDw9g",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJWUaqgvqEXjkRrIP5Wb1pHOA",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAaVPsUfZIF0Ru3d-4Qy2PkZESieAAhrjHQfhT2V1GeEq9Xm-g4Z3M-Qxgum3oMKkaI1XE6YO6X10NwX1782JxJtWqJ6OX4XlphcJifXzZzr0DzWHN3CRwPYnujsXyIdFxEhDSVgqc8lVR6hYhaMs4LQcgGhSiJv0pYS1zZuvNMCJytF16pM9y7w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside Sachet-2, Off Cg Rd, Navrangpura, Opp Law College, Ahmedabad"
+      }
+   ],
+   "status" : "OK"
+}

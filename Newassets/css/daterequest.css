@@ -1,0 +1,196 @@
+.flyout.box-flyout{300px !important;}
+
+.sendXMPPMessage #sortable{position: absolute;top:-50px}
+
+.Preference-icon img{width:46px}
+
+.places {
+
+    background-color: beige;    
+
+    font-size: 9px !important;
+
+}
+
+.daterequestdatetime {
+
+    background-color: pink;
+
+}
+
+#daterequestmodal .modal-header{ background: #000;color: #fff;border-radius: 3px; }
+#daterequestmodal .close { color: #fff !important; opacity: 1 !important;}
+#daterequestmodal .modal-footer .btn,.btnsendrequest{ 
+    background: #ffbc05;
+    border: none;}
+#daterequestmodal .daterequesticons { text-align: center; }
+#daterequestmodal .places { background: #fff;    max-height: 450px;overflow: auto;overflow-x: hidden; }
+#daterequestmodal .place.row { margin-bottom: 10px; }
+#daterequestmodal .place-title { font-size: 14px; padding-left: 0px; font-family: 'Montserrat',sans-serif;}
+#daterequestmodal .place-title i { margin-right: 4px; }
+#daterequestmodal .place-title span { display: block; font-family: 'Montserrat',sans-serif;}
+#daterequestmodal .place-title span.rating i { color: #ffbc05; }
+#daterequestmodal .place-img img { width: 100%; cursor: pointer;}
+#daterequestmodal .daterequestdatetime { background: #fff; }
+#daterequestmodal .xdsoft_datetimepicker .xdsoft_datepicker { width: 83%; }
+#daterequestmodal .btnsendrequest { display: block; color: #fff;padding: 4px 10px;border-radius: 5px; cursor: pointer;}
+#daterequestmodal .xdsoft_datetimepicker.xdsoft_inline {width: 100%;}
+#daterequestmodal .Preference-icon img { cursor: pointer; }
+
+#conversejs #controlbox .controlbox-head,#conversejs .chat-head.chat-head-chatbox,#conversejs .chatbox .sendXMPPMessage .chat-toolbar { background: #fff !important; }
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar { height: 33px !important; }
+.profile-cntn { margin-top: 0; }
+
+#conversejs .chatbox .box-flyout {border: none !important;}
+#controlbox.chatbox .box-flyout {border-right: 1px solid #e2e2e2 !important;}
+#conversejs #controlbox .controlbox-head {padding:0 !important; border-bottom:1px solid #e2e2e2;}
+#conversejs #controlbox #controlbox-tabs li a.current, #conversejs #controlbox #controlbox-tabs li a.current:hover {color: #ffbc05;border-bottom: 2px solid #ffbc05; height: 62px; font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+#conversejs #controlbox, #conversejs #controlbox .box-flyout {min-width: 290px !important;}
+#conversejs .chatbox, #conversejs .chatbox .box-flyout {    width: -webkit-calc(100% - 290px); width: calc(100% - 290px);}
+#conversejs #controlbox #users {padding: 0;}
+
+#users .set-xmpp-status {padding: 15px;margin: 0 !important;}
+#users .set-xmpp-status .fancy-dropdown {height: 40px !important;border-radius: 0px !important;}
+
+#conversejs #converse-roster .roster-filter-form {display:none;}
+
+#conversejs #controlbox .fancy-dropdown .choose-xmpp-status, #conversejs #controlbox .fancy-dropdown .toggle-xmpp-contact-form {line-height:40px;}
+#conversejs #controlbox #fancy-xmpp-status-select a.change-xmpp-status-message {line-height: 40px;}
+
+#conversejs #converse-roster.no-contact-requests{margin:0; border-top: 1px solid #e2e2e2;}
+
+#conversejs #converse-roster .roster-contacts .roster-group .group-toggle {display: none;}
+#conversejs #converse-roster .roster-contacts .roster-group li {padding:0; border-bottom: 1px solid #e2e2e2; height:50px; line-height: 50px;}
+#conversejs #converse-roster .roster-contacts .roster-group li .open-chat, #conversejs #converse-roster .roster-contacts .roster-group li .open-chat:hover, #conversejs #converse-roster .roster-contacts .roster-group li .open-chat:focus {width:100%;color: #9a9a9a; padding: 0 20px;}
+
+#conversejs #converse-roster .roster-contacts .roster-group li:hover {background: #f5f5f5;}
+#conversejs #converse-roster .roster-contacts .roster-group li .open-chat {text-transform: capitalize;}
+#conversejs #converse-roster .roster-contacts .roster-group li .open-chat .avatar, #conversejs #converse-roster .roster-contacts .roster-group li .open-chat .contact-name {height: auto;     font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 300;}
+
+#conversejs .chat-head.chat-head-chatbox {border-bottom: 1px solid #e2e2e2; height:63px; padding:0 15px;}
+#conversejs .chat-head .avatar {border-radius:50%;}
+#conversejs .chatbox .chat-title {color:#323232; text-transform: capitalize;font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+#converse-embedded-chat .chatbox .chat-body, #conversejs .chatbox .chat-body {height: -webkit-calc(100% - 63px);height: calc(100% - 63px)}
+
+#converse-embedded-chat .chatbox .sendXMPPMessage .chat-textarea, #conversejs .chatbox .sendXMPPMessage .chat-textarea {height: 67px;}
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar {background: #ffbc05 !important;}
+
+#conversejs .chatbox .sendXMPPMessage .chat-textarea:focus {outline:0;}
+
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar li .toolbar-menu {box-shadow: -1px -1px 2px 0 rgba(0, 0, 0, 0.1);}
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar li .toolbar-menu ul.emoji-picker {overflow-y:scroll; overflow-x:hidden;}
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar li .toolbar-menu ul.emoji-toolbar {border-top:1px solid #e2e2e2; box-shadow: none;}
+
+#conversejs .chatbox .chat-content {padding:15px;}
+
+#conversejs .chatbox .chat-body .chat-message.message-from-me {
+    background: #f0f7fb;
+    border-radius: 4px;
+    font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#conversejs .chatbox .chat-body .chat-message.message-from-them {
+    background: #ffbc05;
+    border-radius: 4px;
+    font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#conversejs .chatbox .chat-body .chat-message.message-from-them .chat-msg-them, #conversejs .chatbox .chat-body .chat-message.message-from-them .chat-msg-content {
+    color: #fff !important;
+}
+#conversejs #converse-roster .roster-contacts .roster-group li .open-chat .msgs-indicator {
+    background-color: #3AA569;
+    opacity: 1;
+    border-radius: 10%;
+    padding: 0 0.2em;
+    font-size: 12px;
+    position: absolute;
+    height: auto;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    top: 15px;
+    right: 10px;
+}
+#conversejs #controlbox #controlbox-tabs li a.contacts-tab .msgs-indicator {
+    background-color: #3AA569;
+    background-color: #3AA569;
+    opacity: 1;
+    border-radius: 10%;
+    padding: 0 0.2em;
+    font-size: 12px;
+    position: absolute;
+    height: auto;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 23px;
+    border-radius: 50%;
+    top: 15px;
+    right: 10px;
+}
+#conversejs #controlbox #fancy-xmpp-status-select input {
+    height: 38px;
+    width: -webkit-calc(100% - 40px);
+    width: calc(100% - 70px);
+    padding: 0 0 0 0.5em;
+    border: none;
+    box-shadow: none;
+    border: 1px solid #e2e2e2;
+    border-radius: 0;
+    border-right: 0;
+}
+#conversejs #controlbox #fancy-xmpp-status-select input[type=submit] {
+    height: 38px;
+    width: 70px;
+    padding: 1px;
+    float: right;
+    border-radius: 0;
+    margin-right: 0px;
+    background: #ffbc05;
+    border: 1px solid #ffbc05;
+}
+#conversejs #controlbox .fancy-dropdown {border:1px solid #e2e2e2;}
+#conversejs {
+    background:#fff;
+}
+@media screen and (max-width: 767px) {
+    #daterequestmodal .place-title {
+        padding-left: 15px; 
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #conversejs .chatbox {
+        height: auto;
+        width: 100%;
+    }
+    #conversejs #controlbox, #conversejs #controlbox .box-flyout {
+        min-width: 100%;
+        width: 100%;
+    }
+    #converse-embedded-chat .chatbox .box-flyout, #conversejs .chatbox .box-flyout {
+        height:400px;
+        width: 100%;
+    }
+    #controlbox .box-flyout {
+        position: relative;
+    }
+    #conversejs .input-button-group {
+        width: 100%;
+    }
+    #conversejs #controlbox #fancy-xmpp-status-select input[type=submit] {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
+@media screen and (max-width: 380px) {
+    #converse-embedded-chat .chatbox .box-flyout, #conversejs .chatbox .box-flyout {
+    height: 300px;
+}
+}

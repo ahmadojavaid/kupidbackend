@@ -1,0 +1,462 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.6738677,
+               "lng" : 72.97730949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.67521752989272,
+                  "lng" : 72.97865932989271
+               },
+               "southwest" : {
+                  "lat" : 21.67251787010728,
+                  "lng" : 72.97595967010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d0ec9d48936dfc85e4f01b0b17027444709611a3",
+         "name" : "Candy Beach",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102180762533983363179/photos\"\u003eprajwal poojary\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEOhzJdSV-mKaHSPJOjk25Vjnsftb202ajnwbft66fnALNGCox76uvkvOyjVbzaXBR9U-oqtJhArXLwjgLB_O7QvZgEU0yQVcGe1uIY0qj2inlWYb2Cp2B6pzuQrMTcE1EhCP3R6yzDds5f2JAXPEbb7qGhTpyR1lbeLkWHl3TAm3JHgS9G8M0w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJkzknHtkm4DsRWeYlxDvx_Is",
+         "rating" : 3.5,
+         "reference" : "CmRbAAAAIxsrFTfrBA7Q8JurHD9cjl15INCIJxObr7HE4isg9A2qg-gGap9JVftrPaZ-eUjFRMJucvJUYC-5iZNM58mcuyuJKvwIO10x2pLn1-WT_Js8ACii3qChvYCI70-jVkjjEhCIhwqHBgzPTEo1tW_9XiJzGhQBpNgte_ge44WjTXu_287X-LuFAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Borbhatha"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.715367,
+               "lng" : 73.018186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71671682989272,
+                  "lng" : 73.01953582989272
+               },
+               "southwest" : {
+                  "lat" : 21.71401717010728,
+                  "lng" : 73.01683617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "52154cf910490a2fbb39ff4458b254e026cc2bb2",
+         "name" : "AAPKA HOLIDAYS LTD",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115062271431348134076/photos\"\u003eAAPKA HOLIDAYS LTD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEoSA2SKylSs_kFyflqM0mxr2MwDLy4nNeLOpT5YFvyEF8q_PjajM333pkEelXd-Kv0ColEEnng5Xwe4L9bL_gaSkx21KFpP4hkSlN5l2EGRrxLDeFMdjQYi23JrSTLJAEhAJqp2Tt6_Bv42F9tso6YSWGhShwX2bg1-QG7ykqEoVEwbRz7aqOQ",
+               "width" : 1143
+            }
+         ],
+         "place_id" : "ChIJCbp89Jcg4DsRpYFXu6e4tDU",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAADJ7gZ-7ceKp9nAuLTxs_H34LW624fkPUTxFJnowM8CmlUAgxeZnw_JpgR4v9d-j7SmsAMtoabJYw89Ws61M8PIyXX7S0QbDW0zoengdKyFCPOPe39m1YKDWCGlVhJzAqEhBPT7Y5V60nAhgQYU8FhufRGhSm8jobzUOjctS4hSCqX4kfsJj6eA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "24, 25, SHREE RANG COMPLEX, Zadeshwar Rd, Behind OBC Bank,, Aalekh Society, Bholav,, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7252231,
+               "lng" : 73.00700429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72657292989272,
+                  "lng" : 73.00835412989271
+               },
+               "southwest" : {
+                  "lat" : 21.72387327010728,
+                  "lng" : 73.00565447010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "35a18cef47a7d24ca7c3b7ef749e7965e812b546",
+         "name" : "Regenta Central Harimangla",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103820109692758326452/photos\"\u003eRegenta Central Harimangla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACizG9_AjpoVdA7vM1x8_6YeeDjOIZez-ZJq0xyOjjpivOT2tvScFZQvxFiXs5PkFjrvANCwblbZ5VcFZi8yZ58xbaVZ4Y-qNnqpKf5ul5XwU0nqqLJPam7IvnBFKnmPIEhAVFQMnIlNwVbYMhyBG_qXiGhSTgcJA2Xvp1nzyKPTn-d5TatavGQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJIySSkacg4DsRTtARjNXMr1w",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA-gfsu7Sy7lLyXhUqYBsk6REe6HiSbAOn-kPTQoC7D9pb0H9ebXaX73ljFORGSmtkWcdwc4Gh4mpHdM6w7XHLMfWL8PNwHRe1KmpsJRCxxvTxBklq95DZ4nPRUbTVsFiAEhCUtCsRcd-DahJEaqyX2N-jGhQgSIsLOvEZlUULwpZ7P73_wYPr8A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Near ABC Circle, Old N.H. 8, Bholav, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7321521,
+               "lng" : 73.0375761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.73350192989273,
+                  "lng" : 73.03892592989271
+               },
+               "southwest" : {
+                  "lat" : 21.73080227010728,
+                  "lng" : 73.03622627010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c8fbdc7fc102c4088f6498b834fad8a0773ecd6",
+         "name" : "Neel Garden Restaurant",
+         "place_id" : "ChIJVVVVVX6KXzkRmlF6Igdfxu0",
+         "rating" : 3,
+         "reference" : "CmRbAAAAQ92DqMBiSiIq15UszctIx0NV2QExx-7RSJmRo8uq6R8U7o4kxF0_ZtlG9uU3Xt8vYrMoXTWQPnmO1wuZv7CwGl5PvptRay8G2Hq3aLT1m7CzfYKuPj92v_ICZc9hbdWoEhC50MvbTWNqsW4mqLcuqLgNGhQYX_2mPA7v4FhnkatHYL5odaisOg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Shakti Chamber, Zadeshwar Chokdi, Bh Police Station, Zadeshwar Chokdi, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.724864,
+               "lng" : 73.00130969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72621382989272,
+                  "lng" : 73.00265952989272
+               },
+               "southwest" : {
+                  "lat" : 21.72351417010728,
+                  "lng" : 72.99995987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2b01208a0a94b35d07dd0c62f803f0e4bd9f7cdf",
+         "name" : "Aman",
+         "place_id" : "ChIJd6Tt2qkg4DsRgp4zy7FWRkw",
+         "rating" : 3.5,
+         "reference" : "CmRbAAAAKJlGEH2wBAG7c7lcCL0n9pKvg7Ah7kIooIl60tNPO57bOazMEuhwbzr8oU-V6g9uxIoPcmSHBEBekVvW48JgVCDfCWDXCa8kTErYP4w_4oFLdEZFbdBPh22pj1vIE2m1EhDZxz3PelT9T2oEvynxfF6NGhQTQ3WNeaiAvfC4mCkUKZu6Ozmang",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "3, Kasak Main Road, Kasak, Near Video World, Kasak, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.6989006,
+               "lng" : 72.98399169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70025042989272,
+                  "lng" : 72.98534152989271
+               },
+               "southwest" : {
+                  "lat" : 21.69755077010728,
+                  "lng" : 72.98264187010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "535d3508d1a4ae6900633e5cd24de8a038b26bfe",
+         "name" : "Holy Cross Hospital",
+         "place_id" : "ChIJrfLQiTUn4DsREbkPvUeEUiw",
+         "reference" : "CmRbAAAAuCwtI9KPF0h0dlArh6AFOFfxoUPj-XlOy2CR-onIY1rbG-86J8mR8nz29Fqy1aObQqcqEo3MXp9I9Ke_bNTz95mYIn0Tq_PgDuM2vtp13MUGPwXRnPxKeAacjAQAhkq7EhDlj8SJEP5y6ZMDId70bMpOGhTk9b6d0Mepp4heBBirXzIFYwaAvg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "1st Floor, Shalimar Complex, Station Road, Station Road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7033245,
+               "lng" : 72.9995584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70473932989272,
+                  "lng" : 73.00119902989273
+               },
+               "southwest" : {
+                  "lat" : 21.70203967010728,
+                  "lng" : 72.99849937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4e73b8de8247cf85c2ca33b75bdd429b8b97b874",
+         "name" : "Railway Enquiry",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJE__2C7Yg4DsRU8ISIXwNLt8",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAAMYBvE787CUu_HsGIvQrLmkXN0IwweLuFy8sH79SmKEOnUj8IVzBf33bPKs8kgsR65653KXrJuN6XAeEJHlI5hTQkKNJQVDhS1vmWc5V6QQYZbaOzc-5OZ-FDvLQJ-c0CEhDBwilUGNn7M23zey1FcBU1GhTmL1-RTtbRmvi5-qqWPNjluh6FoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "Bharuch Railway Station, GJ SH 64, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7152423,
+               "lng" : 73.017196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71659212989272,
+                  "lng" : 73.01854582989272
+               },
+               "southwest" : {
+                  "lat" : 21.71389247010728,
+                  "lng" : 73.01584617010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c2b463a79ad0e50b377a8475f45433fc3bd28d62",
+         "name" : "Café Coffee Day - Bharuch",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116018901230583122012/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMtO_vhsJqLA9jms4m7qLzK6c05jxoXvAqPOWGscT1BVkJ_GPyJaEcoI4VXp5504Ol3QIq2wS_TY6I_PKi-YW-nlXPJn7VDnxhAKICBRfnOWYW6_UQOlr0HGxH0rQquO6EhA_R3JVpw4QcuTsRtehiQnGGhTfJDIp_Gfnj-oeiFDFB1FXeVq8Wg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJvTUR8Zcg4DsRT27mb8nEVKA",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAY7FmciinyAomq9zmLk_BaesEanL5Kzb3VrUGSFLN6RbNSeVIUTaH19-4KcetInIQ2ypPW5_tZ9HKIBCqR0_4nXgFLPkPeM5GgK0Hl_f4wp4K5MZkTk1YZnqsWYTjs31YEhAWJfY_NfY4jiGWJonMDj8YGhTmmIkC_p6KPvPXwBjb-eiQWm5jdA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1, Jk Complex, Jadeshwar Road, Near Inox Multiplex, Jadeshwar Road, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.6999492,
+               "lng" : 72.9853964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70129902989272,
+                  "lng" : 72.98674622989272
+               },
+               "southwest" : {
+                  "lat" : 21.69859937010728,
+                  "lng" : 72.98404657010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "23e0017e113256803123f058370de1c61ba4ff9d",
+         "name" : "Famous Footwear",
+         "place_id" : "ChIJA4kuOzYn4DsRkzU32SqhVOU",
+         "reference" : "CmRbAAAATf9vZwllpruopjeSBd9sbmYcj5drV3jK-JSqQ881iUFbuJiLTJp-ypyil6QCBgvRGNuZttwe3E3jgjE_msw3UMI4OXCThft3Of5jEfqo4hQn9v_bG_Trk7yoJuuQXYJKEhAYMv0vQWYm_cRbe8vy1P44GhSKFuJG8WU9SGSOzsenrJz7xVfdWw",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "2 Prithvinagar Station Road, Panchbatti, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7184655,
+               "lng" : 72.9858275
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.71982017989272,
+                  "lng" : 72.98728192989272
+               },
+               "southwest" : {
+                  "lat" : 21.71712052010728,
+                  "lng" : 72.98458227010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cf6c3139961455a30b55c8b2902d70498e6a40b8",
+         "name" : "Jn Group",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ51rtyVYn4DsReNmgimy4VAg",
+         "reference" : "CmRbAAAAh_mt5sWBeRD9-jMGbTvtwCPkQrXDK8N3JgTX8P5psqdo4hAVuARs1nM0dv1AvafWihmepxVTw_i5CWzFATGp86S1f9xrNoOfwaP7ImhzJ7r7RtNBGxnfVFn_HP7zuqeNEhCq-OyoXNvgJxyjPuN-f0K-GhQKwMfhTx4_t_1tEQU3OibAlbeDMA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "sliver squre, GF- 25, Nipan Nagar Link Rd, Oppsoite HDFC Bank, Alfa Society, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7039296,
+               "lng" : 72.98648709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70527942989272,
+                  "lng" : 72.98783692989271
+               },
+               "southwest" : {
+                  "lat" : 21.70257977010728,
+                  "lng" : 72.98513727010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "6064403e37fc19dbc880bfde45a50295cd976f2c",
+         "name" : "YES BANK ATM - Bharuch Branch, Bharuch Branch - Gujrat (WBHAB358)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTescd0kn4DsRqza2A3aRxSM",
+         "reference" : "CmRbAAAAAZjigb3ARF-Ro5WItreFtofCb3jM6ete8Ea379RNgJM4g8GL2hEpTBH1Xow-irTDeYcJeLIKT6HbAmOdL_XaDkbTUZfvRuA4kmkvQfXTOpH_O1PV3onRAnX1DdG0klxCEhBAODr3wtaN1YGhwadXpAQ1GhSP5VAOkUgYIPqKuRH7d894vhon3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Ground Floor, Blue Chip, Sevashram Road, Paanch Batti, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7045315,
+               "lng" : 73.00262649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70568492989272,
+                  "lng" : 73.00414377989273
+               },
+               "southwest" : {
+                  "lat" : 21.70298527010728,
+                  "lng" : 73.00144412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "a1120a4f1523180c2c0fbcfe5c389e7f2c1f5fe6",
+         "name" : "IDBI Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJYSCjsbcg4DsRhAndoYwinYg",
+         "rating" : 5,
+         "reference" : "CmRbAAAAnfU46pDSsO_pq5QcC-gxYcQTH0oiBhTvGM6lyOtvddxrCLPzndIK29ZvyDQctsO1HVLHE8SOQquJ83WP7Cv6qlERD7qlTVVJh4KFV3AYsGP-GIVlpo0fUle_wjHIArlFEhBmbGlttuMrFYzNx2X5r-ECGhQXVDJhWer1kMECN-ua2IO-8Q7rYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Shree Mangalam Complex, Zadeshwar Rd, Ksak Circle, Maktampur, Bharuch"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7218693,
+               "lng" : 72.9955673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.72321912989272,
+                  "lng" : 72.99691712989272
+               },
+               "southwest" : {
+                  "lat" : 21.72051947010728,
+                  "lng" : 72.99421747010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b0cae5de31fd63b1520ae6da298969f98d28da1",
+         "name" : "Air Products",
+         "place_id" : "ChIJdabHAqsg4DsR68CxMX-1yBI",
+         "rating" : 3,
+         "reference" : "CmRbAAAA_zohxqDto-QVAmL49S2GrheGIFoSOOcGbyjsvvO0HrNN8gu-I2xGqNstQMdZ1BXAMfv4gXQXxcBC4ZRf5xtlIoVwXCRz8hsjTYE-xUU_diC2hn3RYstU1DszZtzFHfCIEhCDG_OPcx1M9vf_PrbEfBPjGhTS1KyL8b1mY7wODAjEn5Q8VwVDfw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Nandelav, Bholav Part"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.7015495,
+               "lng" : 72.9915949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.70294037989272,
+                  "lng" : 72.99293322989271
+               },
+               "southwest" : {
+                  "lat" : 21.70024072010728,
+                  "lng" : 72.99023357010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "0a7ef50d21a96585899ecdbe6e12760ba45faf1e",
+         "name" : "Indian Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJa1H0nkon4DsRKQvXi721xQk",
+         "rating" : 4,
+         "reference" : "CmRbAAAAwU6FUn-ytjCcFFrM6A7D0lvPYxlvY48uUwZYZehAdQwdk99vIpTFisSrpy4qHz41Q8GaqkKtyQ-FEDHuMu7H_RDq-c3atXWN_ceCk_FlzDDnkaLw_UVFQpsTZbwQFLCuEhBrbziZVdZFOyUGSHvQspYrGhSnjHmGy9iAjpwGvs3Cojur0V3OTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Shalimar Complex, B-10-3, Railway Station Rd, Near Big Bazar, Old Town, Bharuch"
+      }
+   ],
+   "status" : "OK"
+}
